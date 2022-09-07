@@ -56,18 +56,18 @@ Academic Experience
 
 Administrative Positions Held
 ====
-* Founder and Chair, Division of Software Engineering, İzmir Katip Celebi University, İzmir/Turkey, July 2019-present.
-* Vice Head, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, May 2019-July 2022.
-* Chair, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
-* Vice Head, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, February 2018-April 2019.
+* **Founder and Chair**, Division of Software Engineering, İzmir Katip Celebi University, İzmir/Turkey, July 2019-present.
+* **Vice Head**, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, May 2019-July 2022.
+* **Chair**, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+* **Vice Head**, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, February 2018-April 2019.
 
 Research Interests
 ====
 Engineering & Computer Science
--	Data Mining / Data Science
--	Text Mining / Sentiment Analysis
--	Machine Learning / Deep Learning
--	Artificial Intelligence / Intelligent Systems
+-	**Data Mining / Data Science**
+-	**Text Mining / Sentiment Analysis**
+-	**Machine Learning / Deep Learning**
+-	**Artificial Intelligence / Intelligent Systems**
 
 
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
