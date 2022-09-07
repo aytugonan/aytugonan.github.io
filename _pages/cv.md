@@ -17,33 +17,32 @@ Associate Professor of Computer Science and Engineering
 
 Division of Computer Software, Department of Computer Engineering, 
 Faculty of Engineering and Architecture, İzmir Katip Çelebi University, 35620, İzmir/Turkey. 
-Phone: +90 (551) 638 39 87
-Email: aytugonan@gmail.com OR aytug.onan@ikc.edu.tr Personal Homepage: http://aytugonan.cbu.edu.tr
 
-Web of Science Researcher ID: L-4613-2018
-ORCID: 0000-0002-9434-5880
-PUBLONS: https://publons.com/researcher/1279575/aytug-onan/ 
-Google Scholar:
-https://scholar.google.com.tr/citations?user=cdUqOj0AAAAJ&hl=tr&oi=ao
+* Phone: +90 (551) 638 39 87
+* Email: aytugonan@gmail.com OR aytug.onan@ikc.edu.tr 
+* Personal Homepage: aytugonan.github.io 
+* Web of Science Researcher ID: L-4613-2018
+* ORCID: 0000-0002-9434-5880
+* Web of Science Profile: https://www.webofscience.com/wos/author/rid/L-4613-2018
+* Google Scholar: https://scholar.google.com.tr/citations?user=cdUqOj0AAAAJ&hl=tr&oi=ao
 
-Dr. Aytuğ Onan received his BS. in Computer Engineering from Izmir University of Economics (Turkey) in 2010. He earned his MS in Computer Engineering and PhD in Computer Engineering from Ege University (Turkey) in 2013 and 2016, respectively. He has been working as "associate professor" since April 2019 at the Department of Computer Engineering of Izmir Katip Celebi University (Turkey). He has been reviewing for several international journals including Expert Systems with Applications, Plos One, International Journal of Machine Learning and Cybernetics, Journal of Information Science. He has published several journal papers on machine learning and computational linguistics. Dr. Onan entered the list of “Most Influential Scientists of the World- 2020” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide. The international team created the list based on citation numbers, H-index values that measure the cumulative impact of an author's scholarly output and performance and publications to citations, co-authorship, and career-long impact factors of scientists.
+Education
+====
 
+* Associate Professorship: Interuniversity Council (ÜAK), Field: Computer Science and Engineering, December 2018.
 
-Associate Professorship: Interuniversity Council (ÜAK) Turkey, Field: Computer Science and Engineering, December 2018.
+** Ph.D. Degree in Computer Engineering, Ege University, İzmir/Turkey, July 2016.
 
-Ph.D. Degree in Computer Engineering, Ege University, İzmir/Turkey.
+* Thesis title: The development and implementation of machine learning based algorithms for sentiment analysis. Advisor: Professor Serdar Korukoğlu, Co- Advisor: Associate Professor Hasan Bulut
 
-Thesis title: The development and implementation of machine learning based algorithms for sentiment analysis. Advisor: Professor Serdar Korukoğlu, Co- Advisor: Associate Professor Hasan Bulut
+* MSc. Degree in Computer Engineering, Ege University, İzmir/Turkey, January 2013.
 
-MSc. Degree in Computer Engineering, Ege University, İzmir/Turkey.
+** Thesis title: Metaheuristic Algorithms for Cluster Analysis. Advisor: Professor Serdar Korukoğlu
 
-Thesis title: Metaheuristic Algorithms for Cluster Analysis. Advisor: Professor Serdar Korukoğlu
+* BSc. Degree in Computer Engineering, Izmir University of Economics, İzmir/Turkey, June 2010.
 
-BSc. Degree in Computer Engineering, Izmir University of Economics, İzmir/Turkey.
-
-
-
- 
+Academic Experience
+==== 
 
 Associate Professor, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
 
