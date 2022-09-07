@@ -31,39 +31,38 @@ Education
 
 * Associate Professorship: Interuniversity Council (ÜAK), Field: Computer Science and Engineering, December 2018.
 
-** Ph.D. Degree in Computer Engineering, Ege University, İzmir/Turkey, July 2016.
+* Ph.D. Degree in Computer Engineering, Ege University, İzmir/Turkey, July 2016.
 
 * Thesis title: The development and implementation of machine learning based algorithms for sentiment analysis. Advisor: Professor Serdar Korukoğlu, Co- Advisor: Associate Professor Hasan Bulut
 
 * MSc. Degree in Computer Engineering, Ege University, İzmir/Turkey, January 2013.
 
-** Thesis title: Metaheuristic Algorithms for Cluster Analysis. Advisor: Professor Serdar Korukoğlu
+* Thesis title: Metaheuristic Algorithms for Cluster Analysis. Advisor: Professor Serdar Korukoğlu
 
 * BSc. Degree in Computer Engineering, Izmir University of Economics, İzmir/Turkey, June 2010.
 
 Academic Experience
 ==== 
 
-Associate Professor, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+* Associate Professor, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+ 
+* Courses Given: Artificial Neural Networks, Artificial Intelligence.
 
-Courses Given: Artificial Neural Networks, Artificial Intelligence.
+* Assistant Professor, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, January 2017-April 2019.
 
-Assistant Professor, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, January 2017-April 2019.
+* Courses Given: Algorithms and Programming, Computer Organization, Operating Systems, Expert Systems, Artificial Intelligence, Algorithm Design, Database Management Systems, Discrete Computational Structures, Deep Learning, Data Structures.
 
-Courses Given: Algorithms and Programming, Computer Organization, Operating Systems, Expert Systems, Artificial Intelligence, Algorithm Design, Database Management Systems, Discrete Computational Structures, Deep Learning, Data Structures.
+* Research Assistant, Department of Computer Engineering, Ege University, İzmir/Turkey, December 2010-January 2017.
 
-Research Assistant, Department of Computer Engineering, Ege University, İzmir/Turkey, December 2010-January 2017.
+Administrative Positions Held
+====
+* Founder and Chair, Division of Software Engineering, İzmir Katip Celebi University, İzmir/Turkey, July 2019-present.
+* Vice Head, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, May 2019-July 2022.
+* Chair, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+* Vice Head, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, February 2018-April 2019.
 
-
-
-Vice Head, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, May 2019-present.
-
-Chair, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
-
-Vice Head, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, February 2018-April 2019.
-
-
-
+Research Interests
+====
 Engineering & Computer Science
 -	Data Mining / Data Science
 -	Text Mining / Sentiment Analysis
@@ -71,10 +70,8 @@ Engineering & Computer Science
 -	Artificial Intelligence / Intelligent Systems
 
 
-
-
-
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
+====
 
 1.	Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences. 
 2.	Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
@@ -100,11 +97,13 @@ International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 22.	Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
 
 Other International Journal Papers
+====
 
 1.	Onan, A. (2018). Sentiment analysis on Twitter based on ensemble of psychological and linguistic feature sets. Balkan Journal of Electrical and Computer Engineering, 6(2), 1-9.
 2.	Onan, A., Korukoglu, S., & Bulut, H. (2016). LDA-based Topic Modelling in Text Sentiment Classification: An Empirical Analysis. Int. J. Comput. Linguistics Appl., 7(1), 101-119.
 
 Book Chapters
+====
 
 1.	Onan, A., Atik, E., & Yalçın, A. (2021). Machine learning approach for automatic categorization of service support requests on university information management system. In  Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1133-1139). Springer, Cham.
 2.	Toçoğlu, M.A., & Onan, A. (2021). Sentiment analysis on students' evaluation of higher educational institutions. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1693-1700). Springer, Cham.
@@ -120,6 +119,7 @@ Book Chapters
 12.	Onan, A. (2015). Artificial immune system based web page classification. In Software engineering in intelligent systems (pp. 189-199). Springer, Cham.
 
 National Refereed Journal Papers
+====
 
 1.	Onan, A. (2022). Türkçe metin madenciliği için çalışan bellek bağlantıları tabanlı uzun kısa süreli bellek mimarisi. Avrupa Bilim ve Teknoloji Dergisi, 2022.
 2.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
@@ -144,6 +144,7 @@ National Refereed Journal Papers
 21.	Onan, A. (2013). Metasezgisel yöntemler ve uygulama alanları. Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 17(2), 113-128.
 
 International Conference Proceedings
+====
 
 1.	Onan, A. (2021). Identification of Deceptive Opinion Spam Based on Deep Neural Networks. In IAC in Budapest 2021.
 2.	Onan, A. (2021). Spatiotemporal Analysis of Social Media Posts on COVID-19 Based on Topic Modelling. In VIAC2021 - COVID-19.
@@ -183,6 +184,7 @@ International Conference Proceedings
 
 
 National Conference Proceedings
+====
 
 1.	Onan, A. (2018). Psikolojik ve dilbilimsel özniteliklere dayalı istenmeyen inceleme metni belirleme.SİU 2018- 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
 2.	Onan, A. (2018). Topluluk öğrenmesine dayalı öznitelik seçimi ve metin sınıflandırmada uygulanması. SİU 2018- 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
@@ -194,52 +196,54 @@ National Conference Proceedings
 8.	Onan, A., & Korukoğlu, S. (2015, May). Ensemble methods for opinion mining. In Signal Processing and Communications Applications Conference (SIU), 2015 23th (pp. 212-215). IEEE.
 9.	Onan, A. (2014). Öğrenci bilgi sistemi verileri üzerinde veri madenciliği sınıflandırıcılarına dayalı başarı durumu tahmini. YBS 2014- Yönetim Bilişim Sistemleri Konferansı.
 
+Reviewer for
+====
+-	IEEE: Transactions on Cybernetics.
+-	IEEE: Access.
+-	Elsevier: Expert Systems with Applications.
+-	Elsevier: Applied Soft Computing.
+-	Elsevier: Information Processing and Management.
+-	Elsevier: Artificial Intelligence in Medicine.
+-	Elsevier: Biomedical Signal Processing and Control.
+-	Elsevier: Applied Acoustics.
+-	Elsevier: Computer Methods and Programs in Biomedicine.
+-	Elsevier: Mathematical Biosciences.
+-	Elsevier: Information Processing Letters.
+-	Elsevier: Journal of King Saud University- Computer and Information Sciences.
+-	Springer: International Journal of Machine Learning and Cybernetics.
+-	Springer: Neural Processing Letters.
+-	Springer: Scientometrics.
+-	Royal Society of Chemistry: Analyst.
+-	Wiley: Journal of the Association for Information Science and Technology.
+-	Wiley: Concurrency and Computation: Practice and Experience.
+-	Sage: Journal of Information Science.
+-	Sage: Field Methods.
+-	Sage: Bioinformatics and Biology Insights.
+-	Taylor&Francis: IETE Journal of Research.
+-	Emerald: Kybernetes.
+-	Emerald: Data Technologies and Applications.
+-	Plos: Plos One Journal.
+-	IOS Press: Journal of Computational Methods in Science and Engineering.
+-	IET: Healthcare Technology Letters.
+-	Degruyter: Journal of Intelligent Systems.
+-	Degruyter: International Journal of Nonlinear Sciences and Numerical Simulation.
+-	TÜBİTAK: Turkish Journal of Electrical Engineering & Computer Sciences.
+-	CRL: International Journal of Engineering Intelligent Systems.
+-	Bentham: The Open Cybernetics and Systemics Journal.
+-	Bentham: Current Bioinformatics.
+-	Bentham: Recent Patents on Computer Science.
+-	ISCAP: Journal of Information Systems Education.
+-	IAES: Telkomnika Journal.
+-	IAES: International Journal of Electrical and Computer Engineering.
+-	Sharif University of Technology: Scientia Iranica.
+-	Gazi Üniversitesi: Bilişim Teknolojileri Dergisi.
+-	Pamukkale Üniversitesi: Mühendislik Bilimleri Dergisi.
+-	Sinop Üniversitesi: Fen Bilimleri Dergisi.
 
--	IEEE: Transactions on Cybernetics, 2018.
--	IEEE: Access, 2018, 2019.
--	Elsevier: Expert Systems with Applications, 2015, 2016, 2017, 2018, 2019.
--	Elsevier: Applied Soft Computing, 2014, 2015, 2016, 2017.
--	Elsevier: Information Processing and Management, 2018, 2019.
--	Elsevier: Artificial Intelligence in Medicine, 2018.
--	Elsevier: Biomedical Signal Processing and Control, 2018.
--	Elsevier: Applied Acoustics, 2018.
--	Elsevier: Computer Methods and Programs in Biomedicine, 2016.
--	Elsevier: Mathematical Biosciences, 2016, 2017.
--	Elsevier: Information Processing Letters, 2017.
--	Elsevier: Journal of King Saud University- Computer and Information Sciences, 2017, 2018, 2019.
--	Springer: International Journal of Machine Learning and Cybernetics, 2015, 2016, 2017.
--	Springer: Neural Processing Letters, 2016.
--	Springer: Scientometrics, 2017, 2018, 2019.
--	Royal Society of Chemistry: Analyst, 2018.
--	Wiley: Journal of the Association for Information Science and Technology, 2017.
--	Wiley: Concurrency and Computation: Practice and Experience, 2018.
--	Sage: Journal of Information Science, 2015, 2016, 2017.
--	Sage: Field Methods, 2017.
--	Sage: Bioinformatics and Biology Insights, 2018.
--	Taylor&Francis: IETE Journal of Research, 2017.
--	Emerald: Kybernetes, 2017.
--	Emerald: Data Technologies and Applications, 2018, 2019.
--	Plos: Plos One Journal, 2016.
--	IOS Press: Journal of Computational Methods in Science and Engineering, 2015, 2016, 2018.
--	IET: Healthcare Technology Letters, 2018.
--	Degruyter: Journal of Intelligent Systems, 2018.
--	Degruyter: International Journal of Nonlinear Sciences and Numerical Simulation, 2017.
--	TÜBİTAK: Turkish Journal of Electrical Engineering & Computer Sciences, 2017.
--	CRL: International Journal of Engineering Intelligent Systems, 2015.
--	Bentham: The Open Cybernetics and Systemics Journal, 2016.
--	Bentham: Current Bioinformatics, 2017.
--	Bentham: Recent Patents on Computer Science, 2018.
--	ISCAP: Journal of Information Systems Education, 2016, 2017, 2018.
--	IAES: Telkomnika Journal, 2017.
--	IAES: International Journal of Electrical and Computer Engineering, 2018.
--	Sharif University of Technology: Scientia Iranica, 2018.
--	Gazi Üniversitesi: Bilişim Teknolojileri Dergisi, 2016, 2018.
--	Pamukkale Üniversitesi: Mühendislik Bilimleri Dergisi, 2018.
--	Sinop Üniversitesi: Fen Bilimleri Dergisi, 2018.
-For more details please visit: https://publons.com/researcher/1279575/aytug-onan/peer- review/
+Awards
+====
 
-
-
+-	Listed in “Most Influential Scientists of the World- 2020” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in “Most Influential Scientists of the World- 2020” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Publons: Top Reviewers for Computer Science - September 2018
 -	Publons: Top Reviewers for Engineering - September 2018
