@@ -44,15 +44,15 @@ Education
 Academic Experience
 ==== 
 
-* Associate Professor, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+* **Associate Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
  
-* Courses Given: Artificial Neural Networks, Artificial Intelligence.
+* **Courses Given:** Artificial Neural Networks, Artificial Intelligence, MATLAB Programming, C Programming, Object Oriented Programming.
 
-* Assistant Professor, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, January 2017-April 2019.
+* **Assistant Professor**, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, January 2017-April 2019.
 
-* Courses Given: Algorithms and Programming, Computer Organization, Operating Systems, Expert Systems, Artificial Intelligence, Algorithm Design, Database Management Systems, Discrete Computational Structures, Deep Learning, Data Structures.
+* **Courses Given:** Algorithms and Programming, Computer Organization, Operating Systems, Expert Systems, Artificial Intelligence, Algorithm Design, Database Management Systems, Discrete Computational Structures, Deep Learning, Data Structures.
 
-* Research Assistant, Department of Computer Engineering, Ege University, İzmir/Turkey, December 2010-January 2017.
+* **Research Assistant**, Department of Computer Engineering, Ege University, İzmir/Turkey, December 2010-January 2017.
 
 Administrative Positions Held
 ====
@@ -73,12 +73,12 @@ Engineering & Computer Science
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
 
-1.	Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences. 
+1.	Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
 2.	Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
-3.	Onan, A. (2020). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience.
-4.	Bulut, H., Onan, A., & Korukoğlu, S. (2020). An improved ant-based algorithm based on heaps merging and fuzzy c-means for clustering cancer gene expression data, Sādhanā, 45(1), 1-17.
-5.	Onan, A., & Toçoğlu, M. A. (2020). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education (Baskıda).
-6.	Onan, A. (2020). Sentiment analysis on massive open online course evaluations: a text mining and deep learning approach, Computer Applications in Engineering Education (Baskıda).
+3.	Onan, A. (2021). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience, 33(23).
+4.	Onan, A., & Toçoğlu, M. A. (2021). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education, 29(4), 675-689.
+5.	Onan, A. (2021). Sentiment analysis on massive open online course evaluations: a text mining and deep learning approach, Computer Applications in Engineering Education, 29(3), 572-589.
+6.	Bulut, H., Onan, A., & Korukoğlu, S. (2020). An improved ant-based algorithm based on heaps merging and fuzzy c-means for clustering cancer gene expression data, Sādhanā, 45(1), 1-17.
 7.	Onan, A., & Toçoğlu MA. (2020). Satire identification in Turkish news articles based on ensemble of classifiers, Turkish Journal of Electrical Engineering & Computer Sciences, 28, 1086-1106.
 8.	Onan, A. (2020). Mining opinions from instructor evaluation reviews: a deep learning approach, Computer Applications in Engineering Education, 28(1), 117-138.
 9.	Onan, A. (2019). Two-stage topic extraction model for bibliometric data analysis based on word embeddings and clustering, IEEE Access, 7(1), 145614-145633.
@@ -175,7 +175,7 @@ International Conference Proceedings
 27.	Onan, A. (2018). On the performance of cluster ensembles for document clustering. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
 28.	Onan, A. (2018). Öğrencilerin akademik başarılarının tahmin edilmesinde makine öğrenmesi yöntemlerinin başarım analizi. In 8th International Congress of Research in Education (ULEAD 2018).
 29.	Onan, A.,  Solmaz, M., & Arslan, B. (2018). GEOME3D: Geometrik kavramların eğitimine yönelik görsel eğitim yazılımı. In 8th International Congress of Research in Education (ULEAD 2018).
-30.	Onan, A. (2017. Psycholinguistic feature sets in sentiment analysis on Twitter: an empirical analysis. In International Advanced Researches and Engineering Congress (IAREC 2017).
+30.	Onan, A. (2017). Psycholinguistic feature sets in sentiment analysis on Twitter: an empirical analysis. In International Advanced Researches and Engineering Congress (IAREC 2017).
 31.	Onan, A. (2017). Sentiment analysis on Twitter messages based on machine learning methods. In 4th International Management Information Systems Conference (IMISC 2017).
 32.	Onan, A. (2017). A K-medoids based clustering scheme with an application to document clustering. In 2nd International Conference on Computer Science and Engineering (UBMK 2017).
 33.	Onan, A. (2017). A machine learning based approach to identify geo-location of Twitter users. In Proceedings of the ACM Second International Conference on Internet of Things and Cloud Computing (ICC 2017).
@@ -198,7 +198,8 @@ National Conference Proceedings
 
 Reviewer for
 ====
--	IEEE: Transactions on Cybernetics.
+-	IEEE:
+-	 Transactions on Cybernetics.
 -	IEEE: Access.
 -	Elsevier: Expert Systems with Applications.
 -	Elsevier: Applied Soft Computing.
