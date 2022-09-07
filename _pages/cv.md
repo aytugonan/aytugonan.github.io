@@ -243,8 +243,14 @@ Reviewer for
 Awards
 ====
 
+-	Listed in “Most Influential Scientists of the World- 2021” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in “Most Influential Scientists of the World- 2020” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
--	Listed in “Most Influential Scientists of the World- 2020” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
+-	İzmir Katip Çelebi University: Certificate of Appreciation (Academic Incentive) (Ranked first place for Faculty and Department) - January 2022.
+-	İzmir Katip Çelebi University: Certificate of Appreciation (World's Most Influential Scientists List) - January 2022.
+-	İzmir Katip Çelebi University: Certificate of Appreciation (World's Most Influential Scientists List) - January 2021.
+-	İzmir Katip Çelebi University: Scientific Award (Academic Incentive Award) - January 2021.
+-	Wiley: Top Cited Article 2020-2021, Computer Applications in Engineering Education - January 2022.
+-	Wiley: Top Cited Article 2020-2021, Concurrency and Computation: Practice and Experience - January 2022.
 -	Publons: Top Reviewers for Computer Science - September 2018
 -	Publons: Top Reviewers for Engineering - September 2018
 -	Publons: Top Reviewers for Computer Science - September 2017
@@ -255,14 +261,9 @@ Awards
 -	Elsevier: Expert Systems with Applications, Outstanding Contribution in Reviewing, July 2016.
 -	Elsevier: Applied Soft Computing, Outstanding Contribution in Reviewing, May 2015.
 
+Research Projects
+====
 
 
 
-
-	Automatic Image and Audio Captioning for the Visually and Hearing Impaired, TÜBİTAK-British Council Bilateral Cooperation Project, Researcher, continues.
-	Development of a Deep Learning Based Word Coding Representation Method for Turkish Text Mining Applications, Izmir Kâtip Çelebi University, Scientific Research Project (BAP), Executive, continues.
-	Hardware and Software Platform Development Project for Smart Energy Management, KOSGEB R&D Project, Consultant, 2019-2020.
-	Data Mining in Strategic Management, Manisa Celal Bayar University, Scientific Research Project (BAP), Researcher, 2013-2015.
-	Vehicle License Plate Tracking System, Manisa Celal Bayar University, Scientific Research Project (BAP), Researcher, 2018-2019.
-	Application of metaheuristic methods in cluster analysis, Ege University, Scientific Research Project (BAP), Researcher, 2012-2013.
 
