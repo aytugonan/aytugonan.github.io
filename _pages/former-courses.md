@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Former Courses"
+permalink: /former-courses/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 
 
