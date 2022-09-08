@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 * [2021-2023]: TÜBİTAK-British Council International Bilateral Collaboration, Automatic Image and Audio Subtitles for the Visually and Hearing Impaired (Researcher)
 * [2021-2023]: TÜBİTAK 3501, Investigation of the Change of Quantitative Electroencephalography Parameters with Repetitive Transcranial Magnetic Stimulation (rTMS) Treatment in Stroke Patients and Estimation of Clinical Response to rTMS Treatment with Convolutional Neural Network Method (Researcher)
 * [2022-2023]: İzmir Katip Çelebi University, Scientific Research Project, Group Based Development for Turkish Text Mining Problems and Development of Deep Learning Architecture Based on Attention Mechanisms (Project Manager)
