@@ -198,48 +198,7 @@ National Conference Proceedings
 
 Reviewer for
 ====
--	IEEE:
--	 Transactions on Cybernetics.
--	IEEE: Access.
--	Elsevier: Expert Systems with Applications.
--	Elsevier: Applied Soft Computing.
--	Elsevier: Information Processing and Management.
--	Elsevier: Artificial Intelligence in Medicine.
--	Elsevier: Biomedical Signal Processing and Control.
--	Elsevier: Applied Acoustics.
--	Elsevier: Computer Methods and Programs in Biomedicine.
--	Elsevier: Mathematical Biosciences.
--	Elsevier: Information Processing Letters.
--	Elsevier: Journal of King Saud University- Computer and Information Sciences.
--	Springer: International Journal of Machine Learning and Cybernetics.
--	Springer: Neural Processing Letters.
--	Springer: Scientometrics.
--	Royal Society of Chemistry: Analyst.
--	Wiley: Journal of the Association for Information Science and Technology.
--	Wiley: Concurrency and Computation: Practice and Experience.
--	Sage: Journal of Information Science.
--	Sage: Field Methods.
--	Sage: Bioinformatics and Biology Insights.
--	Taylor&Francis: IETE Journal of Research.
--	Emerald: Kybernetes.
--	Emerald: Data Technologies and Applications.
--	Plos: Plos One Journal.
--	IOS Press: Journal of Computational Methods in Science and Engineering.
--	IET: Healthcare Technology Letters.
--	Degruyter: Journal of Intelligent Systems.
--	Degruyter: International Journal of Nonlinear Sciences and Numerical Simulation.
--	TÜBİTAK: Turkish Journal of Electrical Engineering & Computer Sciences.
--	CRL: International Journal of Engineering Intelligent Systems.
--	Bentham: The Open Cybernetics and Systemics Journal.
--	Bentham: Current Bioinformatics.
--	Bentham: Recent Patents on Computer Science.
--	ISCAP: Journal of Information Systems Education.
--	IAES: Telkomnika Journal.
--	IAES: International Journal of Electrical and Computer Engineering.
--	Sharif University of Technology: Scientia Iranica.
--	Gazi Üniversitesi: Bilişim Teknolojileri Dergisi.
--	Pamukkale Üniversitesi: Mühendislik Bilimleri Dergisi.
--	Sinop Üniversitesi: Fen Bilimleri Dergisi.
+- 
 
 Awards
 ====
@@ -265,7 +224,7 @@ Awards
 Research Projects
 ====
 
-* **TÜBİTAK-British Council International Bilateral Collaboration**, Automatic Image and Audio Subtitles for the Visually and Hearing Impaired (Researcher)
+* **TÜBİTAK-British Council International Bilateral Collaboration**, Automatic Image and Audio Captions for the Visually and Hearing Impaired (Researcher)
 * **TÜBİTAK 3501**, Investigation of the Change of Quantitative Electroencephalography Parameters with Repetitive Transcranial Magnetic Stimulation (rTMS) Treatment in Stroke Patients and Estimation of Clinical Response to rTMS Treatment with Convolutional Neural Network Method (Researcher)
 * **İzmir Katip Çelebi University, Scientific Research Project**, Group Based Development for Turkish Text Mining Problems and Development of Deep Learning Architecture Based on Attention Mechanisms (Project Manager)
 * **İzmir Katip Çelebi University, Scientific Research Project**, Automatic Image Captioning for Visually Impaired Individuals (Researcher)
