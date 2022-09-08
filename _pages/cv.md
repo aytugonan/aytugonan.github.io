@@ -196,30 +196,100 @@ National Conference Proceedings
 8.	Onan, A., & Korukoğlu, S. (2015, May). Ensemble methods for opinion mining. In Signal Processing and Communications Applications Conference (SIU), 2015 23th (pp. 212-215). IEEE.
 9.	Onan, A. (2014). Öğrenci bilgi sistemi verileri üzerinde veri madenciliği sınıflandırıcılarına dayalı başarı durumu tahmini. YBS 2014- Yönetim Bilişim Sistemleri Konferansı.
 
+Editorial Board
+====
+- Elsevier: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), **Associate Editor**, 2019-present. 
+- KSII: Transactions on Internet and Information Systems **(Indexed in SCI-Expanded), **Editor**, 2019-present. 
+
 Reviewer for
 ====
-- 
+- IEEE Transactions on Artificial Intelligence
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Systems Journal
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- IEEE Access
+- IEEE Transactions on Emerging Topics in Computational Intelligence
+- IEEE Transactions on Computational Social Systems
+- IEEE Sensors Letters
+- IEEE Transactions on Human-Machine Systems
+- ACM Transactions on Knowledge Discovery from Data
+- Expert Systems with Applications
+- Information Processing & Management
+- Computational Intelligence and Neuroscience
+- Complexity
+- Concurrency and Computation: Practice and Experience
+- Scientific Programming
+- Mathematical Problems in Engineering
+- Expert Systems
+- Computer Methods in Biomechanics and Biomedical Engineering
+- Journal of Healthcare Engineering
+- Journal of King Saud University- Computer and Information Sciences
+- Computational and Mathematical Methods in Medicine
+- Applied Soft Computing
+- Computer Applications in Engineering Education
+- Security and Communication Networks
+- Wireless Communications and Mobile Computing
+- Connection Science
+- Journal of Intelligent & Fuzzy Systems
+- Biomedical Signal Processing and Control
+- Data Technologies and Applications
+- Artificial Intelligence in Medicine
+- Journal of Intelligent Systems
+- Turkish Journal of Electrical Engineering & Computer Sciences
+- Mobile Information Systems
+- Applied Computational Intelligence and Soft Computing
+- IETE Journal of Research
+- Journal of Mathematics
+- CAAI Transactions on Intelligence Technology
+- Computers, Materials and Continua
+- ETRI Journal
+- Journal of Information Science
+- Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi
+- Computer Methods and Programs in Biomedicine
+- Electronic Letters
+- International Journal of Machine Learning and Cybernetics
+- International Journal of Pattern Recognition and Artificial Intelligence
+- Journal of Control and Decision
+- Kybernetes
+- Journal of Current Science and Technology
+- Journal of Experimental and Theoretical Artificial Intelligence
+- Journal of Internet Technology
+- Plos One
+- ACM Transactions on Asian and Low-Resource Language Information Processing
+- Applied Artificial Intelligence
+- Discrete Dynamics in Nature and Society
+- Behaviour & Information Technology
+- Journal of Information Technology & Politics
+- Journal of the Association for Information Science and Technology
+- ACM Transactions on Intelligent Systems and Technology
+- Advances in Materials Science and Engineering
+- BMC Biomedical Informatics and Decision Making
+- BioMed Research International
+- Cognitive Systems and Computation
+- Computational Intelligence
+ 
 
 Awards
 ====
 
--	Listed in “Most Influential Scientists of the World- 2021” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
--	Listed in “Most Influential Scientists of the World- 2020” created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
--	İzmir Katip Çelebi University: Certificate of Appreciation (Academic Incentive) (Ranked first place for Faculty and Department) - January 2022.
--	İzmir Katip Çelebi University: Certificate of Appreciation (World's Most Influential Scientists List) - January 2022.
--	İzmir Katip Çelebi University: Certificate of Appreciation (World's Most Influential Scientists List) - January 2021.
--	İzmir Katip Çelebi University: Scientific Award (Academic Incentive Award) - January 2021.
--	Wiley: Top Cited Article 2020-2021, Computer Applications in Engineering Education - January 2022.
--	Wiley: Top Cited Article 2020-2021, Concurrency and Computation: Practice and Experience - January 2022.
--	Publons: Top Reviewers for Computer Science - September 2018
--	Publons: Top Reviewers for Engineering - September 2018
--	Publons: Top Reviewers for Computer Science - September 2017
--	Elsevier: Expert Systems with Applications, Outstanding Contribution in Reviewing, August 2018.
--	Elsevier: Journal of King Saud University- Computer and Information Sciences, Outstanding Contribution in Reviewing, September 2017.
--	Elsevier: Applied Soft Computing, Outstanding Contribution in Reviewing, May 2017.
--	Elsevier: Mathematical Biosciences, Outstanding Contribution in Reviewing, February 2017.
--	Elsevier: Expert Systems with Applications, Outstanding Contribution in Reviewing, July 2016.
--	Elsevier: Applied Soft Computing, Outstanding Contribution in Reviewing, May 2015.
+-	Listed in **“Most Influential Scientists of the World- 2021”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
+-	Listed in **“Most Influential Scientists of the World- 2020”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
+-	İzmir Katip Çelebi University: **Certificate of Appreciation (Academic Incentive)** (Ranked first place for Faculty and Department) - January 2022.
+-	İzmir Katip Çelebi University: **Certificate of Appreciation (World's Most Influential Scientists List)** - January 2022.
+-	İzmir Katip Çelebi University: **Certificate of Appreciation (World's Most Influential Scientists List)** - January 2021.
+-	İzmir Katip Çelebi University: **Scientific Award (Academic Incentive Award)** - January 2021.
+-	Wiley: **Top Cited Article 2020-2021**, Computer Applications in Engineering Education - January 2022.
+-	Wiley: **Top Cited Article 2020-2021**, Concurrency and Computation: Practice and Experience - January 2022.
+-	Publons: **Top Reviewers for Computer Science** - September 2018
+-	Publons: **Top Reviewers for Engineering** - September 2018
+-	Publons: **Top Reviewers for Computer Science** - September 2017
+-	Elsevier: Expert Systems with Applications, **Outstanding Contribution in Reviewing**, August 2018.
+-	Elsevier: Journal of King Saud University- Computer and Information Sciences, **Outstanding Contribution in Reviewing**, September 2017.
+-	Elsevier: Applied Soft Computing, **Outstanding Contribution in Reviewing**, May 2017.
+-	Elsevier: Mathematical Biosciences, **Outstanding Contribution in Reviewing**, February 2017.
+-	Elsevier: Expert Systems with Applications, **Outstanding Contribution in Reviewing**, July 2016.
+-	Elsevier: Applied Soft Computing, **Outstanding Contribution in Reviewing**, May 2015.
 
 Research Projects
 ====
