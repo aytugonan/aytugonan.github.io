@@ -201,6 +201,10 @@ Editorial Board
 - Elsevier: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), Associate Editor**, 2019-present. 
 - KSII: Transactions on Internet and Information Systems **(Indexed in SCI-Expanded), Editor**, 2019-present. 
 
+Program Committee
+====
+- SPELL 2022: First International Conference on Speech and Language Technologies for Low-Resource Languages, November 2022.
+
 Reviewer for
 ====
 - IEEE Transactions on Artificial Intelligence
