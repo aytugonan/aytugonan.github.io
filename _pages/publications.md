@@ -52,7 +52,12 @@ Book Chapters
 
 National Refereed Journal Papers
 ====
-* Onan, A. (2022). Türkçe metin madenciliği için çalışan bellek bağlantıları tabanlı uzun kısa süreli bellek mimarisi. Avrupa Bilim ve Teknoloji Dergisi, 2022.
+* Onan, A. (2022). Türkçe Metin Madenciliği için Dikkat Mekanizması Tabanlı Derin Öğrenme Mimarilerinin Değerlendirilmesi. Avrupa Bilim ve Teknoloji Dergisi, (34), 403-407.
+* Onan, A. (2022). Türkçe Metin Madenciliği için Dikkat Mekanizması Tabanlı Derin Öğrenme Mimarilerinin Değerlendirilmesi. Avrupa Bilim ve Teknoloji Dergisi, (34), 403-407.
+* Karga, K., Toçoğlu, M. A., & Onan, A. (2022). Deep Learning-Based Sentiment Analysis on Education During the COVID-19 Pandemic. Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi, 24(72), 855-868.
+* Özdemir, A., Onan, A., & ERGENE, V. Ç. (2022). Machine Learning and Ensemble Learning Based Method Using Online Employee Assessments to Identify and Analyze Job Satisfaction Factors. Avrupa Bilim ve Teknoloji Dergisi, (40), 19-28.
+* Uslu, B., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Resnet based Deep Gated Recurrent Unit for Image Captioning on Smartphone. Avrupa Bilim ve Teknoloji Dergisi, (35), 610-615.
+* AYDIN, S., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Sequence-to-Sequence Video Captioning with Residual Connected Gated Recurrent Units. Avrupa Bilim ve Teknoloji Dergisi, (35), 380-386.
 * Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
 * Keskin, R., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). A benchmark for feature-injection architectures in image captioning. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
 * Fetiler, B., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). Video captioning based on multi-layer gated recurrent unit for smartphones. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
@@ -76,6 +81,11 @@ National Refereed Journal Papers
 
 International Conference Proceedings
 ====
+* Moral, O. T., Kılıç, V., Onan, A., & Wang, W. Automated Image Captioning with Multi-layer Gated Recurrent Unit. The 30th European Signal Processing Conference, EUSIPCO 2022.
+* Caylı, O., Kılıç, V., Onan, A., & Wang, W. Auxiliary Classifier based Residual RNN for Image Captioning. The 30th European Signal Processing Conference, EUSIPCO 2022.
+* Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Toxicity Identification Using The Neural Network Algorithm. 3rd International Conference on Applied Engineering and Natural Sciences (ICAENS 2022), 2022.
+* Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Decision tree based toxicity identification of metal and metal oxide nanoparticles. Izmir International Conference on Technology and Social Sciences, IICTSS 2022.
+* Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Prediction of toxicity based on linear regression, SVM and GPR machine learning algorithms. International Gobeklitepe Applied Sciences Congress 2022.
 * Onan, A. (2021). Identification of Deceptive Opinion Spam Based on Deep Neural Networks. In IAC in Budapest 2021.
 * Onan, A. (2021). Spatiotemporal Analysis of Social Media Posts on COVID-19 Based on Topic Modelling. In VIAC2021 - COVID-19.
 * Onan, A. (2021). Topic modelling-based identification of socio-economic and epidemiological issues from news documents. In International Academic Conference on Engineering, Transport, IT and AI (IAC-ETITAI 2021).
