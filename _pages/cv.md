@@ -121,66 +121,75 @@ Book Chapters
 National Refereed Journal Papers
 ====
 
-1.	Onan, A. (2022). Türkçe metin madenciliği için çalışan bellek bağlantıları tabanlı uzun kısa süreli bellek mimarisi. Avrupa Bilim ve Teknoloji Dergisi, 2022.
-2.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
-3.	Keskin, R., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). A benchmark for feature-injection architectures in image captioning. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
-4.	Fetiler, B., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). Video captioning based on multi-layer gated recurrent unit for smartphones. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
-5.	Onan, A. (2021).  COVID-19 ile ilgili sosyal medya gönderilerinin metin madenciliği yöntemlerine dayalı olarak zaman-mekansal analizi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
-6.	Göçgün, Ö.F., & Onan, A. (2021). Amazon ürün değerlendirmeleri üzerinde derin öğrenme/makine öğrenmesi tabanlı duygu analizi yapılması. Avrupa Bilim ve Teknoloji Dergisi, 24, 445-448.
-7.	Özdemir, A., Onan, A., & Ergene, V. (2021). İş Tatmini Faktörlerini Belirlemeye Ve Analiz Etmeye Yönelik Olarak Çalışanların Çevrimiçi Değerlendirmelerinin Sınıflandırıcı Topluluklarına Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 531-538.
-8.	Özdemir, A., Onan, A., & Ergene, V. (2021). Çalışanların Çevrimiçi Değerlendirmelerinin İş Tatmini Faktörlerini Belirlemeye ve Analiz Etmeye Yönelik Olarak Makine Öğrenmesine Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 526-530.
-9.	Onan, A. (2021). Ensemble of classifiers and term weighting schemes for sentiment analysis in Turkish. Scientific Research Communications, 1(1), 1-12.
-10.	Onan, A. (2020). Evrişimli sinir ağı mimarilerine dayalı Türkçe duygu analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 374-380.
-11.	Onan, A., Yalçın, A., & Atik, E. (2020). Üniversite Bilgi Yönetim Sistemi Servis Destek Taleplerinin Konu Modelleme Tabanlı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 352-359.
-12.	Onan, A. (2018). A clustering based classifier ensemble approach to corporate bankruptcy prediction. Alphanumeric Journal, 6(2), 365-376.
-13.	Onan, A. (2018). Parçacık sürüsü eniyilemesine dayalı yığılmış genelleme yöntemi ve metin sınıflandırma üzerinde uygulanması. Akademik Platform Mühendislik ve Fen Bilimleri Dergisi, 6(2), 131-141.
-14.	Onan, A. (2018). Metin belgesi kümelemede metasezgisel yöntemlere dayalı kümeleme algoritmaları. Akıllı Sistemler ve Uygulamaları Dergisi, 1(2), 206-212.
-15.	Okyay, M.S., Alaybeyoğlu, A., & Onan, A. (2018). Yapay zeka tabanlı akıllı muhasebe Android mobil uygulama tasarımı. Akıllı Sistemler ve Uygulamaları Dergisi, 1(1), 111-116.
-16.	Onan, A., Alaybeyoğlu, A., & Okyay, M.S. (2018). A design and application of Android mobile based smart business accounting software. Sakarya University Journal of Computer and Information Sciences, 1(1), 22-35.
-17.	Onan, A. (2017). Twitter mesajları üzerinde makine öğrenmesi yöntemlerine dayalı duygu analizi. Yönetim Bilişim Sistemleri Dergisi, 3(2), 1-14.
-18.	Onan, A., & Korukoğlu, S. (2016). Makine öğrenmesi yöntemlerinin görüş madenciliğinde kullanılması üzerine bir literatür araştırması. Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi, 22(2), 111-122.
-19.	Onan, A. (2015). Şirket iflaslarının tahmin edilmesinde karar ağacı algoritmalarının karşılaştırmalı başarım analizi. Bilişim Teknolojileri Dergisi, 8(1), 9-19.
-20.	Onan, A. (2014). Promethee Sıralama Yönteminin Konut Projelerinin Değerlendirilmesinde Kullanılması. AKÜ İİBF Dergisi, XVI(1), 17-28.
-21.	Onan, A. (2013). Metasezgisel yöntemler ve uygulama alanları. Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 17(2), 113-128.
+1. Onan, A. (2022). Türkçe Metin Madenciliği için Dikkat Mekanizması Tabanlı Derin Öğrenme Mimarilerinin Değerlendirilmesi. Avrupa Bilim ve Teknoloji Dergisi, (34), 403-407.
+2. Onan, A. (2022). Türkçe Metin Madenciliği için Çalışan Bellek Bağlantıları Tabanlı Uzun Kısa Süreli Bellek Mimarisi. Avrupa Bilim ve Teknoloji Dergisi, (34), 239-246.
+3. Karga, K., Toçoğlu, M. A., & Onan, A. (2022). Deep Learning-Based Sentiment Analysis on Education During the COVID-19 Pandemic. Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi, 24(72), 855-868.
+4. Özdemir, A., Onan, A., & ERGENE, V. Ç. (2022). Machine Learning and Ensemble Learning Based Method Using Online Employee Assessments to Identify and Analyze Job Satisfaction Factors. Avrupa Bilim ve Teknoloji Dergisi, (40), 19-28.
+5. Uslu, B., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Resnet based Deep Gated Recurrent Unit for Image Captioning on Smartphone. Avrupa Bilim ve Teknoloji Dergisi, (35), 610-615.
+6. AYDIN, S., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Sequence-to-Sequence Video Captioning with Residual Connected Gated Recurrent Units. Avrupa Bilim ve Teknoloji Dergisi, (35), 380-386.2.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
+7.	Keskin, R., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). A benchmark for feature-injection architectures in image captioning. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
+8.	Fetiler, B., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). Video captioning based on multi-layer gated recurrent unit for smartphones. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
+9.	Onan, A. (2021).  COVID-19 ile ilgili sosyal medya gönderilerinin metin madenciliği yöntemlerine dayalı olarak zaman-mekansal analizi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
+10.	Göçgün, Ö.F., & Onan, A. (2021). Amazon ürün değerlendirmeleri üzerinde derin öğrenme/makine öğrenmesi tabanlı duygu analizi yapılması. Avrupa Bilim ve Teknoloji Dergisi, 24, 445-448.
+11.	Özdemir, A., Onan, A., & Ergene, V. (2021). İş Tatmini Faktörlerini Belirlemeye Ve Analiz Etmeye Yönelik Olarak Çalışanların Çevrimiçi Değerlendirmelerinin Sınıflandırıcı Topluluklarına Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 531-538.
+12.	Özdemir, A., Onan, A., & Ergene, V. (2021). Çalışanların Çevrimiçi Değerlendirmelerinin İş Tatmini Faktörlerini Belirlemeye ve Analiz Etmeye Yönelik Olarak Makine Öğrenmesine Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 526-530.
+13.	Onan, A. (2021). Ensemble of classifiers and term weighting schemes for sentiment analysis in Turkish. Scientific Research Communications, 1(1), 1-12.
+14.	Onan, A. (2020). Evrişimli sinir ağı mimarilerine dayalı Türkçe duygu analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 374-380.
+15.	Onan, A., Yalçın, A., & Atik, E. (2020). Üniversite Bilgi Yönetim Sistemi Servis Destek Taleplerinin Konu Modelleme Tabanlı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 352-359.
+16.	Onan, A. (2018). A clustering based classifier ensemble approach to corporate bankruptcy prediction. Alphanumeric Journal, 6(2), 365-376.
+17.	Onan, A. (2018). Parçacık sürüsü eniyilemesine dayalı yığılmış genelleme yöntemi ve metin sınıflandırma üzerinde uygulanması. Akademik Platform Mühendislik ve Fen Bilimleri Dergisi, 6(2), 131-141.
+18.	Onan, A. (2018). Metin belgesi kümelemede metasezgisel yöntemlere dayalı kümeleme algoritmaları. Akıllı Sistemler ve Uygulamaları Dergisi, 1(2), 206-212.
+19.	Okyay, M.S., Alaybeyoğlu, A., & Onan, A. (2018). Yapay zeka tabanlı akıllı muhasebe Android mobil uygulama tasarımı. Akıllı Sistemler ve Uygulamaları Dergisi, 1(1), 111-116.
+20.	Onan, A., Alaybeyoğlu, A., & Okyay, M.S. (2018). A design and application of Android mobile based smart business accounting software. Sakarya University Journal of Computer and Information Sciences, 1(1), 22-35.
+21.	Onan, A. (2017). Twitter mesajları üzerinde makine öğrenmesi yöntemlerine dayalı duygu analizi. Yönetim Bilişim Sistemleri Dergisi, 3(2), 1-14.
+22.	Onan, A., & Korukoğlu, S. (2016). Makine öğrenmesi yöntemlerinin görüş madenciliğinde kullanılması üzerine bir literatür araştırması. Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi, 22(2), 111-122.
+23.	Onan, A. (2015). Şirket iflaslarının tahmin edilmesinde karar ağacı algoritmalarının karşılaştırmalı başarım analizi. Bilişim Teknolojileri Dergisi, 8(1), 9-19.
+24.	Onan, A. (2014). Promethee Sıralama Yönteminin Konut Projelerinin Değerlendirilmesinde Kullanılması. AKÜ İİBF Dergisi, XVI(1), 17-28.
+25.	Onan, A. (2013). Metasezgisel yöntemler ve uygulama alanları. Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 17(2), 113-128.
 
 International Conference Proceedings
 ====
 
-1.	Onan, A. (2021). Identification of Deceptive Opinion Spam Based on Deep Neural Networks. In IAC in Budapest 2021.
-2.	Onan, A. (2021). Spatiotemporal Analysis of Social Media Posts on COVID-19 Based on Topic Modelling. In VIAC2021 - COVID-19.
-3.	Onan, A. (2021). Topic modelling-based identification of socio-economic and epidemiological issues from news documents. In International Academic Conference on Engineering, Transport, IT and AI (IAC-ETITAI 2021).
-4.	Onan, A. (2021). On the performance of classifiers and feature sets for identification of offensive and hateful language on social media. In International Academic Conference on Engineering, Transport, IT and AI (IAC-ETITAI 2021).
-5.	Toçoğlu, M., & Onan, A. (2021). Identification of Medical Forum Posts on Hypertension and Cholesterol Based on Machine Learning. In First International Conference on Computing and Machine Intelligence (ICMI 2021).
-6.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. In 3rd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2021).
-7.	Özdemir, A., Onan, A., & Ergene, V. (2021). İş Tatmini Faktörlerini Belirlemeye Ve Analiz Etmeye Yönelik Olarak Çalışanların Çevrimiçi Değerlendirmelerinin Sınıflandırıcı Topluluklarına Dayalı Analizi. In 1st International Conference on Applied Engineering and Natural Sciences (ICAENS 2021).
-8.	Özdemir, A., Onan, A., & Ergene, V. (2021). Çalışanların Çevrimiçi Değerlendirmelerinin İş Tatmini Faktörlerini Belirlemeye ve Analiz Etmeye Yönelik Olarak Makine Öğrenmesine Dayalı Analizi. In 1st International Conference on Applied Engineering and Natural Sciences (ICAENS 2021).
-9.	Onan, A. (2021).  COVID-19 ile ilgili sosyal medya gönderilerinin metin madenciliği yöntemlerine dayalı olarak zaman-mekansal analizi. In 3rd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2021).
-10.	Göçgün, Ö.F., & Onan, A. (2021). Amazon ürün değerlendirmeleri üzerinde derin öğrenme/makine öğrenmesi tabanlı duygu analizi yapılması. In 2nd International Conference on Access to Recent Advances in Engineering and Digitalization (ARACONF 2021).
-11.	Onan, A., Atik, E., & Yalçın, A. (2020). Machine learning approach for automatic categorization of service support requests on university information management system. In 2nd International Conference on Intelligent and Fuzzy Systems (INFUS 2020).
-12.	Çaylı, Ö., Makav, B., Kılıç, V., & Onan, A. (2020). Mobile application based automatic caption generation for visually impaired.  In 2nd International Conference on Intelligent and Fuzzy Systems (INFUS 2020).
-13.	Toçoğlu, M.A., & Onan, A. (2020). Sentiment analysis on students' evaluation of higher educational institutions. In 2nd International Conference on Intelligent and Fuzzy Systems (INFUS 2020).
-14.	Toçoğlu, M.A., & Onan, A. (2020). Identification of sport news in Turkish Tweets using deep learning architectures. In International Conference on Intelligent Decision Science (IDS 2020).
-15.	Onan, A. (2020). Evrişimli sinir ağı mimarilerine dayalı Türkçe duygu analizi. In 2nd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2020).
-16.	Onan, A., Yalçın, A., & Atik, E. (2020). Üniversite Bilgi Yönetim Sistemi Servis Destek Taleplerinin Konu Modelleme Tabanlı Analizi. In 2nd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2020).
-17.	Çaylı, Ö., Makav, B., Kılıç, V., & Onan, A. (2020). Natural language description of images using a smartphone application. In Second International Eurasian Conference on Science, Engineering and Technology (EurasianSciEnTech 2020).
-18.	Onan, A. (2019). Deep learning based sentiment analysis on product reviews on Twitter. In 5th International Conference on Big Data Innovations and Applications (Innovate-Data 2019).
-19.	Toçoğlu, M.A., & Onan, A. (2019). Satire detection in Turkish news articles: a machine learning approach. In 5th International Conference on Big Data Innovations and Applications (Innovate-Data 2019).
-20.	Onan, A. (2019). Türkçe Twitter mesajları üzerinde yarı-öğreticili duygu analizi. In International Design and Engineering Symposium (IDES 2019).
-21.	Onan, A. (2019). Kitlesel açık çevrimiçi ders değerlendirmeleri üzerinde konu modelleme yöntemlerine dayalı duygu analizi. In International Design and Engineering Symposium (IDES 2019).
-22.	Onan, A. (2019). Türkçe metin belgeleri üzerinde küme topluluklarına dayalı kümeleme analizi. In International Design and Engineering Symposium (IDES 2019).
-23.	Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial intelligence methods for risk assessment of neuroblastoma. In 50th Congress of the International Society of Paediatric Oncology (SIOP 2018). (Poster)
-24.	Onan, A. (2018). Gender classification on microblogging platforms: a machine learning approach. In 7th International Conference on Advanced Technologies (ICAT 2018). (Best Presentation Award)
-25.	Onan, A. (2018). Ensemble gene selection analysis scheme on microarray gene expression data. In 7th International Conference on Advanced Technologies (ICAT 2018).
-26.	Onan, A. (2018). Supervised term weighting schemes for opinion spamming. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
-27.	Onan, A. (2018). On the performance of cluster ensembles for document clustering. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
-28.	Onan, A. (2018). Öğrencilerin akademik başarılarının tahmin edilmesinde makine öğrenmesi yöntemlerinin başarım analizi. In 8th International Congress of Research in Education (ULEAD 2018).
-29.	Onan, A.,  Solmaz, M., & Arslan, B. (2018). GEOME3D: Geometrik kavramların eğitimine yönelik görsel eğitim yazılımı. In 8th International Congress of Research in Education (ULEAD 2018).
-30.	Onan, A. (2017). Psycholinguistic feature sets in sentiment analysis on Twitter: an empirical analysis. In International Advanced Researches and Engineering Congress (IAREC 2017).
-31.	Onan, A. (2017). Sentiment analysis on Twitter messages based on machine learning methods. In 4th International Management Information Systems Conference (IMISC 2017).
-32.	Onan, A. (2017). A K-medoids based clustering scheme with an application to document clustering. In 2nd International Conference on Computer Science and Engineering (UBMK 2017).
-33.	Onan, A. (2017). A machine learning based approach to identify geo-location of Twitter users. In Proceedings of the ACM Second International Conference on Internet of Things and Cloud Computing (ICC 2017).
-34.	Onan, A., Korukoğlu, S., & Bulut, H. (2016). LDA-based topic modelling in text sentiment classification: an empirical analysis. In 17th International Conference on Computational Linguistics and Intelligent Text Processing (CICLING 2016).
-35.	Onan, A., & Korukoğlu, S. (2013). Improving performance of glowworm swarm optimization for cluster analysis using k-means. In International Symposium on Computing in Science & Engineering.  
+1.	Moral, O. T., Kılıç, V., Onan, A., & Wang, W. Automated Image Captioning with Multi-layer Gated Recurrent Unit. The 30th European Signal Processing Conference, EUSIPCO 2022.
+2.	Caylı, O., Kılıç, V., Onan, A., & Wang, W. Auxiliary Classifier based Residual RNN for Image Captioning. The 30th European Signal Processing Conference, EUSIPCO 2022.
+3.	Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Toxicity Identification Using The Neural Network Algorithm. 3rd International Conference on Applied Engineering and Natural Sciences (ICAENS 2022), 2022.
+4.	Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Decision tree based toxicity identification of metal and metal oxide nanoparticles. Izmir International Conference on Technology and Social Sciences, IICTSS 2022.
+5.	Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Prediction of toxicity based on linear regression, SVM and GPR machine learning algorithms. International Gobeklitepe Applied Sciences Congress 2022.
+6.	Onan, A. (2021). Identification of Deceptive Opinion Spam Based on Deep Neural Networks. In IAC in Budapest 2021.
+7.	Onan, A. (2021). Spatiotemporal Analysis of Social Media Posts on COVID-19 Based on Topic Modelling. In VIAC2021 - COVID-19.
+8.	Onan, A. (2021). Topic modelling-based identification of socio-economic and epidemiological issues from news documents. In International Academic Conference on Engineering, Transport, IT and AI (IAC-ETITAI 2021).
+9.	Onan, A. (2021). On the performance of classifiers and feature sets for identification of offensive and hateful language on social media. In International Academic Conference on Engineering, Transport, IT and AI (IAC-ETITAI 2021).
+10.	Toçoğlu, M., & Onan, A. (2021). Identification of Medical Forum Posts on Hypertension and Cholesterol Based on Machine Learning. In First International Conference on Computing and Machine Intelligence (ICMI 2021).
+11.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. In 3rd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2021).
+12.	Özdemir, A., Onan, A., & Ergene, V. (2021). İş Tatmini Faktörlerini Belirlemeye Ve Analiz Etmeye Yönelik Olarak Çalışanların Çevrimiçi Değerlendirmelerinin Sınıflandırıcı Topluluklarına Dayalı Analizi. In 1st International Conference on Applied Engineering and Natural Sciences (ICAENS 2021).
+13.	Özdemir, A., Onan, A., & Ergene, V. (2021). Çalışanların Çevrimiçi Değerlendirmelerinin İş Tatmini Faktörlerini Belirlemeye ve Analiz Etmeye Yönelik Olarak Makine Öğrenmesine Dayalı Analizi. In 1st International Conference on Applied Engineering and Natural Sciences (ICAENS 2021).
+14.	Onan, A. (2021).  COVID-19 ile ilgili sosyal medya gönderilerinin metin madenciliği yöntemlerine dayalı olarak zaman-mekansal analizi. In 3rd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2021).
+15.	Göçgün, Ö.F., & Onan, A. (2021). Amazon ürün değerlendirmeleri üzerinde derin öğrenme/makine öğrenmesi tabanlı duygu analizi yapılması. In 2nd International Conference on Access to Recent Advances in Engineering and Digitalization (ARACONF 2021).
+16.	Onan, A., Atik, E., & Yalçın, A. (2020). Machine learning approach for automatic categorization of service support requests on university information management system. In 2nd International Conference on Intelligent and Fuzzy Systems (INFUS 2020).
+17.	Çaylı, Ö., Makav, B., Kılıç, V., & Onan, A. (2020). Mobile application based automatic caption generation for visually impaired.  In 2nd International Conference on Intelligent and Fuzzy Systems (INFUS 2020).
+18.	Toçoğlu, M.A., & Onan, A. (2020). Sentiment analysis on students' evaluation of higher educational institutions. In 2nd International Conference on Intelligent and Fuzzy Systems (INFUS 2020).
+19.	Toçoğlu, M.A., & Onan, A. (2020). Identification of sport news in Turkish Tweets using deep learning architectures. In International Conference on Intelligent Decision Science (IDS 2020).
+20.	Onan, A. (2020). Evrişimli sinir ağı mimarilerine dayalı Türkçe duygu analizi. In 2nd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2020).
+21.	Onan, A., Yalçın, A., & Atik, E. (2020). Üniversite Bilgi Yönetim Sistemi Servis Destek Taleplerinin Konu Modelleme Tabanlı Analizi. In 2nd International Conference on Human-Computer Interaction, Optimization and Robotic Applications (HORA 2020).
+22.	Çaylı, Ö., Makav, B., Kılıç, V., & Onan, A. (2020). Natural language description of images using a smartphone application. In Second International Eurasian Conference on Science, Engineering and Technology (EurasianSciEnTech 2020).
+23.	Onan, A. (2019). Deep learning based sentiment analysis on product reviews on Twitter. In 5th International Conference on Big Data Innovations and Applications (Innovate-Data 2019).
+24.	Toçoğlu, M.A., & Onan, A. (2019). Satire detection in Turkish news articles: a machine learning approach. In 5th International Conference on Big Data Innovations and Applications (Innovate-Data 2019).
+25.	Onan, A. (2019). Türkçe Twitter mesajları üzerinde yarı-öğreticili duygu analizi. In International Design and Engineering Symposium (IDES 2019).
+26.	Onan, A. (2019). Kitlesel açık çevrimiçi ders değerlendirmeleri üzerinde konu modelleme yöntemlerine dayalı duygu analizi. In International Design and Engineering Symposium (IDES 2019).
+27.	Onan, A. (2019). Türkçe metin belgeleri üzerinde küme topluluklarına dayalı kümeleme analizi. In International Design and Engineering Symposium (IDES 2019).
+28.	Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial intelligence methods for risk assessment of neuroblastoma. In 50th Congress of the International Society of Paediatric Oncology (SIOP 2018). (Poster)
+29.	Onan, A. (2018). Gender classification on microblogging platforms: a machine learning approach. In 7th International Conference on Advanced Technologies (ICAT 2018). (Best Presentation Award)
+30.	Onan, A. (2018). Ensemble gene selection analysis scheme on microarray gene expression data. In 7th International Conference on Advanced Technologies (ICAT 2018).
+31.	Onan, A. (2018). Supervised term weighting schemes for opinion spamming. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
+32.	Onan, A. (2018). On the performance of cluster ensembles for document clustering. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
+33.	Onan, A. (2018). Öğrencilerin akademik başarılarının tahmin edilmesinde makine öğrenmesi yöntemlerinin başarım analizi. In 8th International Congress of Research in Education (ULEAD 2018).
+34.	Onan, A.,  Solmaz, M., & Arslan, B. (2018). GEOME3D: Geometrik kavramların eğitimine yönelik görsel eğitim yazılımı. In 8th International Congress of Research in Education (ULEAD 2018).
+35.	Onan, A. (2017). Psycholinguistic feature sets in sentiment analysis on Twitter: an empirical analysis. In International Advanced Researches and Engineering Congress (IAREC 2017).
+36.	Onan, A. (2017). Sentiment analysis on Twitter messages based on machine learning methods. In 4th International Management Information Systems Conference (IMISC 2017).
+37.	Onan, A. (2017). A K-medoids based clustering scheme with an application to document clustering. In 2nd International Conference on Computer Science and Engineering (UBMK 2017).
+38.	Onan, A. (2017). A machine learning based approach to identify geo-location of Twitter users. In Proceedings of the ACM Second International Conference on Internet of Things and Cloud Computing (ICC 2017).
+39.	Onan, A., Korukoğlu, S., & Bulut, H. (2016). LDA-based topic modelling in text sentiment classification: an empirical analysis. In 17th International Conference on Computational Linguistics and Intelligent Text Processing (CICLING 2016).
+40.	Onan, A., & Korukoğlu, S. (2013). Improving performance of glowworm swarm optimization for cluster analysis using k-means. In International Symposium on Computing in Science & Engineering.  
 
 
 National Conference Proceedings
