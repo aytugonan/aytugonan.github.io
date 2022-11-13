@@ -8,6 +8,7 @@ author_profile: true
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
 * Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
+* Habek, G., Toçoğlu, M.A., & Onan, A. (2022). Bi-Directional CNN-RNN Architecture with Group-Wise Enhancement and Attention Mechanisms for Cryptocurrency Sentiment Analysis. Applied Artificial Intelligence, 36(1), 1-26.
 * Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
 * Onan, A. (2021). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience, 33(23).
 * Onan, A., & Toçoğlu, M. A. (2021). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education, 29(4), 675-689.
