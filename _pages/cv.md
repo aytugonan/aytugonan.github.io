@@ -74,27 +74,28 @@ International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
 
 1.	Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
-2.	Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
-3.	Onan, A. (2021). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience, 33(23).
-4.	Onan, A., & Toçoğlu, M. A. (2021). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education, 29(4), 675-689.
-5.	Onan, A. (2021). Sentiment analysis on massive open online course evaluations: a text mining and deep learning approach, Computer Applications in Engineering Education, 29(3), 572-589.
-6.	Bulut, H., Onan, A., & Korukoğlu, S. (2020). An improved ant-based algorithm based on heaps merging and fuzzy c-means for clustering cancer gene expression data, Sādhanā, 45(1), 1-17.
-7.	Onan, A., & Toçoğlu MA. (2020). Satire identification in Turkish news articles based on ensemble of classifiers, Turkish Journal of Electrical Engineering & Computer Sciences, 28, 1086-1106.
-8.	Onan, A. (2020). Mining opinions from instructor evaluation reviews: a deep learning approach, Computer Applications in Engineering Education, 28(1), 117-138.
-9.	Onan, A. (2019). Two-stage topic extraction model for bibliometric data analysis based on word embeddings and clustering, IEEE Access, 7(1), 145614-145633.
-10.	Onan, A. (2019). Consensus clustering based approach to imbalanced learning, Scientific Programming, 2019, 1-14.
-11.	Onan, A. (2018). Biomedical text categorization based on ensemble pruning and optimized topic modelling. Computational and Mathematical Methods in Medicine, 2018, 1-22.
-12.	Onan, A. (2018). An ensemble scheme based on language function analysis and feature engineering for text genre classification. Journal of Information Science, 44(1),  28-47.
-13.	Onan, A., Korukoğlu, S., & Bulut, H. (2017). A hybrid ensemble pruning approach based on consensus clustering and multi-objective evolutionary algorithm for sentiment classification. Information Processing & Management, 53(4), 814-833.
-14.	Onan, A., Bulut, H., & Korukoglu, S. (2017). An improved ant algorithm with LDA-based representation for text document clustering. Journal of Information Science, 43(2), 275-292.
-15.	Onan, A. (2017). Hybrid supervised clustering-based ensemble scheme for text classification. Kybernetes, 46(2), 330-348.
-16.	Onan, A., & Korukoğlu, S. (2017). A feature selection model based on genetic rank aggregation for text sentiment classification. Journal of Information Science, 43(1), 25-38.
-17.	Onan, A. (2016). Classifier and feature set ensembles for web page classification. Journal of Information Science, 42(2), 150-165.
-18.	Onan, A., Korukoğlu, S., & Bulut, H. (2016). Ensemble of keyword extraction methods and classifiers in text classification. Expert Systems with Applications, 57, 232-247.
-19.	Onan, A., Korukoğlu, S., & Bulut, H. (2016). A multiobjective weighted voting ensemble classifier based on differential evolution algorithm for text sentiment classification. Expert Systems with Applications, 62, 1-16.
-20.	Onan, A., Bal, V., & Yanar Bayam, B. (2016). The Use of Data Mining for Strategic Management: A Case Study on Mining Association Rules in Student Information System. Croatian Journal of Education: Hrvatski časopis za odgoj i obrazovanje, 18(1), 41-70.
-21.	Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
-22.	Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
+2.	Habek, G., Toçoğlu, M.A., & Onan, A. (2022).  Bi-Directional CNN-RNN Architecture with Group-Wise Enhancement and Attention Mechanisms for Cryptocurrency Sentiment Analysis. Applied Artificial Intelligence, 36(1), 1-26.
+3.	Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
+4.	Onan, A. (2021). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience, 33(23).
+5.	Onan, A., & Toçoğlu, M. A. (2021). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education, 29(4), 675-689.
+6.	Onan, A. (2021). Sentiment analysis on massive open online course evaluations: a text mining and deep learning approach, Computer Applications in Engineering Education, 29(3), 572-589.
+7.	Bulut, H., Onan, A., & Korukoğlu, S. (2020). An improved ant-based algorithm based on heaps merging and fuzzy c-means for clustering cancer gene expression data, Sādhanā, 45(1), 1-17.
+8.	Onan, A., & Toçoğlu MA. (2020). Satire identification in Turkish news articles based on ensemble of classifiers, Turkish Journal of Electrical Engineering & Computer Sciences, 28, 1086-1106.
+9.	Onan, A. (2020). Mining opinions from instructor evaluation reviews: a deep learning approach, Computer Applications in Engineering Education, 28(1), 117-138.
+10.	Onan, A. (2019). Two-stage topic extraction model for bibliometric data analysis based on word embeddings and clustering, IEEE Access, 7(1), 145614-145633.
+11.	Onan, A. (2019). Consensus clustering based approach to imbalanced learning, Scientific Programming, 2019, 1-14.
+12.	Onan, A. (2018). Biomedical text categorization based on ensemble pruning and optimized topic modelling. Computational and Mathematical Methods in Medicine, 2018, 1-22.
+13.	Onan, A. (2018). An ensemble scheme based on language function analysis and feature engineering for text genre classification. Journal of Information Science, 44(1),  28-47.
+14.	Onan, A., Korukoğlu, S., & Bulut, H. (2017). A hybrid ensemble pruning approach based on consensus clustering and multi-objective evolutionary algorithm for sentiment classification. Information Processing & Management, 53(4), 814-833.
+15.	Onan, A., Bulut, H., & Korukoglu, S. (2017). An improved ant algorithm with LDA-based representation for text document clustering. Journal of Information Science, 43(2), 275-292.
+16.	Onan, A. (2017). Hybrid supervised clustering-based ensemble scheme for text classification. Kybernetes, 46(2), 330-348.
+17.	Onan, A., & Korukoğlu, S. (2017). A feature selection model based on genetic rank aggregation for text sentiment classification. Journal of Information Science, 43(1), 25-38.
+18.	Onan, A. (2016). Classifier and feature set ensembles for web page classification. Journal of Information Science, 42(2), 150-165.
+19.	Onan, A., Korukoğlu, S., & Bulut, H. (2016). Ensemble of keyword extraction methods and classifiers in text classification. Expert Systems with Applications, 57, 232-247.
+20.	Onan, A., Korukoğlu, S., & Bulut, H. (2016). A multiobjective weighted voting ensemble classifier based on differential evolution algorithm for text sentiment classification. Expert Systems with Applications, 62, 1-16.
+21.	Onan, A., Bal, V., & Yanar Bayam, B. (2016). The Use of Data Mining for Strategic Management: A Case Study on Mining Association Rules in Student Information System. Croatian Journal of Education: Hrvatski časopis za odgoj i obrazovanje, 18(1), 41-70.
+22.	Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
+23.	Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
 
 Other International Journal Papers
 ====
