@@ -316,6 +316,7 @@ Research Projects
 - TÜBİTAK 1002, A generative adversarial network-based decision support system for artificial intelligence-based rare dermatological disease diagnosis (Project Manager)
 - TÜBİTAK-British Council International Bilateral Collaboration, Automatic Image and Audio Captioning for the Visually and Hearing Impaired (Researcher)
 - TÜBİTAK 3501, Investigation of the Change of Quantitative Electroencephalography Parameters with Repetitive Transcranial Magnetic Stimulation (rTMS) Treatment in Stroke Patients and Estimation of Clinical Response to rTMS Treatment with Convolutional Neural Network Method (Researcher)
+- TÜBİTAK 1002, Obtaining the Shortest Path Between Two Points on a Semi-Expandable Bezier Surface Using the Q-Learning Algorithm with Increased Openability (Researcher)
 - İzmir Katip Çelebi University, Scientific Research Project, The implementation of groupwise enhancement and attention mechanisms for Turkish Text Mining Problems (Project Manager)
 - İzmir Katip Çelebi University, Scientific Research Project, Automatic Image Captioning for Visually Impaired Individuals (Researcher)
 - İzmir Katip Çelebi University, Scientific Research Project, Investigation of the Change of Quantitative Electroencephalography Parameters with Repetitive Transcranial Magnetic Stimulation (rTMS) Treatment in Stroke Patients and Estimation of Clinical Response to rTMS Treatment with Convolutional Neural Network Method (Researcher)
