@@ -39,6 +39,7 @@ Other International Journal Papers
 
 Book Chapters
 ====
+* Onan, A. (2023). Leveraging synonyms and antonyms for data augmentation in sarcasm identification. (2023). Artificial Intelligence Application in Networks and Systems. Springer, Cham.
 * Onan, A., Atik, E., & Yalçın, A. (2021). Machine learning approach for automatic categorization of service support requests on university information management system. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1133-1139). Springer, Cham.
 * Toçoğlu, M.A., & Onan, A. (2021). Sentiment analysis on students' evaluation of higher educational institutions. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1693-1700). Springer, Cham.
 * Çaylı, Ö., Makav, B., Kılıç, V., & Onan, A. (2021). Mobile application based automatic systems. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1532-1539). Springer, Cham.
