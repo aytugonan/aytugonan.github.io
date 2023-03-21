@@ -121,7 +121,7 @@ Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial i
 * Onan, A. (2017). Psycholinguistic feature sets in sentiment analysis on Twitter: an empirical analysis. In International Advanced Researches and Engineering Congress (IAREC 2017).
 * Onan, A. (2017). Sentiment analysis on Twitter messages based on machine learning methods. In 4th International Management Information Systems Conference (IMISC 2017).
 * Onan, A. (2017). A K-medoids based clustering scheme with an application to document clustering. In 2nd International Conference on Computer Science and Engineering (UBMK 2017).
-Onan, A. (2017). A machine learning based approach to identify geo-location of Twitter users. In Proceedings of the ACM Second International Conference on Internet of Things and Cloud Computing (ICC 2017).
+* Onan, A. (2017). A machine learning based approach to identify geo-location of Twitter users. In Proceedings of the ACM Second International Conference on Internet of Things and Cloud Computing (ICC 2017).
 * Onan, A., Korukoğlu, S., & Bulut, H. (2016). LDA-based topic modelling in text sentiment classification: an empirical analysis. In 17th International Conference on Computational Linguistics and Intelligent Text Processing (CICLING 2016).
 * Onan, A., & Korukoğlu, S. (2013). Improving performance of glowworm swarm optimization for cluster analysis using k-means. In International Symposium on Computing in Science & Engineering.
 
