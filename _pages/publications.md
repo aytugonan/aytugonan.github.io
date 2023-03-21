@@ -84,8 +84,9 @@ National Refereed Journal Papers
 
 International Conference Proceedings
 ====
-* Moral, O. T., Kılıç, V., Onan, A., & Wang, W. Automated Image Captioning with Multi-layer Gated Recurrent Unit. The 30th European Signal Processing Conference, EUSIPCO 2022.
-* Caylı, O., Kılıç, V., Onan, A., & Wang, W. Auxiliary Classifier based Residual RNN for Image Captioning. The 30th European Signal Processing Conference, EUSIPCO 2022.
+* Habek, G.C., Toçoğlu, M.A., & Onan, A. (2023). Cryptocurrency Sentiment Analysis using Automatically Labeled Dataset. 3rd International Symposium of Scientific Research and Innovative Studies, ISSRIS 2023.
+*  Moral, O. T., Kılıç, V., Onan, A., & Wang, W. (2022). Automated Image Captioning with Multi-layer Gated Recurrent Unit. The 30th European Signal Processing Conference, EUSIPCO 2022.
+* Caylı, O., Kılıç, V., Onan, A., & Wang, W. (2022). Auxiliary Classifier based Residual RNN for Image Captioning. The 30th European Signal Processing Conference, EUSIPCO 2022.
 * Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Toxicity Identification Using The Neural Network Algorithm. 3rd International Conference on Applied Engineering and Natural Sciences (ICAENS 2022), 2022.
 * Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Decision tree based toxicity identification of metal and metal oxide nanoparticles. Izmir International Conference on Technology and Social Sciences, IICTSS 2022.
 * Demirci-Uzun, S., Bulut, V., & Onan, A. (2022). Prediction of toxicity based on linear regression, SVM and GPR machine learning algorithms. International Gobeklitepe Applied Sciences Congress 2022.
