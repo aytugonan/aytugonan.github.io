@@ -112,7 +112,7 @@ International Conference Proceedings
 * Onan, A. (2019). Türkçe Twitter mesajları üzerinde yarı-öğreticili duygu analizi. In International Design and Engineering Symposium (IDES 2019).
 * Onan, A. (2019). Kitlesel açık çevrimiçi ders değerlendirmeleri üzerinde konu modelleme yöntemlerine dayalı duygu analizi. In International Design and Engineering Symposium (IDES 2019).
 * Onan, A. (2019). Türkçe metin belgeleri üzerinde küme topluluklarına dayalı kümeleme analizi. In International Design and Engineering Symposium (IDES 2019).
-Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial intelligence methods for risk assessment of neuroblastoma. In 50th Congress of the International Society of Paediatric Oncology (SIOP 2018). (Poster)
+* Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial intelligence methods for risk assessment of neuroblastoma. In 50th Congress of the International Society of Paediatric Oncology (SIOP 2018). (Poster)
 * Onan, A. (2018). Gender classification on microblogging platforms: a machine learning approach. In 7th International Conference on Advanced Technologies (ICAT 2018). (Best Presentation Award)
 * Onan, A. (2018). Ensemble gene selection analysis scheme on microarray gene expression data. In 7th International Conference on Advanced Technologies (ICAT 2018).
 * Onan, A. (2018). Supervised term weighting schemes for opinion spamming. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
