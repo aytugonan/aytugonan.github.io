@@ -127,6 +127,10 @@ Onan, A. (2017). A machine learning based approach to identify geo-location of T
 
 National Conference Proceedings
 ====
+* Özdemir, M.A., Güren, O., Cura, O.K, Akan, A., & Onan, A. (2020). Abnormal ECG beat detection based on convolutional neural networks. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
+* Özdemir, M.A., Kısa, H.D., Güren, O., Onan, A., & Akan, A. (2020). EMG based hand gesture recognition using. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
+* Onan, A. (2020). Ağırlıklı kelime vektörü tabanlı Türkçe duygu analizi. SİU 2020- 28. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
+* Onan, A. (2020). Evrişimli sinir ağı tabanlı Türkçe duygu analizi. SİU 2020- 28. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı. (Poster)
 * Onan, A. (2018). Psikolojik ve dilbilimsel özniteliklere dayalı istenmeyen inceleme metni belirleme.SİU 2018- 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
 * Onan, A. (2018). Topluluk öğrenmesine dayalı öznitelik seçimi ve metin sınıflandırmada uygulanması. SİU 2018- 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
 * Onan, A. (2017). Metin belgesi kümelemede metasezgisel yöntemlere dayalı kümeleme algoritmaları. ASYU 2017- Akıllı Sistemlerde Yenilikler ve Uygulamaları Konferansı.
