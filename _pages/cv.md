@@ -212,6 +212,7 @@ Editorial Board
 ====
 - Elsevier: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), Associate Editor**, 2019-present. 
 - Elsevier: Machine Learning with Applications, **(Indexed in EI), Associate Editor**, 2023-present.
+- Elsevier: Software Impacts Journal, **(Indexed in ESCI), Associate Editor**, 2023-present.
 - KSII: Transactions on Internet and Information Systems **(Indexed in SCI-Expanded), Editor**, 2019-present. 
 
 Program Committee
