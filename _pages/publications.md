@@ -87,6 +87,7 @@ National Refereed Journal Papers
 
 International Conference Proceedings
 ====
+* Öztürk, O., Özer-Kaya, D., & Onan, A. (2023). Comparing the accuracy of machine learning models for accelorometer-based movement measurements, ESMAC 2023. 
 * Habek, G.C., Toçoğlu, M.A., & Onan, A. (2023). Cryptocurrency Sentiment Analysis using Automatically Labeled Dataset. 3rd International Symposium of Scientific Research and Innovative Studies, ISSRIS 2023.
 *  Moral, O. T., Kılıç, V., Onan, A., & Wang, W. (2022). Automated Image Captioning with Multi-layer Gated Recurrent Unit. The 30th European Signal Processing Conference, EUSIPCO 2022.
 * Caylı, O., Kılıç, V., Onan, A., & Wang, W. (2022). Auxiliary Classifier based Residual RNN for Image Captioning. The 30th European Signal Processing Conference, EUSIPCO 2022.
