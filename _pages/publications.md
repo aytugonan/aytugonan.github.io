@@ -7,7 +7,7 @@ author_profile: true
 
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
-* Onan, A. (2023). Improving Turkish text sentiment classification through task-specific and universal transformations: an ensemble data augmentation approach. Applied Sciences.
+* Onan, A. (2023). SRL-ACO: A Text Augmentation Framework Based on Semantic Role Labeling and Ant Colony Optimization. Journal of King Saud University- Computer and Information Sciences.
 * Ağralı, M., Kılıç, V., Onan, A., Koç, E.M., Koç, A.M., Büyüktoka, R., Acar, T., & Adıbelli, Z. (2023). DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images. International Journal of Imaging Systems and Technology. 
 * Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
 * Habek, G., Toçoğlu, M.A., & Onan, A. (2022). Bi-Directional CNN-RNN Architecture with Group-Wise Enhancement and Attention Mechanisms for Cryptocurrency Sentiment Analysis. Applied Artificial Intelligence, 36(1), 1-26.
@@ -41,6 +41,7 @@ Other International Journal Papers
 Book Chapters
 ====
 * Onan, A. (2023). Leveraging synonyms and antonyms for data augmentation in sarcasm identification. (2023). Artificial Intelligence Application in Networks and Systems. Springer, Cham.
+* Çelikten, A., Onan, A., & Bulut, H. (2023, May). Investigation of Biomedical Named Entity Recognition Methods. In 4th International Conference on Artificial Intelligence and Applied Mathematics in Engineering: ICAIAME 2022 (pp. 218-229). Cham: Springer International Publishing.
 * Onan, A., Atik, E., & Yalçın, A. (2021). Machine learning approach for automatic categorization of service support requests on university information management system. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1133-1139). Springer, Cham.
 * Toçoğlu, M.A., & Onan, A. (2021). Sentiment analysis on students' evaluation of higher educational institutions. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1693-1700). Springer, Cham.
 * Çaylı, Ö., Makav, B., Kılıç, V., & Onan, A. (2021). Mobile application based automatic systems. In Intelligent and Fuzzy Techniques: Smart and Innovative Solutions (pp. 1532-1539). Springer, Cham.
