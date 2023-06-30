@@ -7,9 +7,9 @@ author_profile: true
 
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
-* Onan, A. (2023). GTR-GA: Harnessing The Power of Graph-Based Neural Networks and Genetic Algorithms for Text Augmentation. Expert Systems with Applications.
+* Onan, A. (2023). GTR-GA: Harnessing The Power of Graph-Based Neural Networks and Genetic Algorithms for Text Augmentation. Expert Systems with Applications, 232, 1-20.
 * Onan, A. (2023). SRL-ACO: A Text Augmentation Framework Based on Semantic Role Labeling and Ant Colony Optimization. Journal of King Saud University- Computer and Information Sciences, 35(7), 1-18.
-* Ağralı, M., Kılıç, V., Onan, A., Koç, E.M., Koç, A.M., Büyüktoka, R., Acar, T., & Adıbelli, Z. (2023). DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images. International Journal of Imaging Systems and Technology. 
+* Ağralı, M., Kılıç, V., Onan, A., Koç, E.M., Koç, A.M., Büyüktoka, R., Acar, T., & Adıbelli, Z. (2023). DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images. International Journal of Imaging Systems and Technology, 33(3), 776-788.
 * Onan, A. (2023). Hierarchical Graph-based Text Classification Framework with Contextual Node Embedding and BERT-based Dynamic Fusion. Journal of King Saud University- Computer and Information Science, 35(7), 1-18.
 * Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
 * Habek, G., Toçoğlu, M.A., & Onan, A. (2022). Bi-Directional CNN-RNN Architecture with Group-Wise Enhancement and Attention Mechanisms for Cryptocurrency Sentiment Analysis. Applied Artificial Intelligence, 36(1), 1-26.
@@ -59,6 +59,7 @@ Book Chapters
 
 National Refereed Journal Papers
 ====
+* Uslu, N.A., & Onan, A. (2023). Investigating Computational Identity and Empowerment of The Students Studying Programming: A Text Mining Study. NEÜ Ereği Eğitim Dergisi, 5(1), 29-45.
 * Onan, A. (2022). Türkçe Metin Madenciliği için Dikkat Mekanizması Tabanlı Derin Öğrenme Mimarilerinin Değerlendirilmesi. Avrupa Bilim ve Teknoloji Dergisi, (34), 403-407.
 * Onan, A. (2022). Türkçe Metin Madenciliği için Çalışan Bellek Bağlantıları Tabanlı Uzun Kısa Süreli Bellek Mimarisi. Avrupa Bilim ve Teknoloji Dergisi, (34), 239-246.
 * Karga, K., Toçoğlu, M. A., & Onan, A. (2022). Deep Learning-Based Sentiment Analysis on Education During the COVID-19 Pandemic. Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi, 24(72), 855-868.
