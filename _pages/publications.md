@@ -89,7 +89,12 @@ National Refereed Journal Papers
 
 International Conference Proceedings
 ====
-* Öztürk, O., Özer-Kaya, D., & Onan, A. (2023). Comparing the accuracy of machine learning models for accelorometer-based movement measurements, ESMAC 2023. 
+* Öztürk, O., Özer-Kaya, D., & Onan, A. (2023). Comparing the accuracy of machine learning models for accelorometer-based movement measurements. ESMAC 2023.
+* Korkut, S.O., Onan, A., Ulker, E., & Yalçın, F. (2023). Optimal Parameter Selection of Latent Dirichlet Allocation to Determine the Emerging Topics in Hydrology Domain. Second International Conference on Computing, IoT and Data Analytics, ICCIDA 2023.
+* Durak, H.Y., & Onan, A. (2023). An Examination of Studies on the Use of Chatbot Technology in the Field of Education. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
+* Durak, H.Y., & Onan, A. (2023). Turkish Adaptation of the Chatbot System, Information and Service Quality Scale. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
+* Ezgi, A., & Onan, A. (2023). Automatic Knee Osteoarthritis Severity Grading using Deep Neural Networks: Comparative Analysis of Network Architectures and Optimization Functions. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
+* Göçgün, Ö.F., Yalçın, F., & Onan, A. (2023). Federe Öğrenme Algoritmaları ve Açık Kaynak Çerçeveler. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
 * Habek, G.C., Toçoğlu, M.A., & Onan, A. (2023). Cryptocurrency Sentiment Analysis using Automatically Labeled Dataset. 3rd International Symposium of Scientific Research and Innovative Studies, ISSRIS 2023.
 *  Moral, O. T., Kılıç, V., Onan, A., & Wang, W. (2022). Automated Image Captioning with Multi-layer Gated Recurrent Unit. The 30th European Signal Processing Conference, EUSIPCO 2022.
 * Caylı, O., Kılıç, V., Onan, A., & Wang, W. (2022). Auxiliary Classifier based Residual RNN for Image Captioning. The 30th European Signal Processing Conference, EUSIPCO 2022.
