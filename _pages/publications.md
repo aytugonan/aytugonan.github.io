@@ -90,6 +90,7 @@ National Refereed Journal Papers
 International Conference Proceedings
 ====
 * Öztürk, O., Özer-Kaya, D., & Onan, A. (2023). Comparing the accuracy of machine learning models for accelorometer-based movement measurements. ESMAC 2023.
+* Durak, H.Y., & Onan, A. (2023). Adaptation of Chatbot Confirmation and Usage Continuance Scale into Turkish. International Conference on Modern and Advanced Research, 77-80.
 * Korkut, S.O., Onan, A., Ulker, E., & Yalçın, F. (2023). Optimal Parameter Selection of Latent Dirichlet Allocation to Determine the Emerging Topics in Hydrology Domain. Second International Conference on Computing, IoT and Data Analytics, ICCIDA 2023.
 * Durak, H.Y., & Onan, A. (2023). An Examination of Studies on the Use of Chatbot Technology in the Field of Education. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
 * Durak, H.Y., & Onan, A. (2023). Turkish Adaptation of the Chatbot System, Information and Service Quality Scale. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
@@ -123,8 +124,8 @@ International Conference Proceedings
 * Onan, A. (2019). Türkçe Twitter mesajları üzerinde yarı-öğreticili duygu analizi. In International Design and Engineering Symposium (IDES 2019).
 * Onan, A. (2019). Kitlesel açık çevrimiçi ders değerlendirmeleri üzerinde konu modelleme yöntemlerine dayalı duygu analizi. In International Design and Engineering Symposium (IDES 2019).
 * Onan, A. (2019). Türkçe metin belgeleri üzerinde küme topluluklarına dayalı kümeleme analizi. In International Design and Engineering Symposium (IDES 2019).
-* Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial intelligence methods for risk assessment of neuroblastoma. In 50th Congress of the International Society of Paediatric Oncology (SIOP 2018). (Poster)
-* Onan, A. (2018). Gender classification on microblogging platforms: a machine learning approach. In 7th International Conference on Advanced Technologies (ICAT 2018). (Best Presentation Award)
+* Leblebici, A., Uncu, B., Onan, A., Baskın, Y., & Olgun, N. (2018). Artificial intelligence methods for risk assessment of neuroblastoma. In 50th Congress of the International Society of Paediatric Oncology (SIOP 2018). **(Poster)**
+* Onan, A. (2018). Gender classification on microblogging platforms: a machine learning approach. In 7th International Conference on Advanced Technologies (ICAT 2018). **(Best Presentation Award)**
 * Onan, A. (2018). Ensemble gene selection analysis scheme on microarray gene expression data. In 7th International Conference on Advanced Technologies (ICAT 2018).
 * Onan, A. (2018). Supervised term weighting schemes for opinion spamming. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
 * Onan, A. (2018). On the performance of cluster ensembles for document clustering. In 4th International Researchers, Statisticians and Young Statisticians Congress (IRSYSC 2018).
@@ -142,7 +143,7 @@ National Conference Proceedings
 * Özdemir, M.A., Güren, O., Cura, O.K, Akan, A., & Onan, A. (2020). Abnormal ECG beat detection based on convolutional neural networks. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
 * Özdemir, M.A., Kısa, H.D., Güren, O., Onan, A., & Akan, A. (2020). EMG based hand gesture recognition using. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
 * Onan, A. (2020). Ağırlıklı kelime vektörü tabanlı Türkçe duygu analizi. SİU 2020- 28. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
-* Onan, A. (2020). Evrişimli sinir ağı tabanlı Türkçe duygu analizi. SİU 2020- 28. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı. (Poster)
+* Onan, A. (2020). Evrişimli sinir ağı tabanlı Türkçe duygu analizi. SİU 2020- 28. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı. **(Poster)**
 * Onan, A. (2018). Psikolojik ve dilbilimsel özniteliklere dayalı istenmeyen inceleme metni belirleme.SİU 2018- 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
 * Onan, A. (2018). Topluluk öğrenmesine dayalı öznitelik seçimi ve metin sınıflandırmada uygulanması. SİU 2018- 26. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
 * Onan, A. (2017). Metin belgesi kümelemede metasezgisel yöntemlere dayalı kümeleme algoritmaları. ASYU 2017- Akıllı Sistemlerde Yenilikler ve Uygulamaları Konferansı.
