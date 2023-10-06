@@ -18,7 +18,6 @@ Associate Professor of Computer Science and Engineering
 Division of Computer Software, Department of Computer Engineering, 
 Faculty of Engineering and Architecture, İzmir Katip Çelebi University, 35620, İzmir/Turkey. 
 
-* Phone: +90 (551) 638 39 87
 * Email: aytugonan@gmail.com OR aytug.onan@ikc.edu.tr 
 * Personal Homepage: aytugonan.github.io 
 * Web of Science Researcher ID: L-4613-2018
@@ -230,6 +229,8 @@ Editorial Board
 Program Committee
 ====
 - SPELL 2022: First International Conference on Speech and Language Technologies for Low-Resource Languages, November 2022.
+- SPELL 2023: Second International Conference on Speech and Language Technologies for Low-Resource Languages, November 2023.
+- ICCIDA 2023: Second International Conference on Computing, IoT and Data Analytics, July 2023.
 
 Committee Memberships
 ====
@@ -307,6 +308,7 @@ Reviewer for
 Awards
 ====
 
+-	Listed in **“Most Influential Scientists of the World- 2023”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in **“Most Influential Scientists of the World- 2022”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in **“Most Influential Scientists of the World- 2021”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in **“Most Influential Scientists of the World- 2020”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
