@@ -91,6 +91,7 @@ National Refereed Journal Papers
 International Conference Proceedings
 ====
 * Öztürk, O., Özer-Kaya, D., & Onan, A. (2023). Comparing the accuracy of machine learning models for accelorometer-based movement measurements. ESMAC 2023.
+* Bulut, V., Onan, A., & Şenyayla, B. (2023). Jeodezik-Tabanlı Dijkstra Algoritması Kullanılarak Açılabilir Yüzey Üzerinde İki Nokta Arasındaki Optimal En Kısa Yolun Elde Edilmesi. 1st International Conference on Recent and Innovative Results in Engineering and Technology ICRIRET 2023.
 * Durak, H.Y., & Onan, A. (2023). Adaptation of Chatbot Confirmation and Usage Continuance Scale into Turkish. International Conference on Modern and Advanced Research, 77-80.
 * Korkut, S.O., Onan, A., Ulker, E., & Yalçın, F. (2023). Optimal Parameter Selection of Latent Dirichlet Allocation to Determine the Emerging Topics in Hydrology Domain. Second International Conference on Computing, IoT and Data Analytics, ICCIDA 2023.
 * Durak, H.Y., & Onan, A. (2023). An Examination of Studies on the Use of Chatbot Technology in the Field of Education. 5th International Conference on Applied Engineering and Natural Sciences, ICAENS 2023.
