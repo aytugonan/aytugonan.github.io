@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Assoc. Prof. Aytuğ ONAN"
+title                    : "Prof. Dr. Aytuğ ONAN"
 title_separator          : "-"
 name                     : &name "Aytuğ ONAN"
-description              : &description "Associate Professor of Computer Science and Engineering"
+description              : &description "Professor of Computer Science and Engineering"
 url                      : https://aytugonan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aytugonan/aytugonan.github.io"
