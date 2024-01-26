@@ -12,7 +12,7 @@ redirect_from:
 
 Aytuğ ONAN, Ph.D.
 
-Associate Professor of Computer Science and Engineering
+Professor of Computer Science and Engineering
 
 
 Division of Computer Software, Department of Computer Engineering, 
@@ -43,7 +43,8 @@ Education
 Academic Experience
 ==== 
 
-* **Associate Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+* **Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, January 2024-present.
+* **Associate Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, April 2019-January 2024.
  
 * **Courses Given:** Artificial Neural Networks, Artificial Intelligence, MATLAB Programming, C Programming, Object Oriented Programming.
 
