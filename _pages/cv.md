@@ -56,9 +56,10 @@ Academic Experience
 
 Administrative Positions Held
 ====
+* **Founding Department Head**, Department of Artificial Intelligence and Data Engineering, İzmir Katip Çelebi University, İzmir/Turkey, February 2024-present.
 * **Vice Director**, Institute of Natural Sciences, İzmir Katip Celebi University, İzmir/Turkey, November 2023-present.
 * **Founder and Chair**, Division of Software Engineering, İzmir Katip Celebi University, İzmir/Turkey, July 2019-present.
-* **Vice Head**, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, May 2019-July 2022.
+* **Vice Head**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, May 2019-July 2022.
 * **Chair**, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
 * **Vice Head**, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, February 2018-April 2019.
 
