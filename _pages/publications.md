@@ -8,6 +8,7 @@ author_profile: true
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
 * Durak, H.Y., & Onan, A. (2024). Predicting the use of chatbot systems in education: A comparative approach using PLS-SEM and machine learning algorithms. Current Psychology.
+* Nasution, A.H., & Onan, A. (2024). ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks. IEEE Access.
 * Celikten, A., Bulut, H., & Onan, A. (2024). A Semantic Similarity-Based Approach for Extracting Disease-Symptom Relationships from Biomedical Literature. Journal of the Faculty of Engineering and Architecture of Gazi University.
 * Onan, A., & Balbal, K. (2024). Improving Turkish text sentiment classification through task-specific and universal transformations: an ensemble data augmentation approach. IEEE Access.
 * Onan, A. (2023). GTR-GA: Harnessing The Power of Graph-Based Neural Networks and Genetic Algorithms for Text Augmentation. Expert Systems with Applications, 232, 1-20.
