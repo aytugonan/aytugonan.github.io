@@ -7,7 +7,7 @@ author_profile: true
 
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
-* Durak, H.Y., & Onan, A. (2024). Predicting the use of chatbot systems in education: A comparative approach using PLS-SEM and machine learning algorithms. Current Psychology.
+* Yildiz Durak, H., & Onan, A. (2024). Predicting the use of chatbot systems in education: a comparative approach using PLS-SEM and machine learning algorithms. Current Psychology, 1-19.
 * Onan, A., & Alhumyani, H. (2024). FuzzyTP-BERT: Enhancing Extractive Text Summarization with Fuzzy Topic Modeling and Transformer Networks. Journal of King Saud University- Computer and Information Sciences.
 * Onan, A., & Alhumyani, H. (2024). Contextual Hypergraph Networks for Enhanced Extractive Summarization: Introducing the Multi-element Contextual Hypergraph Extractive Summarizer (MCHES), Applied Sciences.
 * Nasution, A.H., & Onan, A. (2024). ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks. IEEE Access.
