@@ -233,7 +233,10 @@ National Conference Proceedings
 
 Editorial Board
 ====
-- Elsevier: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), Associate Editor**, 2019-present. 
+- Elsevier: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), Associate Editor**, 2019-present.
+- Springer: Discover Computing **(Indexed in SCI-Expanded), Editorial Board Member**, 2024-present.
+- Springer: International Journal of Computational Intelligence Systems **(Indexed in SCI-Expanded), Editorial Board Member**, 2024-present.
+- Tech Science Press: Computers, Materials & Continua **(Indexed in SCI-Expaned, Q3), Editorial Board Member**, 2024-present.
 - Elsevier: Machine Learning with Applications, **(Indexed in EI), Associate Editor**, 2023-present.
 - Elsevier: Software Impacts Journal, **(Indexed in ESCI), Associate Editor**, 2023-present.
 - KSII: Transactions on Internet and Information Systems **(Indexed in SCI-Expanded), Editor**, 2019-present. 
