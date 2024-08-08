@@ -156,6 +156,7 @@ International Conference Proceedings
 
 National Conference Proceedings
 ====
+* Binici, R.C., Onan, A., Koch, R., & Schroder, S-M. (2024). Image Inpainting with GANs on LOKI Dataset. ASYU 2024.
 * Özdemir, M.A., Güren, O., Cura, O.K, Akan, A., & Onan, A. (2020). Abnormal ECG beat detection based on convolutional neural networks. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
 * Özdemir, M.A., Kısa, H.D., Güren, O., Onan, A., & Akan, A. (2020). EMG based hand gesture recognition using. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
 * Onan, A. (2020). Ağırlıklı kelime vektörü tabanlı Türkçe duygu analizi. SİU 2020- 28. IEEE Sinyal İşleme ve İletişim Uygulamaları Kurultayı.
