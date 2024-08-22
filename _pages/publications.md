@@ -103,6 +103,7 @@ International Conference Proceedings
 * Onan, A., & Celikten, T. (2024). Evaluating the Coherence and Diversity in AI-Generated and Paraphrased Scientific Abstracts: A Fuzzy Topic Modeling Approach. In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
 * Dursun, E.D., & Onan, A. (2024). Benchmarking Retrieval Augmented Generation in Quantitative Finance.  In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
 * Erdogan, H., Turhan-Turan, N., & Onan, A. (2024). Comparative Analysis of Large Language Models in Source Code Analysis. In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
+* Büyüker, Z., Onan, A., & Bombar, G. (2024). Makine öğrenmesi yöntemiyle köprü ayağı etrafındaki oyulmanın tahmin edilmesi. 8th International Students Science Congress (ISSC 2024).
 * Sendur, S., Koyuncuoglu, H.C., & Onan, A. (2024). Dilin Önyargıları: GPT-4 ile Meslekler Üzerinden Cinsiyet Algılarının Keşfi. In 4th International Conference on Innovative Academic Studies.
 * Kuzucu, O., & Onan, A. (2024). Applying Topic Modelling to Unveil Insights from Industrial Maintenance Records. In 3rd International Conference on Engineering, Natural and Social Sciences ICENSOS 2024.
 * Öztürk, O., Özer-Kaya, D., & Onan, A. (2023). Comparing the accuracy of machine learning models for accelorometer-based movement measurements. ESMAC 2023.
