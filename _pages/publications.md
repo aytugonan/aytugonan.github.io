@@ -7,12 +7,12 @@ author_profile: true
 
 International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 ====
-* Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua. 
-* Bulut, V., Onan, A., & Şenyayla, B. (2024). Obtaining The Optimal Shortest Path Between Two Points on a Quasi-Developable Bézier-Type Surface Using The Geodesic-Based Q-Learning Algorithm. Engineering Applications of Artificial Intelligence.
+* Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua, 80(2), 3351-3377.
+* Bulut, V., Onan, A., & Şenyayla, B. (2024). Obtaining The Optimal Shortest Path Between Two Points on a Quasi-Developable Bézier-Type Surface Using The Geodesic-Based Q-Learning Algorithm. Engineering Applications of Artificial Intelligence, 136, 108821.
 * Yildiz Durak, H., & Onan, A. (2024). Predicting the use of chatbot systems in education: a comparative approach using PLS-SEM and machine learning algorithms. Current Psychology, 1-19.
-* Onan, A., & Alhumyani, H. (2024). FuzzyTP-BERT: Enhancing Extractive Text Summarization with Fuzzy Topic Modeling and Transformer Networks. Journal of King Saud University- Computer and Information Sciences.
-* Onan, A., & Alhumyani, H. (2024). Contextual Hypergraph Networks for Enhanced Extractive Summarization: Introducing the Multi-element Contextual Hypergraph Extractive Summarizer (MCHES), Applied Sciences.
-* Nasution, A.H., & Onan, A. (2024). ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks. IEEE Access.
+* Onan, A., & Alhumyani, H. (2024). FuzzyTP-BERT: Enhancing Extractive Text Summarization with Fuzzy Topic Modeling and Transformer Networks. Journal of King Saud University- Computer and Information Sciences, 36(6), 102080.
+* Onan, A., & Alhumyani, H. (2024). Contextual Hypergraph Networks for Enhanced Extractive Summarization: Introducing the Multi-element Contextual Hypergraph Extractive Summarizer (MCHES), Applied Sciences, 14(11), 4671.
+* Nasution, A.H., & Onan, A. (2024). ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks. IEEE Access, 12, 71876–71900.
 * Celikten, A., Bulut, H., & Onan, A. (2024). A Semantic Similarity-Based Approach for Extracting Disease-Symptom Relationships from Biomedical Literature. Journal of the Faculty of Engineering and Architecture of Gazi University.
 * Onan, A., & Balbal, K. (2024). Improving Turkish text sentiment classification through task-specific and universal transformations: an ensemble data augmentation approach. IEEE Access, 12, 4413-4458.
 * Onan, A. (2023). GTR-GA: Harnessing The Power of Graph-Based Neural Networks and Genetic Algorithms for Text Augmentation. Expert Systems with Applications, 232, 1-20.
