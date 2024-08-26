@@ -79,38 +79,39 @@ International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 1. Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua.
 2. Bulut, V., Onan, A., & Şenyayla, B. (2024). Obtaining The Optimal Shortest Path Between Two Points on a Quasi-Developable Bézier-Type Surface Using The Geodesic-Based Q-Learning Algorithm. Engineering Applications of Artificial Intelligence.
 3. Yildiz Durak, H., & Onan, A. (2024). Predicting the use of chatbot systems in education: a comparative approach using PLS-SEM and machine learning algorithms. Current Psychology, 1-19.
-4. Onan, A., & Alhumyani, H. (2024). FuzzyTP-BERT: Enhancing Extractive Text Summarization with Fuzzy Topic Modeling and Transformer Networks. Journal of King Saud University- Computer and Information Sciences.
-5. Onan, A., & Alhumyani, H. (2024). Contextual Hypergraph Networks for Enhanced Extractive Summarization: Introducing the Multi-element Contextual Hypergraph Extractive Summarizer (MCHES), Applied Sciences.
-6. Nasution, A.H., & Onan, A. (2024). ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks. IEEE Access.
-7. Celikten, A., Bulut, H., & Onan, A. (2024). A Semantic Similarity-Based Approach for Extracting Disease-Symptom Relationships from Biomedical Literature. Journal of the Faculty of Engineering and Architecture of Gazi University.
-8. Onan, A., & Balbal, K. (2024). Improving Turkish text sentiment classification through task-specific and universal transformations: an ensemble data augmentation approach. IEEE Access.Durak, H.Y., & Onan, A. (2024). Predicting the use of chatbot systems in education: A comparative approach using PLS-SEM and machine learning algorithms. Current Psychology.
-9. Onan, A. (2023). GTR-GA: Harnessing The Power of Graph-Based Neural Networks and Genetic Algorithms for Text Augmentation. Expert Systems with Applications, 232, 1-20.
-10. Onan, A. (2023). SRL-ACO: A Text Augmentation Framework Based on Semantic Role Labeling and Ant Colony Optimization. Journal of King Saud University- Computer and Information Sciences, 35(7), 1-18.
-11. Ağralı, M., Kılıç, V., Onan, A., Koç, E.M., Koç, A.M., Büyüktoka, R., Acar, T., & Adıbelli, Z. (2023). DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images. International Journal of Imaging Systems and Technology, 33(3), 776-788.
-12. Onan, A. (2023). Hierarchical Graph-based Text Classification Framework with Contextual Node Embedding and BERT-based Dynamic Fusion. Journal of King Saud University- Computer and Information Science, 35(7), 1-18.
-13. Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
-14. Habek, G., Toçoğlu, M.A., & Onan, A. (2022).  Bi-Directional CNN-RNN Architecture with Group-Wise Enhancement and Attention Mechanisms for Cryptocurrency Sentiment Analysis. Applied Artificial Intelligence, 36(1), 1-26.
-15. Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
-16. Onan, A. (2021). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience, 33(23).
-17. Onan, A., & Toçoğlu, M. A. (2021). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education, 29(4), 675-689.
-18. Onan, A. (2021). Sentiment analysis on massive open online course evaluations: a text mining and deep learning approach, Computer Applications in Engineering Education, 29(3), 572-589.
-19. Bulut, H., Onan, A., & Korukoğlu, S. (2020). An improved ant-based algorithm based on heaps merging and fuzzy c-means for clustering cancer gene expression data, Sādhanā, 45(1), 1-17.
-20. Onan, A., & Toçoğlu MA. (2020). Satire identification in Turkish news articles based on ensemble of classifiers, Turkish Journal of Electrical Engineering & Computer Sciences, 28, 1086-1106.
-21. Onan, A. (2020). Mining opinions from instructor evaluation reviews: a deep learning approach, Computer Applications in Engineering Education, 28(1), 117-138.
-22. Onan, A. (2019). Two-stage topic extraction model for bibliometric data analysis based on word embeddings and clustering, IEEE Access, 7(1), 145614-145633.
-23.  Onan, A. (2019). Consensus clustering based approach to imbalanced learning, Scientific Programming, 2019, 1-14.
-24.  Onan, A. (2018). Biomedical text categorization based on ensemble pruning and optimized topic modelling. Computational and Mathematical Methods in Medicine, 2018, 1-22.
-25.  Onan, A. (2018). An ensemble scheme based on language function analysis and feature engineering for text genre classification. Journal of Information Science, 44(1),  28-47.
-26.  Onan, A., Korukoğlu, S., & Bulut, H. (2017). A hybrid ensemble pruning approach based on consensus clustering and multi-objective evolutionary algorithm for sentiment classification. Information Processing & Management, 53(4), 814-833.
-27.  Onan, A., Bulut, H., & Korukoglu, S. (2017). An improved ant algorithm with LDA-based representation for text document clustering. Journal of Information Science, 43(2), 275-292.
-28.  Onan, A. (2017). Hybrid supervised clustering-based ensemble scheme for text classification. Kybernetes, 46(2), 330-348.
-29.  Onan, A., & Korukoğlu, S. (2017). A feature selection model based on genetic rank aggregation for text sentiment classification. Journal of Information Science, 43(1), 25-38.
-30.  Onan, A. (2016). Classifier and feature set ensembles for web page classification. Journal of Information Science, 42(2), 150-165.
-31.  Onan, A., Korukoğlu, S., & Bulut, H. (2016). Ensemble of keyword extraction methods and classifiers in text classification. Expert Systems with Applications, 57, 232-247.
-32.  Onan, A., Korukoğlu, S., & Bulut, H. (2016). A multiobjective weighted voting ensemble classifier based on differential evolution algorithm for text sentiment classification. Expert Systems with Applications, 62, 1-16.
-33.  Onan, A., Bal, V., & Yanar Bayam, B. (2016). The Use of Data Mining for Strategic Management: A Case Study on Mining Association Rules in Student Information System. Croatian Journal of Education: Hrvatski časopis za odgoj i obrazovanje, 18(1), 41-70.
-34.  Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
-35.  Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
+4.  Onan, A., & Alhumyani, H. (2024). DeepExtract: Semantic-Driven Extractive Text Summarization Framework Using LLMs and Hierarchical Positional Encoding. Journal of King Saud University- Computer and Information Sciences.
+5. Onan, A., & Alhumyani, H. (2024). FuzzyTP-BERT: Enhancing Extractive Text Summarization with Fuzzy Topic Modeling and Transformer Networks. Journal of King Saud University- Computer and Information Sciences.
+6. Onan, A., & Alhumyani, H. (2024). Contextual Hypergraph Networks for Enhanced Extractive Summarization: Introducing the Multi-element Contextual Hypergraph Extractive Summarizer (MCHES), Applied Sciences.
+7. Nasution, A.H., & Onan, A. (2024). ChatGPT Label: Comparing the Quality of Human-Generated and LLM-Generated Annotations in Low-resource Language NLP Tasks. IEEE Access.
+8. Celikten, A., Bulut, H., & Onan, A. (2024). A Semantic Similarity-Based Approach for Extracting Disease-Symptom Relationships from Biomedical Literature. Journal of the Faculty of Engineering and Architecture of Gazi University.
+9. Onan, A., & Balbal, K. (2024). Improving Turkish text sentiment classification through task-specific and universal transformations: an ensemble data augmentation approach. IEEE Access.Durak, H.Y., & Onan, A. (2024). Predicting the use of chatbot systems in education: A comparative approach using PLS-SEM and machine learning algorithms. Current Psychology.
+10. Onan, A. (2023). GTR-GA: Harnessing The Power of Graph-Based Neural Networks and Genetic Algorithms for Text Augmentation. Expert Systems with Applications, 232, 1-20.
+11. Onan, A. (2023). SRL-ACO: A Text Augmentation Framework Based on Semantic Role Labeling and Ant Colony Optimization. Journal of King Saud University- Computer and Information Sciences, 35(7), 1-18.
+12. Ağralı, M., Kılıç, V., Onan, A., Koç, E.M., Koç, A.M., Büyüktoka, R., Acar, T., & Adıbelli, Z. (2023). DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images. International Journal of Imaging Systems and Technology, 33(3), 776-788.
+13. Onan, A. (2023). Hierarchical Graph-based Text Classification Framework with Contextual Node Embedding and BERT-based Dynamic Fusion. Journal of King Saud University- Computer and Information Science, 35(7), 1-18.
+14. Onan, A. (2022). Bidirectional convolutional recurrent neural network architecture with group-wise enhancement mechanism for text sentiment classification. Journal of King Saud University-Computer and Information Sciences, 34(5), 2098-2117.
+15. Habek, G., Toçoğlu, M.A., & Onan, A. (2022).  Bi-Directional CNN-RNN Architecture with Group-Wise Enhancement and Attention Mechanisms for Cryptocurrency Sentiment Analysis. Applied Artificial Intelligence, 36(1), 1-26.
+16. Onan, A., & Toçoğlu, M.A. (2021) A Term-weighted neural language model and stacked bidirectional LSTM based framework for sarcasm identification, IEEE Access, 9, 7701-7722.
+17. Onan, A. (2021). Sentiment analysis on product reviews based on weighted word embeddings and deep neural networks, Concurrency and Computation- Practice and Experience, 33(23).
+18. Onan, A., & Toçoğlu, M. A. (2021). Weighted word embeddings and clustering based identification of question topics in MOOC discussion forum posts, Computer Applications in Engineering Education, 29(4), 675-689.
+19. Onan, A. (2021). Sentiment analysis on massive open online course evaluations: a text mining and deep learning approach, Computer Applications in Engineering Education, 29(3), 572-589.
+20. Bulut, H., Onan, A., & Korukoğlu, S. (2020). An improved ant-based algorithm based on heaps merging and fuzzy c-means for clustering cancer gene expression data, Sādhanā, 45(1), 1-17.
+21. Onan, A., & Toçoğlu MA. (2020). Satire identification in Turkish news articles based on ensemble of classifiers, Turkish Journal of Electrical Engineering & Computer Sciences, 28, 1086-1106.
+22. Onan, A. (2020). Mining opinions from instructor evaluation reviews: a deep learning approach, Computer Applications in Engineering Education, 28(1), 117-138.
+23. Onan, A. (2019). Two-stage topic extraction model for bibliometric data analysis based on word embeddings and clustering, IEEE Access, 7(1), 145614-145633.
+24.  Onan, A. (2019). Consensus clustering based approach to imbalanced learning, Scientific Programming, 2019, 1-14.
+25.  Onan, A. (2018). Biomedical text categorization based on ensemble pruning and optimized topic modelling. Computational and Mathematical Methods in Medicine, 2018, 1-22.
+26.  Onan, A. (2018). An ensemble scheme based on language function analysis and feature engineering for text genre classification. Journal of Information Science, 44(1),  28-47.
+27.  Onan, A., Korukoğlu, S., & Bulut, H. (2017). A hybrid ensemble pruning approach based on consensus clustering and multi-objective evolutionary algorithm for sentiment classification. Information Processing & Management, 53(4), 814-833.
+28.  Onan, A., Bulut, H., & Korukoglu, S. (2017). An improved ant algorithm with LDA-based representation for text document clustering. Journal of Information Science, 43(2), 275-292.
+29.  Onan, A. (2017). Hybrid supervised clustering-based ensemble scheme for text classification. Kybernetes, 46(2), 330-348.
+30.  Onan, A., & Korukoğlu, S. (2017). A feature selection model based on genetic rank aggregation for text sentiment classification. Journal of Information Science, 43(1), 25-38.
+31.  Onan, A. (2016). Classifier and feature set ensembles for web page classification. Journal of Information Science, 42(2), 150-165.
+32.  Onan, A., Korukoğlu, S., & Bulut, H. (2016). Ensemble of keyword extraction methods and classifiers in text classification. Expert Systems with Applications, 57, 232-247.
+33.  Onan, A., Korukoğlu, S., & Bulut, H. (2016). A multiobjective weighted voting ensemble classifier based on differential evolution algorithm for text sentiment classification. Expert Systems with Applications, 62, 1-16.
+34.  Onan, A., Bal, V., & Yanar Bayam, B. (2016). The Use of Data Mining for Strategic Management: A Case Study on Mining Association Rules in Student Information System. Croatian Journal of Education: Hrvatski časopis za odgoj i obrazovanje, 18(1), 41-70.
+35.  Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
+36.  Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
 
 Other International Journal Papers
 ====
