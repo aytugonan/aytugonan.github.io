@@ -324,6 +324,7 @@ Reviewer for
 Awards
 ====
 
+- Listed in **“Most Influential Scientists of the World- 2024”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in **“Highly Cited Researchers- 2023”** created by Clarivate Analytics.
 -	Listed in **“Most Influential Scientists of the World- 2023”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
 -	Listed in **“Most Influential Scientists of the World- 2022”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. The list created by the research team, consisting of US and Dutch scientists, because of an assessment made among millions of academics worldwide.
