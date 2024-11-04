@@ -102,6 +102,7 @@ National Refereed Journal Papers
 
 International Conference Proceedings
 ====
+* Eğin, F., Onan, A., & Yildiz Durak, H. (2024). Mecaz Anlamlı Cümle Etiketlemede Büyük Dil Modellerinin Değerlendirilmesi. International Conference on Optimization and Data Science in Industrial Engineering (ODSIE 2024).
 * Onan, A., & Celikten, T. (2024). Evaluating the Coherence and Diversity in AI-Generated and Paraphrased Scientific Abstracts: A Fuzzy Topic Modeling Approach. In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
 * Dursun, E.D., & Onan, A. (2024). Benchmarking Retrieval Augmented Generation in Quantitative Finance.  In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
 * Erdogan, H., Turhan-Turan, N., & Onan, A. (2024). Comparative Analysis of Large Language Models in Source Code Analysis. In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
