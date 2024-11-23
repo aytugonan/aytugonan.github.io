@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Awards"
+title: "Honors and Achievements"
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# Honors and Achievements
 
 ## Global Recognitions
 - Listed in **“Most Influential Scientists of the World – 2024”**  
