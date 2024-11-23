@@ -32,10 +32,13 @@ redirect_from:
 
 ## Institutional Recognitions
 - **Izmir Katip Çelebi University**  
-  - Certificate of Appreciation (Academic Incentive, ranked first place in Faculty and Department) – January 2022.  
-  - Certificate of Appreciation (World’s Most Influential Scientists List) – January 2022.  
-  - Certificate of Appreciation (World’s Most Influential Scientists List) – January 2021.  
-  - Scientific Award (Academic Incentive Award) – January 2021.  
+  - Certificate of Appreciation (World's Most Influential Scientists List) -- October 2024.
+  - Certificate of Appreciation (Academic Incentive, ranked third place in Faculty) -- January 2024.
+  - Certificate of Appreciation (Academic Incentive, ranked second place in Faculty) -- January 2023.
+  - Certificate of Appreciation (Academic Incentive, ranked first place in Faculty and Department) -- January 2022.  
+  - Certificate of Appreciation (World’s Most Influential Scientists List) -- January 2022.  
+  - Certificate of Appreciation (World’s Most Influential Scientists List) -- January 2021.  
+  - Scientific Award (Academic Incentive Award)-- January 2021.  
 
 ---
 
