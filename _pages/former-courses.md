@@ -27,7 +27,7 @@ redirect_from:
   *Department of Software Engineering, Izmir Katip Celebi University*
 - **YZM 512 – Data Science and Engineering** (Turkish)  
   *Department of Software Engineering, Izmir Katip Celebi University*
-  - **CENG 203 – Object Oriented Programming** (English)  
+- **CENG 203 – Object Oriented Programming** (English)  
   *Department of Computer Engineering, Izmir Katip Celebi University*
 
 ## 2022-2023 Academic Year
