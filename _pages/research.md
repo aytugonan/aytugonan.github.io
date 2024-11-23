@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# Research Projects
 
 ## National and International Funded Projects
 - **TÜBİTAK 1002**  
