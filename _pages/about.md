@@ -8,4 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Aytuğ Onan received his BS. in Computer Engineering from Izmir University of Economics (Turkey) in 2010. He earned his MS in Computer Engineering and PhD in Computer Engineering from Ege University (Turkey) in 2013 and 2016, respectively. He has been working as "Full Professor of Artificial Intelligence and Data Engineering" since January 2024 at the Department of Computer Engineering of Izmir Katip Celebi University (Turkey). He has been reviewing for several international journals including Expert Systems with Applications, Plos One and International Journal of Machine Learning and Cybernetics. He has published several journal papers on machine learning and computational linguistics. Dr. Onan entered the lists of **“Most Influential Scientists of the World- 2020, 2021, 2022, 2023 and 2024 (Five Consecutive Years)”** created by a research team led by Dr. John Ioannidis from Stanford University, USA. In addition, he has received **"Highly Cited Researchers Award 2023"** by Clarivate.
+# About Dr. Aytuğ Onan
+
+Dr. Aytuğ Onan received his **B.Sc. in Computer Engineering** from Izmir University of Economics, Turkey, in 2010. He completed his **M.Sc. in Computer Engineering** in 2013 and **Ph.D. in Computer Engineering** in 2016, both at Ege University, Turkey. Since January 2024, he has been serving as a **Full Professor of Artificial Intelligence and Data Engineering** in the Department of Computer Engineering at İzmir Katip Çelebi University, Turkey.
+
+Dr. Onan has made significant contributions to the fields of **machine learning** and **computational linguistics**, publishing numerous research papers in prestigious journals. He actively reviews for several high-impact international journals, including:
+
+- *Expert Systems with Applications*  
+- *PLOS ONE*  
+- *International Journal of Machine Learning and Cybernetics*  
+
+His research focuses on advancing machine learning methodologies and their applications in data-driven problem-solving.
+
+## Achievements and Recognitions
+- Included in the **“Most Influential Scientists of the World”** list for **five consecutive years (2020–2024)**, compiled by a research team led by Dr. John Ioannidis from Stanford University, USA.
+- Awarded the **"Highly Cited Researchers Award 2023"** by Clarivate, recognizing his impactful contributions to scientific research.
+
+Dr. Onan continues to advance the boundaries of artificial intelligence, data engineering, and computational linguistics through his innovative research and collaborations.
+
