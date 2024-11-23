@@ -21,8 +21,6 @@ redirect_from:
   *Department of Computer Engineering, Izmir Katip Celebi University*
 
 ### Fall Semester
-- **EEM 620 – Artificial Neural Networks (PhD)** (Turkish)  
-  *Department of Electrical and Electronics Engineering, Izmir Katip Celebi University*
 - **YZM 510 – Machine Learning and Reasoning (Master's)** (Turkish)  
   *Department of Software Engineering, Izmir Katip Celebi University*
 - **YZM 512 – Data Science and Engineering** (Turkish)  
