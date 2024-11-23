@@ -7,12 +7,26 @@ redirect_from:
   - /resume
 ---
 
-* **Ph.D. Degree in Computer Engineering**, Ege University, İzmir/Turkey, July 2016.
+# Academic Background
 
-- Thesis title: The development and implementation of machine learning based algorithms for sentiment analysis. Advisor: Professor Serdar Korukoğlu, Co- Advisor: Associate Professor Hasan Bulut
+## **Ph.D. Degree in Computer Engineering**  
+- **Institution:** Ege University, İzmir, Turkey  
+- **Completion Date:** July 2016  
+- **Thesis Title:** *The Development and Implementation of Machine Learning-Based Algorithms for Sentiment Analysis*  
+- **Advisor:** Professor Serdar Korukoğlu  
+- **Co-Advisor:** Associate Professor Hasan Bulut  
 
-* **MSc. Degree in Computer Engineering**, Ege University, İzmir/Turkey, January 2013.
+---
 
-- Thesis title: Metaheuristic Algorithms for Cluster Analysis. Advisor: Professor Serdar Korukoğlu
+## **M.Sc. Degree in Computer Engineering**  
+- **Institution:** Ege University, İzmir, Turkey  
+- **Completion Date:** January 2013  
+- **Thesis Title:** *Metaheuristic Algorithms for Cluster Analysis*  
+- **Advisor:** Professor Serdar Korukoğlu  
 
-* **BSc. Degree in Computer Engineering**, Izmir University of Economics, İzmir/Turkey, June 2010.
+---
+
+## **B.Sc. Degree in Computer Engineering**  
+- **Institution:** Izmir University of Economics, İzmir, Turkey  
+- **Completion Date:** June 2010  
+
