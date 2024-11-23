@@ -10,6 +10,50 @@ redirect_from:
 
 # Academic Courses Taught
 
+## 2023-2024 Academic Year
+
+### Spring Semester
+- **YZM 510 – Machine Learning and Reasoning (Master's)** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **YZM 512 – Data Science and Engineering** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **CENG 202 – Data Structures** (English)  
+  *Department of Computer Engineering, Izmir Katip Celebi University*
+
+### Fall Semester
+- **EEM 620 – Artificial Neural Networks (PhD)** (Turkish)  
+  *Department of Electrical and Electronics Engineering, Izmir Katip Celebi University*
+- **YZM 510 – Machine Learning and Reasoning (Master's)** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **YZM 512 – Data Science and Engineering** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+  - **CENG 203 – Object Oriented Programming** (English)  
+  *Department of Computer Engineering, Izmir Katip Celebi University*
+
+## 2022-2023 Academic Year
+
+### Spring Semester
+- **YZM 510 – Machine Learning and Reasoning (Master's)** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **YZM 512 – Data Science and Engineering** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **ROE 501 – Applied Machine Learning** (English)  
+  *Department of Robotics Engineering, Izmir Katip Celebi University*
+- **ROE 515 – Artificial Intelligence (Master's)** (English)  
+  *Department of Robotics Engineering, Izmir Katip Celebi University*
+
+### Fall Semester
+- **EEM 620 – Artificial Neural Networks (PhD)** (Turkish)  
+  *Department of Electrical and Electronics Engineering, Izmir Katip Celebi University*
+- **YZM 510 – Machine Learning and Reasoning (Master's)** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **YZM 512 – Data Science and Engineering** (Turkish)  
+  *Department of Software Engineering, Izmir Katip Celebi University*
+- **COE 201 – Computer Programming and Applications** (English)  
+  *Department of Geomatics Engineering, Izmir Katip Celebi University*
+- **COE 203 – Matlab Programming** (English)  
+  *Department of Petroleum and Natural Gas Engineering, Izmir Katip Celebi University*
+
 ## 2021–2022 Academic Year
 
 ### Summer Semester
