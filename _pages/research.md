@@ -58,6 +58,9 @@ redirect_from:
 ## Industry-Supported Projects
 - **KOSGEB Supported Research Project**  
   *Hardware and Software Platform Development Project for Smart Energy Management*  
+  **Role:** Project Consultant
+- **TÜBİTAK Supported Research Project**  
+  *Development of an Artificial Intelligence-Based Platform for Calculating, Monitoring, and Reporting Greenhouse Gas Emissions*  
   **Role:** Project Consultant  
 
 ---
