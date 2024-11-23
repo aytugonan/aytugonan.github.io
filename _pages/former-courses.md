@@ -28,6 +28,9 @@ redirect_from:
 - **CENG 203 – Object Oriented Programming** (English)  
   *Department of Computer Engineering, Izmir Katip Celebi University*
 
+---
+
+
 ## 2022-2023 Academic Year
 
 ### Spring Semester
@@ -51,6 +54,8 @@ redirect_from:
   *Department of Geomatics Engineering, Izmir Katip Celebi University*
 - **COE 203 – Matlab Programming** (English)  
   *Department of Petroleum and Natural Gas Engineering, Izmir Katip Celebi University*
+
+---
 
 ## 2021–2022 Academic Year
 
