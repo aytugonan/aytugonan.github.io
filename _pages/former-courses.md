@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Former Courses"
+title: "Academic Courses Taught"
 permalink: /former-courses/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-# Academic Courses Taught
 
 ## 2023-2024 Academic Year
 
