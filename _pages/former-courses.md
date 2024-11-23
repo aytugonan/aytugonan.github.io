@@ -24,9 +24,9 @@ redirect_from:
 - **YZM 512 – Data Science and Engineering** (Turkish)  
   *Department of Software Engineering, Izmir Katip Celebi University*
 - **ROE 501 – Applied Machine Learning** (English)  
-  *Robotics Engineering Department, Izmir Katip Celebi University*
+  *Department of Robotics Engineering, Izmir Katip Celebi University*
 - **ROE 515 – Artificial Intelligence (Master's)** (English)  
-  *Robotics Engineering Department, Izmir Katip Celebi University*
+  *Department of Robotics Engineering, Izmir Katip Celebi University*
 
 ### Fall Semester
 - **EEM 620 – Artificial Neural Networks (PhD)** (Turkish)  
