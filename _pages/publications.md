@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
-====
+# International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
+
 * Çaylı, Ö., Kılıç, V., Onan, A., & Wang, W. (2024). Multi-layer Gated Recurrent Unit based Recurrent Neural Network for Image Captioning. International Journal of Pattern Recognition and Artificial Intelligence.
 * Onan, A., & Alhumyani, H. (2024).Knowledge-Enhanced Transformer Graph Summarization (KETGS): Integrating Entity and Discourse Relations for Advanced Extractive Text Summarization, Mathematics.
 * Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua, 80(2), 3351-3377.
@@ -46,13 +46,13 @@ International Journal Papers (indexed in SCI, SCI-Expanded or SSCI)
 * Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
 * Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
 
-Other International Journal Papers
-====
+# Other International Journal Papers
+
 * Onan, A. (2018). Sentiment analysis on Twitter based on ensemble of psychological and linguistic feature sets. Balkan Journal of Electrical and Computer Engineering, 6(2), 1-9.
 * Onan, A., Korukoglu, S., & Bulut, H. (2016). LDA-based Topic Modelling in Text Sentiment Classification: An Empirical Analysis. Int. J. Comput. Linguistics Appl., 7(1), 101-119.
 
-Book Chapters
-====
+# Book Chapters
+
 * Onan, A. (2024). Yapay zeka, büyük dil modelleri ve istem mühendisliği. Yapay Zeka Okuryazarlığı, Nobel.
 * Onan, A. (2023). Leveraging synonyms and antonyms for data augmentation in sarcasm identification. Artificial Intelligence Application in Networks and Systems. Springer, Cham.
 * Çelikten, A., Onan, A., & Bulut, H. (2023, May). Investigation of Biomedical Named Entity Recognition Methods. In 4th International Conference on Artificial Intelligence and Applied Mathematics in Engineering: ICAIAME 2022 (pp. 218-229). Cham: Springer International Publishing.
@@ -69,8 +69,8 @@ Book Chapters
 * Onan, A. (2015). On the performance of ensemble learning for automated diagnosis of breast cancer. In Artificial Intelligence Perspectives and Applications (pp. 119-129). Springer, Cham.
 * Onan, A. (2015). Artificial immune system based web page classification. In Software engineering in intelligent systems (pp. 189-199). Springer, Cham.
 
-National Refereed Journal Papers
-====
+# National Refereed Journal Papers
+
 * Baştürk, B., & Onan, A. (2024). Kalp Hastalığı Makale Özetlerinde Gizli Temaları Keşfetme: Konu Modelleme Yaklaşımı, Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi.
 * Durak, H.Y., & Onan, A. (2023). Eğitimde Chatbot Kullanmaya ve Öğrenmeye Yönelik Davranışsal Niyet Ölçeğinin Türkçeye Uyarlanması. Journal of Ahmet Kelesoglu Education Faculty, 5(3), 1162-1172.
 * Uslu, N.A., & Onan, A. (2023). Investigating Computational Identity and Empowerment of The Students Studying Programming: A Text Mining Study. NEÜ Ereği Eğitim Dergisi, 5(1), 29-45.
@@ -101,8 +101,8 @@ National Refereed Journal Papers
 * Onan, A. (2014). Promethee Sıralama Yönteminin Konut Projelerinin Değerlendirilmesinde Kullanılması. AKÜ İİBF Dergisi, XVI(1), 17-28.
 * Onan, A. (2013). Metasezgisel yöntemler ve uygulama alanları. Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 17(2), 113-128.
 
-International Conference Proceedings
-====
+# International Conference Proceedings
+
 * Eğin, F., Onan, A., & Yildiz Durak, H. (2024). Mecaz Anlamlı Cümle Etiketlemede Büyük Dil Modellerinin Değerlendirilmesi. International Conference on Optimization and Data Science in Industrial Engineering (ODSIE 2024).
 * Onan, A., & Celikten, T. (2024). Evaluating the Coherence and Diversity in AI-Generated and Paraphrased Scientific Abstracts: A Fuzzy Topic Modeling Approach. In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
 * Dursun, E.D., & Onan, A. (2024). Benchmarking Retrieval Augmented Generation in Quantitative Finance.  In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
@@ -161,8 +161,8 @@ International Conference Proceedings
 * Onan, A., Korukoğlu, S., & Bulut, H. (2016). LDA-based topic modelling in text sentiment classification: an empirical analysis. In 17th International Conference on Computational Linguistics and Intelligent Text Processing (CICLING 2016).
 * Onan, A., & Korukoğlu, S. (2013). Improving performance of glowworm swarm optimization for cluster analysis using k-means. In International Symposium on Computing in Science & Engineering.
 
-National Conference Proceedings
-====
+# National Conference Proceedings
+
 * Binici, R.C., Onan, A., Koch, R., & Schroder, S-M. (2024). Image Inpainting with GANs on LOKI Dataset. ASYU 2024.
 * Özdemir, M.A., Güren, O., Cura, O.K, Akan, A., & Onan, A. (2020). Abnormal ECG beat detection based on convolutional neural networks. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
 * Özdemir, M.A., Kısa, H.D., Güren, O., Onan, A., & Akan, A. (2020). EMG based hand gesture recognition using. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
