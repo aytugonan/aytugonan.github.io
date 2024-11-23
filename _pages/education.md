@@ -14,7 +14,7 @@ redirect_from:
 - **Completion Date:** July 2016  
 - **Thesis Title:** *The Development and Implementation of Machine Learning-Based Algorithms for Sentiment Analysis*  
 - **Advisor:** Professor Serdar Korukoğlu  
-- **Co-Advisor:** Associate Professor Hasan Bulut  
+- **Co-Advisor:** Professor Hasan Bulut  
 
 ---
 
