@@ -11,6 +11,9 @@ redirect_from:
 ## Global Recognitions
 - Listed in **“Most Influential Scientists of the World – 2024”**  
   *Recognized by a research team led by Dr. John Ioannidis from Stanford University, USA. This list, prepared by US and Dutch scientists, is based on an evaluation of millions of academics worldwide.*
+
+- Listed in **“Top Cited Scholars – 2024”**  
+  *Created by Scilit.*
   
 - Listed in **“Highly Cited Researchers – 2023”**  
   *Created by Clarivate Analytics.*
