@@ -142,32 +142,33 @@ Book Chapters
 National Refereed Journal Papers
 ====
 
-1. Uslu, N.A., & Onan, A. (2023). Investigating Computational Identity and Empowerment of The Students Studying Programming: A Text Mining Study. NEÜ Ereği Eğitim Dergisi, 5(1), 29-45.
-2. Onan, A. (2022). Türkçe Metin Madenciliği için Dikkat Mekanizması Tabanlı Derin Öğrenme Mimarilerinin Değerlendirilmesi. Avrupa Bilim ve Teknoloji Dergisi, (34), 403-407.
-3. Onan, A. (2022). Türkçe Metin Madenciliği için Çalışan Bellek Bağlantıları Tabanlı Uzun Kısa Süreli Bellek Mimarisi. Avrupa Bilim ve Teknoloji Dergisi, (34), 239-246.
-4. Karga, K., Toçoğlu, M. A., & Onan, A. (2022). Deep Learning-Based Sentiment Analysis on Education During the COVID-19 Pandemic. Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi, 24(72), 855-868.
-5. Özdemir, A., Onan, A., & ERGENE, V. Ç. (2022). Machine Learning and Ensemble Learning Based Method Using Online Employee Assessments to Identify and Analyze Job Satisfaction Factors. Avrupa Bilim ve Teknoloji Dergisi, (40), 19-28.
-6. Uslu, B., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Resnet based Deep Gated Recurrent Unit for Image Captioning on Smartphone. Avrupa Bilim ve Teknoloji Dergisi, (35), 610-615.
-7. AYDIN, S., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Sequence-to-Sequence Video Captioning with Residual Connected Gated Recurrent Units. Avrupa Bilim ve Teknoloji Dergisi, (35), 380-386.2.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
-8.	Keskin, R., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). A benchmark for feature-injection architectures in image captioning. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
-9.	Fetiler, B., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). Video captioning based on multi-layer gated recurrent unit for smartphones. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
-10.	Onan, A. (2021).  COVID-19 ile ilgili sosyal medya gönderilerinin metin madenciliği yöntemlerine dayalı olarak zaman-mekansal analizi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
-11.	Göçgün, Ö.F., & Onan, A. (2021). Amazon ürün değerlendirmeleri üzerinde derin öğrenme/makine öğrenmesi tabanlı duygu analizi yapılması. Avrupa Bilim ve Teknoloji Dergisi, 24, 445-448.
-12.	Özdemir, A., Onan, A., & Ergene, V. (2021). İş Tatmini Faktörlerini Belirlemeye Ve Analiz Etmeye Yönelik Olarak Çalışanların Çevrimiçi Değerlendirmelerinin Sınıflandırıcı Topluluklarına Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 531-538.
-13.	Özdemir, A., Onan, A., & Ergene, V. (2021). Çalışanların Çevrimiçi Değerlendirmelerinin İş Tatmini Faktörlerini Belirlemeye ve Analiz Etmeye Yönelik Olarak Makine Öğrenmesine Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 526-530.
-14.	Onan, A. (2021). Ensemble of classifiers and term weighting schemes for sentiment analysis in Turkish. Scientific Research Communications, 1(1), 1-12.
-15.	Onan, A. (2020). Evrişimli sinir ağı mimarilerine dayalı Türkçe duygu analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 374-380.
-16.	Onan, A., Yalçın, A., & Atik, E. (2020). Üniversite Bilgi Yönetim Sistemi Servis Destek Taleplerinin Konu Modelleme Tabanlı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 352-359.
-17.	Onan, A. (2018). A clustering based classifier ensemble approach to corporate bankruptcy prediction. Alphanumeric Journal, 6(2), 365-376.
-18.	Onan, A. (2018). Parçacık sürüsü eniyilemesine dayalı yığılmış genelleme yöntemi ve metin sınıflandırma üzerinde uygulanması. Akademik Platform Mühendislik ve Fen Bilimleri Dergisi, 6(2), 131-141.
-19.	Onan, A. (2018). Metin belgesi kümelemede metasezgisel yöntemlere dayalı kümeleme algoritmaları. Akıllı Sistemler ve Uygulamaları Dergisi, 1(2), 206-212.
-20.	Okyay, M.S., Alaybeyoğlu, A., & Onan, A. (2018). Yapay zeka tabanlı akıllı muhasebe Android mobil uygulama tasarımı. Akıllı Sistemler ve Uygulamaları Dergisi, 1(1), 111-116.
-21.	Onan, A., Alaybeyoğlu, A., & Okyay, M.S. (2018). A design and application of Android mobile based smart business accounting software. Sakarya University Journal of Computer and Information Sciences, 1(1), 22-35.
-22.	Onan, A. (2017). Twitter mesajları üzerinde makine öğrenmesi yöntemlerine dayalı duygu analizi. Yönetim Bilişim Sistemleri Dergisi, 3(2), 1-14.
-23.	Onan, A., & Korukoğlu, S. (2016). Makine öğrenmesi yöntemlerinin görüş madenciliğinde kullanılması üzerine bir literatür araştırması. Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi, 22(2), 111-122.
-24.	Onan, A. (2015). Şirket iflaslarının tahmin edilmesinde karar ağacı algoritmalarının karşılaştırmalı başarım analizi. Bilişim Teknolojileri Dergisi, 8(1), 9-19.
-25.	Onan, A. (2014). Promethee Sıralama Yönteminin Konut Projelerinin Değerlendirilmesinde Kullanılması. AKÜ İİBF Dergisi, XVI(1), 17-28.
-26.	Onan, A. (2013). Metasezgisel yöntemler ve uygulama alanları. Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 17(2), 113-128.
+1. Uzun, S.D., Onan, A., & Bulut, V. (2024). Tuzlu Suda Metan Hidrat Oluşum Koşullarının Tahmini için Regresyon Algoritmalarının Karşılaştırmalı Analizi, Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi, 7(5): 2065-2083, 2024.
+2.  Uslu, N.A., & Onan, A. (2023). Investigating Computational Identity and Empowerment of The Students Studying Programming: A Text Mining Study. NEÜ Ereği Eğitim Dergisi, 5(1), 29-45.
+3. Onan, A. (2022). Türkçe Metin Madenciliği için Dikkat Mekanizması Tabanlı Derin Öğrenme Mimarilerinin Değerlendirilmesi. Avrupa Bilim ve Teknoloji Dergisi, (34), 403-407.
+4. Onan, A. (2022). Türkçe Metin Madenciliği için Çalışan Bellek Bağlantıları Tabanlı Uzun Kısa Süreli Bellek Mimarisi. Avrupa Bilim ve Teknoloji Dergisi, (34), 239-246.
+5. Karga, K., Toçoğlu, M. A., & Onan, A. (2022). Deep Learning-Based Sentiment Analysis on Education During the COVID-19 Pandemic. Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi, 24(72), 855-868.
+6. Özdemir, A., Onan, A., & ERGENE, V. Ç. (2022). Machine Learning and Ensemble Learning Based Method Using Online Employee Assessments to Identify and Analyze Job Satisfaction Factors. Avrupa Bilim ve Teknoloji Dergisi, (40), 19-28.
+7. Uslu, B., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Resnet based Deep Gated Recurrent Unit for Image Captioning on Smartphone. Avrupa Bilim ve Teknoloji Dergisi, (35), 610-615.
+8. AYDIN, S., ÇAYLI, Ö., KILIÇ, V., & Onan, A. (2022). Sequence-to-Sequence Video Captioning with Residual Connected Gated Recurrent Units. Avrupa Bilim ve Teknoloji Dergisi, (35), 380-386.2.	Onan, A. (2021). Haber metinlerinden sosyo-ekonomik ve epidemiyolojik konuların metin madenciliğine dayalı belirlenmesi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
+9.	Keskin, R., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). A benchmark for feature-injection architectures in image captioning. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
+10.	Fetiler, B., Çaylı, Ö., Moral, Ö.T., Kılıç, V., & Onan, A. (2021). Video captioning based on multi-layer gated recurrent unit for smartphones. Avrupa Bilim ve Teknoloji Dergisi, 31, 461-468.
+11.	Onan, A. (2021).  COVID-19 ile ilgili sosyal medya gönderilerinin metin madenciliği yöntemlerine dayalı olarak zaman-mekansal analizi. Avrupa Bilim ve Teknoloji Dergisi, 2021.
+12.	Göçgün, Ö.F., & Onan, A. (2021). Amazon ürün değerlendirmeleri üzerinde derin öğrenme/makine öğrenmesi tabanlı duygu analizi yapılması. Avrupa Bilim ve Teknoloji Dergisi, 24, 445-448.
+13.	Özdemir, A., Onan, A., & Ergene, V. (2021). İş Tatmini Faktörlerini Belirlemeye Ve Analiz Etmeye Yönelik Olarak Çalışanların Çevrimiçi Değerlendirmelerinin Sınıflandırıcı Topluluklarına Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 531-538.
+14.	Özdemir, A., Onan, A., & Ergene, V. (2021). Çalışanların Çevrimiçi Değerlendirmelerinin İş Tatmini Faktörlerini Belirlemeye ve Analiz Etmeye Yönelik Olarak Makine Öğrenmesine Dayalı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 28, 526-530.
+15.	Onan, A. (2021). Ensemble of classifiers and term weighting schemes for sentiment analysis in Turkish. Scientific Research Communications, 1(1), 1-12.
+16.	Onan, A. (2020). Evrişimli sinir ağı mimarilerine dayalı Türkçe duygu analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 374-380.
+17.	Onan, A., Yalçın, A., & Atik, E. (2020). Üniversite Bilgi Yönetim Sistemi Servis Destek Taleplerinin Konu Modelleme Tabanlı Analizi. Avrupa Bilim ve Teknoloji Dergisi, 2020, 352-359.
+18.	Onan, A. (2018). A clustering based classifier ensemble approach to corporate bankruptcy prediction. Alphanumeric Journal, 6(2), 365-376.
+19.	Onan, A. (2018). Parçacık sürüsü eniyilemesine dayalı yığılmış genelleme yöntemi ve metin sınıflandırma üzerinde uygulanması. Akademik Platform Mühendislik ve Fen Bilimleri Dergisi, 6(2), 131-141.
+20.	Onan, A. (2018). Metin belgesi kümelemede metasezgisel yöntemlere dayalı kümeleme algoritmaları. Akıllı Sistemler ve Uygulamaları Dergisi, 1(2), 206-212.
+21.	Okyay, M.S., Alaybeyoğlu, A., & Onan, A. (2018). Yapay zeka tabanlı akıllı muhasebe Android mobil uygulama tasarımı. Akıllı Sistemler ve Uygulamaları Dergisi, 1(1), 111-116.
+22.	Onan, A., Alaybeyoğlu, A., & Okyay, M.S. (2018). A design and application of Android mobile based smart business accounting software. Sakarya University Journal of Computer and Information Sciences, 1(1), 22-35.
+23.	Onan, A. (2017). Twitter mesajları üzerinde makine öğrenmesi yöntemlerine dayalı duygu analizi. Yönetim Bilişim Sistemleri Dergisi, 3(2), 1-14.
+24.	Onan, A., & Korukoğlu, S. (2016). Makine öğrenmesi yöntemlerinin görüş madenciliğinde kullanılması üzerine bir literatür araştırması. Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi, 22(2), 111-122.
+25.	Onan, A. (2015). Şirket iflaslarının tahmin edilmesinde karar ağacı algoritmalarının karşılaştırmalı başarım analizi. Bilişim Teknolojileri Dergisi, 8(1), 9-19.
+26.	Onan, A. (2014). Promethee Sıralama Yönteminin Konut Projelerinin Değerlendirilmesinde Kullanılması. AKÜ İİBF Dergisi, XVI(1), 17-28.
+27.	Onan, A. (2013). Metasezgisel yöntemler ve uygulama alanları. Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 17(2), 113-128.
 
 International Conference Proceedings
 ====
