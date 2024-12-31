@@ -73,6 +73,7 @@ author_profile: true
 # National Refereed Journal Papers
 
 * Baştürk, B., & Onan, A. (2024). Kalp Hastalığı Makale Özetlerinde Gizli Temaları Keşfetme: Konu Modelleme Yaklaşımı, Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi.
+* Habek, G.C., & Toçoğlu, M., & Onan, A. (2024). Konu Modelleme Yöntemleri ile Kripto Para Duygu Analizi, Avrupa Bilim ve Teknoloji Dergisi (54), 161-173.
 * Uzun, S.D., Onan, A., & Bulut, V. (2024). Tuzlu Suda Metan Hidrat Oluşum Koşullarının Tahmini için Regresyon Algoritmalarının Karşılaştırmalı Analizi, Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi, 7(5): 2065-2083, 2024.
 * Durak, H.Y., & Onan, A. (2023). Eğitimde Chatbot Kullanmaya ve Öğrenmeye Yönelik Davranışsal Niyet Ölçeğinin Türkçeye Uyarlanması. Journal of Ahmet Kelesoglu Education Faculty, 5(3), 1162-1172.
 * Uslu, N.A., & Onan, A. (2023). Investigating Computational Identity and Empowerment of The Students Studying Programming: A Text Mining Study. NEÜ Ereği Eğitim Dergisi, 5(1), 29-45.
