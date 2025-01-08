@@ -7,7 +7,7 @@ author_profile: true
 
 # International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
-* Eğin, F., Onan, A., & Yildiz Durak, H. (2025). Let's Talk about EdTech! A Topic modeling analysis of AI Tools and Preservice Teachers' Perspectives. European Journal of Education. (Accepted)
+* Eğin, F., Onan, A., & Yildiz Durak, H. (2025). Let's Talk about EdTech! A Topic modeling analysis of AI Tools and Preservice Teachers' Perspectives. European Journal of Education. 
 * Çaylı, Ö., Kılıç, V., Onan, A., & Wang, W. (2024). Multi-layer Gated Recurrent Unit based Recurrent Neural Network for Image Captioning. International Journal of Pattern Recognition and Artificial Intelligence.
 * Onan, A., & Alhumyani, H. (2024).Knowledge-Enhanced Transformer Graph Summarization (KETGS): Integrating Entity and Discourse Relations for Advanced Extractive Text Summarization, Mathematics.
 * Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua, 80(2), 3351-3377.
