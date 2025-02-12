@@ -239,7 +239,7 @@ National Conference Proceedings
 
 Editorial Board
 ====
-- Elsevier: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), Associate Editor**, 2019-present.
+- Springer: Journal of King Saud University- Computer and Information Sciences **(Indexed in SCI-Expanded, Q1), Associate Editor**, 2019-present.
 - Springer: Discover Computing **(Indexed in SCI-Expanded), Editorial Board Member**, 2024-present.
 - Springer: International Journal of Computational Intelligence Systems **(Indexed in SCI-Expanded), Area Editor (Data Mining and Machine Learning)**, 2024-present.
 - Tech Science Press: Computers, Materials & Continua **(Indexed in SCI-Expaned, Q3), Editorial Board Member**, 2024-present.
@@ -366,7 +366,11 @@ Graduate Student Supervision
 - Hatice Yıldız Durak (2023). Predicting the actual use of chatbot systems as a tool for education: A comparative approach using PLS-SEM and machine learning algorithms, MSc. in Software Engineering, Izmir Katip Çelebi University.
 - Figen Eğin (2023). Text mining detection of hate speech against refugees on social networks, MSc. in Software Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. V. Bulut).
 - Özkan Çaylı (2023). Automated captioning of image and audio for visually and hearing impaired, MSc. in Electrical and Electronics Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. V. Kılıç).
+- Seda Şendur (2024). Gender Bias in Next-Generation Large Language Models: A Comprehensive Evaluation of GPT Models, MSc. in Software Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. H. Koyuncuoğlu).
 - Ahmet Ezgi (2024). Deep learning based medical diagnostics with generative adversarial network based data augmentation, MSc. in Software Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. V. Bulut).
+- Raziye Ceren Şahin (2025). Classification of Fish by Weight with Computer Vision and Deep Learning, MSc. in Robotics Engineering, Izmir Katip Çelebi University.
+- Hüseyin Erdoğan (2025).Recommendations for Enhancing, Optimizing, and Improving Code Quality through Artificial Intelligence-Based Source Code Analysis, MSc. in Systems Engineering, Izmir Katip Çelebi University (Co-supervised with Assist. Prof. Dr. N. Turan).
+- Muhammed Kadıoğlu (2025). Development Of An Artificial Intelligence-Based System For Monthly Forecasting Of Critical Raw Material Prices In The Manufacturing Industry, MSc. in Software Engineering, Izmir Katip Çelebi University.
 
 
 Research Projects
