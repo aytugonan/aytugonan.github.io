@@ -359,6 +359,7 @@ Graduate Student Supervision
 **Master Students**
 - Muhammet Serhat Okyay (2018). Smart business accounting software as an android mobile application using artificial intelligence, MSc. in Computer Engineering, Izmir Katip Çelebi University (Co-supervised with Prof. Dr. A. Alaybeyoğlu).
 - Ahmet Gürbüz (2021). Improving binary relevance algorithm for multilabel classification problem, MSc. in Computer Engineering, Ege University (Co-supervised with Prof. Dr. S. Korukoğlu).
+- Mikail Okyay (2022). Development of Neural Network Based Word Coding Representation Method for Text Mining Problems, MSc. in Computer Engineering, Ege University (Co-supervised with Prof. Dr. S. Korukoğlu).
 - Furkan Alp Esen (2022). Deep learning based smart agriculture and applications, MSc. in Software Engineering, Izmir Katip Çelebi University.
 - Gül Cihan Habek (2022). Cryptocurrency sentiment analysis with machine learning techniques, MSc. in Software Engineering, Manisa Celal Bayar University (Co-supervised with Dr. M. A. Toçoğlu).
 - Nilüfer Atman Uslu (2023). Predicting emotions, empowerment and computational identity of students in the process of learning computer programming using text mining algorithms, MSc. in Software Engineering, Izmir Katip Çelebi University.
