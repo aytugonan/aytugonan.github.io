@@ -369,6 +369,9 @@ Graduate Student Supervision
 - Özkan Çaylı (2023). Automated captioning of image and audio for visually and hearing impaired, MSc. in Electrical and Electronics Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. V. Kılıç).
 - Seda Şendur (2024). Gender Bias in Next-Generation Large Language Models: A Comprehensive Evaluation of GPT Models, MSc. in Software Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. H. Koyuncuoğlu).
 - Ahmet Ezgi (2024). Deep learning based medical diagnostics with generative adversarial network based data augmentation, MSc. in Software Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. V. Bulut).
+- Betül Şenyayla (2024). Zamane: A mobile application for facilitate the daily lives of elderly individuals, MSc. in Software Engineering, Izmir Katip Çelebi University (Co-supervised with Assoc. Prof. Dr. V. Bulut).
+- Rıfkı Can Binici (2024). Image inpainting with gans on loki dataset, MSc. in Software Engineering, Izmir Katip Çelebi University.
+- Ömür Kuzucu (2024). Analysis of Predictive Maintenance Documents with Text Mining Methods, MSc. in Software Engineering, Izmir Katip Celebi University.
 - Raziye Ceren Şahin (2025). Classification of Fish by Weight with Computer Vision and Deep Learning, MSc. in Robotics Engineering, Izmir Katip Çelebi University.
 - Hüseyin Erdoğan (2025).Recommendations for Enhancing, Optimizing, and Improving Code Quality through Artificial Intelligence-Based Source Code Analysis, MSc. in Systems Engineering, Izmir Katip Çelebi University (Co-supervised with Assist. Prof. Dr. N. Turan).
 - Muhammed Kadıoğlu (2025). Development Of An Artificial Intelligence-Based System For Monthly Forecasting Of Critical Raw Material Prices In The Manufacturing Industry, MSc. in Software Engineering, Izmir Katip Çelebi University.
