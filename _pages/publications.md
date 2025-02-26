@@ -11,7 +11,7 @@ author_profile: true
 * Celikten, T., & Onan, A. (2025). Topic Modeling through Rank-Based Aggregation and LLMs: An Approach for AI and Human-Generated Scientific Texts. Knowledge-Based Systems.
 * Yildiz-Durak, H., Egin, F., & Onan, A. (2025). A comparison of human-written versus AI-generated text in discussions at educational settings: Investigating features for ChatGPT, Gemini and BingAI. European Journal of Education, 60(1).
 * Egin, F., Onan, A., & Yildiz-Durak, H. (2025). Let's Talk about EdTech! A Topic modeling analysis of AI Tools and Preservice Teachers' Perspectives. European Journal of Education, 60(1).
-* Çelikten, Azer, Hasan Bulut, and Aytuğ Onan. "A semantic Similarity-Based approach to extract respiratory disease-symptom relations from biomedical literature." Journal of the Faculty of Engineering and Architecture of Gazi University 40.1 (2025): 121-134.
+* Çelikten, A., Bulut, H., & Onan, A. (2025). Biyomedikal literatürden solunum yolu hastalıkları ve semptom ilişkilerinin çıkarılması için semantik benzerlik temelli bir yaklaşım. Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi, 40(1), 121-134.
 * Çaylı, Ö., Kılıç, V., Onan, A., & Wang, W. (2024). Multi-layer Gated Recurrent Unit based Recurrent Neural Network for Image Captioning. International Journal of Pattern Recognition and Artificial Intelligence.
 * Onan, A., & Alhumyani, H. (2024). Knowledge-Enhanced Transformer Graph Summarization (KETGS): Integrating Entity and Discourse Relations for Advanced Extractive Text Summarization. Mathematics, 12(23), 3638.
 * Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua, 80(2), 3351-3377.
