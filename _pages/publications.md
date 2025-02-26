@@ -52,6 +52,7 @@ author_profile: true
 
 # Other International Journal Papers
 
+* Khalila, Z., Nasution, A. H., Monika, W., Onan, A., Murakami, Y., Radi, Y.B.I., & Osmani, N.M. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. International Journal of Advanced Computer Science and Applications (IJACSA), 16(2).
 * Baghdadi, P., Korukoğlu, S., Bilici, M.A., Onan, A. (2025). The Potential of Energy-Based RBM and xLSTM for Real Time Predictive Analytics in Credit Card Fraud Detection. Journal of Data Analysis and Information Processing, 13(1).
 * Onan, A. (2018). Sentiment analysis on Twitter based on ensemble of psychological and linguistic feature sets. Balkan Journal of Electrical and Computer Engineering, 6(2), 1-9.
 * Onan, A., Korukoglu, S., & Bulut, H. (2016). LDA-based Topic Modelling in Text Sentiment Classification: An Empirical Analysis. Int. J. Comput. Linguistics Appl., 7(1), 101-119.
