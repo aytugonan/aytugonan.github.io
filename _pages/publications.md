@@ -78,6 +78,7 @@ author_profile: true
 
 # National Refereed Journal Papers
 
+* Eğin, F., Onan, A., Uslu, N.A., Yılmaz, G., & Borandağ, E. (2025). Cultivating Career Interests and STEM Attitudes in High School Students: The Role of Smart Agriculture Applications, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
 * Çetin, P., & Onan, A. (2025). Büyük dil modellerinin Tıp Eğitiminde Soru Yanıtlama Sistemlerinde Kullanımı: Potansiyel, Zorluklar ve Gelecek Yönelimleri, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
 * Baştürk, B., & Onan, A. (2025). Kalp Hastalığı Makale Özetlerinde Gizli Temaları Keşfetme: Konu Modelleme Yaklaşımı, Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi.
 * Habek, G.C., & Toçoğlu, M., & Onan, A. (2024). Konu Modelleme Yöntemleri ile Kripto Para Duygu Analizi, Avrupa Bilim ve Teknoloji Dergisi (54), 161-173.
