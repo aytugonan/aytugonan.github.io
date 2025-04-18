@@ -114,6 +114,13 @@ author_profile: true
 
 # International Conference Proceedings
 
+* Toprak, A.G., & Onan, A. (2025). Benchmarking Intelligent Large Language Models for Biomedical Text Summarization: A Performance Evaluation. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
+* Aydoğmuş, B., Yüksel, S., Çelikten, T., Ergün, A.E., & Onan, A. (2025). Beyond Resumes: Multi-Dimensional Analysis Based Job and CV Matching. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
+* Erkan, E.E., Kömürcü, M.A., Çelikten, T., Ergün, A.E., & Onan, A. (2025). Understanding Large Language Model Performance in Question Answering: A Comparative Analysis of Semantic and Lexical Metrics. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
+* Çam, B., Kömürcü, M.A., Kaya, M., Ergün, A.E., Çelikten, T., & Onan, A. (2025). Computational Intelligence in Legal NLP: Evaluating Language Models on Turkish Legal Texts. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
+* Ceran, İ., Kaya, M., Kaçmaz, Y., Ergün, A.E., Çelikten, T., & Onan, A. (2025). A Deep Learning Approach to Sentiment Classification: Insights from Product Review Analysis. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
+* Efe, A.G., Çelikten, T., Ergün, A.E., & Onan, A. (2025). Predicting Machine Learning Model Performance from Dataset Characteristics. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
+* Oytaç, D., Ergün, A.E., Çelikten, T., & Onan, A. (2025). EmbedTurk: Leveraging Large Language Models as Text Encoders for Turkish Language. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
 * Kadıoğlu, M., & Onan, A. (2025). Üretim Endüstrisinde Kritik Hammadde Fiyatlarının Aylık Bazdaki Tahminlemesi İçin Yapay Zekâ Tabanlı Bir Sistem Geliştirilmesi. ICPIS 2025 2nd International Conference on Pioneer and Innovative Studies.
 * Eğin, F., Onan, A., & Yildiz Durak, H. (2024). Mecaz Anlamlı Cümle Etiketlemede Büyük Dil Modellerinin Değerlendirilmesi. International Conference on Optimization and Data Science in Industrial Engineering (ODSIE 2024).
 * Onan, A., & Celikten, T. (2024). Evaluating the Coherence and Diversity in AI-Generated and Paraphrased Scientific Abstracts: A Fuzzy Topic Modeling Approach. In International Conference on Intelligent and Fuzzy Systems (INFUS 2024).
