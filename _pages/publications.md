@@ -7,15 +7,16 @@ author_profile: true
 
 # International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
+* Çelikten, T., & Onan, A. (2025). Exploring Text Similarity in Human and AI-Generated Scientific Abstracts: A Comprehensive Analysis. IEEE Access.
 * Ergün, A.E., & Onan, A. (2025).  Adversarial Prompt Detection in Large Language Models: A  Classification-Driven Approach. CMC- Computers, Materials & Continua.
 * Uslu, N.A., & Onan, A. (2025). Exploring Students' Emotions Toward Programming: Analysing Sentiments Using Concurrent Conversion Mixed Methods. Education and Information Technologies.
-* Celikten, T., & Onan, A. (2025). Topic Modeling through Rank-Based Aggregation and LLMs: An Approach for AI and Human-Generated Scientific Texts. Knowledge-Based Systems.
+* Çelikten, T., & Onan, A. (2025). Topic Modeling through Rank-Based Aggregation and LLMs: An Approach for AI and Human-Generated Scientific Texts. Knowledge-Based Systems.
 * Yildiz-Durak, H., Egin, F., & Onan, A. (2025). A comparison of human-written versus AI-generated text in discussions at educational settings: Investigating features for ChatGPT, Gemini and BingAI. European Journal of Education, 60(1).
 * Egin, F., Onan, A., & Yildiz-Durak, H. (2025). Let's Talk about EdTech! A Topic modeling analysis of AI Tools and Preservice Teachers' Perspectives. European Journal of Education, 60(1).
 * Çelikten, A., Bulut, H., & Onan, A. (2025). Biyomedikal literatürden solunum yolu hastalıkları ve semptom ilişkilerinin çıkarılması için semantik benzerlik temelli bir yaklaşım. Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi, 40(1), 121-134.
 * Çaylı, Ö., Kılıç, V., Onan, A., & Wang, W. (2024). Multi-layer Gated Recurrent Unit based Recurrent Neural Network for Image Captioning. International Journal of Pattern Recognition and Artificial Intelligence.
 * Onan, A., & Alhumyani, H. (2024). Knowledge-Enhanced Transformer Graph Summarization (KETGS): Integrating Entity and Discourse Relations for Advanced Extractive Text Summarization. Mathematics, 12(23), 3638.
-* Celikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua, 80(2), 3351-3377.
+* Çelikten, T., & Onan, A. (2024). HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism. CMC-Computers, Materials & Continua, 80(2), 3351-3377.
 * Bulut, V., Onan, A., & Şenyayla, B. (2024). Obtaining The Optimal Shortest Path Between Two Points on a Quasi-Developable Bézier-Type Surface Using The Geodesic-Based Q-Learning Algorithm. Engineering Applications of Artificial Intelligence, 136, 108821.
 * Yildiz-Durak, H., & Onan, A. (2024). Predicting the use of chatbot systems in education: a comparative approach using PLS-SEM and machine learning algorithms. Current Psychology, 1-19.
 * Onan, A., & Alhumyani, H. A. (2024). DeepExtract: Semantic-driven extractive text summarization framework using LLMs and hierarchical positional encoding. Journal of King Saud University-Computer and Information Sciences, 36(8), 102178.
