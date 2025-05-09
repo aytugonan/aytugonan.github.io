@@ -54,8 +54,8 @@ author_profile: true
 
 # International Journal Papers (Indexed in Emerging Sources Citation Index (ESCI))
 
-* Nasution, A.H., Monika, W., Onan, A., & Murakami, Y. (2025). Benchmarking 21 Open-Source Large Language Models for Phishing Link Detection with Prompt Engineering, Information. **Emerging Sources Citation Index (ESCI)**
-* Khalila, Z., Nasution, A. H., Monika, W., Onan, A., Murakami, Y., Radi, Y.B.I., & Osmani, N.M. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. International Journal of Advanced Computer Science and Applications (IJACSA), 16(2). **Emerging Sources Citation Index (ESCI)**
+* Nasution, A.H., Monika, W., Onan, A., & Murakami, Y. (2025). Benchmarking 21 Open-Source Large Language Models for Phishing Link Detection with Prompt Engineering, Information. 
+* Khalila, Z., Nasution, A. H., Monika, W., Onan, A., Murakami, Y., Radi, Y.B.I., & Osmani, N.M. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. International Journal of Advanced Computer Science and Applications (IJACSA), 16(2). 
 
 # Other International Journal Papers
 
