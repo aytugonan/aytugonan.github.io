@@ -52,10 +52,13 @@ author_profile: true
 * Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
 * Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
 
-# Other International Journal Papers
+# International Journal Papers (Indexed in Emerging Sources Citation Index (ESCI))
 
 * Nasution, A.H., Monika, W., Onan, A., & Murakami, Y. (2025). Benchmarking 21 Open-Source Large Language Models for Phishing Link Detection with Prompt Engineering, Information. **Emerging Sources Citation Index (ESCI)**
 * Khalila, Z., Nasution, A. H., Monika, W., Onan, A., Murakami, Y., Radi, Y.B.I., & Osmani, N.M. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. International Journal of Advanced Computer Science and Applications (IJACSA), 16(2). **Emerging Sources Citation Index (ESCI)**
+
+# Other International Journal Papers
+
 * Baghdadi, P., Korukoğlu, S., Bilici, M.A., Onan, A. (2025). The Potential of Energy-Based RBM and xLSTM for Real Time Predictive Analytics in Credit Card Fraud Detection. Journal of Data Analysis and Information Processing, 13(1).
 * Onan, A. (2018). Sentiment analysis on Twitter based on ensemble of psychological and linguistic feature sets. Balkan Journal of Electrical and Computer Engineering, 6(2), 1-9.
 * Onan, A., Korukoglu, S., & Bulut, H. (2016). LDA-based Topic Modelling in Text Sentiment Classification: An Empirical Analysis. Int. J. Comput. Linguistics Appl., 7(1), 101-119.
