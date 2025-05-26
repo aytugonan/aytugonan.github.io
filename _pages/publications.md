@@ -10,6 +10,7 @@ author_profile: true
 * Çelikten, T., & Onan, A. (2025). Exploring Text Similarity in Human and AI-Generated Scientific Abstracts: A Comprehensive Analysis. IEEE Access.
 * Ergün, A.E., & Onan, A. (2025).  Adversarial Prompt Detection in Large Language Models: A  Classification-Driven Approach. CMC- Computers, Materials & Continua.
 * Uslu, N.A., & Onan, A. (2025). Exploring Students' Emotions Toward Programming: Analysing Sentiments Using Concurrent Conversion Mixed Methods. Education and Information Technologies.
+* Nasution, A.H., Onan, A., Murakami, Y., Winda, M., & Angghi, H. (2025). Benchmarking Open-Source Large Language Models for Sentiment and Emotion Classification in Indonesian Tweets. IEEE Access.
 * Çelikten, T., & Onan, A. (2025). Topic Modeling through Rank-Based Aggregation and LLMs: An Approach for AI and Human-Generated Scientific Texts. Knowledge-Based Systems.
 * Yildiz-Durak, H., Egin, F., & Onan, A. (2025). A comparison of human-written versus AI-generated text in discussions at educational settings: Investigating features for ChatGPT, Gemini and BingAI. European Journal of Education, 60(1).
 * Egin, F., Onan, A., & Yildiz-Durak, H. (2025). Let's Talk about EdTech! A Topic modeling analysis of AI Tools and Preservice Teachers' Perspectives. European Journal of Education, 60(1).
