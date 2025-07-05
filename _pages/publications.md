@@ -7,6 +7,7 @@ author_profile: true
 
 # International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
+* Ergün, A.E., & Onan, A. (2025). A2CEM: A Contrastive Embedding Framework for Adversarial Robustness in Large Language Models. Knowledge-Based Systems.
 * Çelikten, T., & Onan, A. (2025). Exploring Text Similarity in Human and AI-Generated Scientific Abstracts: A Comprehensive Analysis. IEEE Access.
 * Ergün, A.E., & Onan, A. (2025).  Adversarial Prompt Detection in Large Language Models: A  Classification-Driven Approach. CMC- Computers, Materials & Continua.
 * Uslu, N.A., & Onan, A. (2025). Exploring Students' Emotions Toward Programming: Analysing Sentiments Using Concurrent Conversion Mixed Methods. Education and Information Technologies.
