@@ -55,7 +55,7 @@ author_profile: true
 * Onan, A. (2015). A Stochastic Gradient Descent Based SVM with Fuzzy-Rough Feature Selection and Instance Selection for Breast Cancer Diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
 * Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
 
-# International Journal Papers (Indexed in Emerging Sources Citation Index (ESCI))
+# International Journal Papers (Indexed in Emerging Sources Citation Index-ESCI)
 
 * Nasution, A.H., Monika, W., Onan, A., & Murakami, Y. (2025). Benchmarking 21 Open-Source Large Language Models for Phishing Link Detection with Prompt Engineering, Information. 
 * Khalila, Z., Nasution, A. H., Monika, W., Onan, A., Murakami, Y., Radi, Y.B.I., & Osmani, N.M. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. International Journal of Advanced Computer Science and Applications (IJACSA), 16(2). 
