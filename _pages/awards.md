@@ -10,12 +10,6 @@ redirect_from:
 
 ## Global Recognitions
 
-- Listed in **“Springer Nature Editorial Contribution Awards – 2025”**
-Recognized by Discover Computing for excellence in editorial work, highlighting the editor’s role in managing peer review with scientific rigor and safeguarding the integrity of the published record.
-
-- Listed in **“Springer Nature Author Service Awards – 2025”**
-Recognized for providing an outstanding author experience and ensuring a peer review process that is efficient, constructive, and fair. This award highlights the vital role of editors in advancing discovery through integrity and service excellence.
-
 - Listed in **“Most Influential Scientists of the World – 2024”**
 Recognized by a research team led by Dr. John Ioannidis from Stanford University, USA. This list, prepared by US and Dutch scientists, is based on an evaluation of millions of academics worldwide.
 
@@ -52,6 +46,11 @@ Recognized by a research team led by Dr. John Ioannidis from Stanford University
 ---
 
 ## Publishing and Editorial Achievements
+
+- **Springer**  
+  - Listed in **“Springer Nature Editorial Contribution Awards – 2025”** Recognized by Discover Computing for excellence in editorial work, highlighting the editor’s role in managing peer review with scientific rigor and safeguarding the integrity of the published record.
+  - Listed in **“Springer Nature Author Service Awards – 2025”** Recognized for providing an outstanding author experience and ensuring a peer review process that is efficient, constructive, and fair. This award highlights the vital role of editors in advancing discovery through integrity and service excellence.
+
 - **Wiley**  
   - Top Cited Article 2020–2021, *Computer Applications in Engineering Education* – January 2022.  
   - Top Cited Article 2020–2021, *Concurrency and Computation: Practice and Experience* – January 2022.  
