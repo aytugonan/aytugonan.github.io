@@ -57,6 +57,7 @@ author_profile: true
 
 # International Journal Papers (Indexed in Emerging Sources Citation Index-ESCI)
 
+* Yildiz-Durak, H., & Onan, A. (2025). A systematic review of AI-based feedback in educational settings. Journal of Computational Social Science.
 * Nasution, A.H., Monika, W., Onan, A., & Murakami, Y. (2025). Benchmarking 21 Open-Source Large Language Models for Phishing Link Detection with Prompt Engineering, Information. 
 * Khalila, Z., Nasution, A. H., Monika, W., Onan, A., Murakami, Y., Radi, Y.B.I., & Osmani, N.M. (2025). Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models. International Journal of Advanced Computer Science and Applications (IJACSA), 16(2). 
 
