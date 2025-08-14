@@ -7,7 +7,9 @@ author_profile: true
 
 # International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
-* Çelikten, T., & Onan, A. (2025). MedConGTM: Interpretable Multi-Label Clinical Code Prediction with Dual-View Graph Contrastive Topic Modeling. Knowledge-Based Systems (Accepted)
+* Yildiz-Durak, H., Egin, F., & Onan, A. (2025). Enhancing Text Summarization with AI: A Multi-Agent System and Human Comparison in Educational Contexts. Thinking Skills and Creativity.
+* Onan, A., & Alhumyani, H. (2025). CodeDiffuSe: A Masked Diffusion Framework for Structure-Aware Code Completion and Repair. Journal of King Saud University- Computer and Information Sciences.
+* Çelikten, T., & Onan, A. (2025). MedConGTM: Interpretable Multi-Label Clinical Code Prediction with Dual-View Graph Contrastive Topic Modeling. Knowledge-Based Systems.
 * Ergün, A.E., & Onan, A. (2025). A2CEM: A Contrastive Embedding Framework for Adversarial Robustness in Large Language Models. Knowledge-Based Systems.
 * Çelikten, T., & Onan, A. (2025). Exploring Text Similarity in Human and AI-Generated Scientific Abstracts: A Comprehensive Analysis. IEEE Access.
 * Ergün, A.E., & Onan, A. (2025).  Adversarial Prompt Detection in Large Language Models: A  Classification-Driven Approach. CMC- Computers, Materials & Continua.
@@ -69,6 +71,7 @@ author_profile: true
 
 # Book Chapters
 
+* Egin, F., Onan, A., Yildiz-Durak, H. (2025). Evaluation of Large Language Models in Annotating Metaphorical Sentences. In Optimization and Data Science in Industrial Engineering: Second International Conference, ODSIE 2024, Istanbul, Turkey, November 7–8, 2024, Proceedings (p. 3). Springer Nature.
 * Onan, A. (2024). Yapay zeka, büyük dil modelleri ve istem mühendisliği. Yapay Zeka Okuryazarlığı, Nobel.
 * Onan, A. (2023). Leveraging synonyms and antonyms for data augmentation in sarcasm identification. Artificial Intelligence Application in Networks and Systems. Springer, Cham.
 * Çelikten, A., Onan, A., & Bulut, H. (2023, May). Investigation of Biomedical Named Entity Recognition Methods. In 4th International Conference on Artificial Intelligence and Applied Mathematics in Engineering: ICAIAME 2022 (pp. 218-229). Cham: Springer International Publishing.
