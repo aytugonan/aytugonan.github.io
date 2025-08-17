@@ -90,6 +90,7 @@ author_profile: true
 
 # National Refereed Journal Papers
 
+* Baştürk, B., & Onan, A. (2025). Machine Learning Based Identification of LLM Generated Scientific Research Article Abstracts, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University. 
 * Eğin, F., Onan, A., Uslu, N.A., Yılmaz, G., & Borandağ, E. (2025). Cultivating Career Interests and STEM Attitudes in High School Students: The Role of Smart Agriculture Applications, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
 * Çetin, P., & Onan, A. (2025). Büyük dil modellerinin Tıp Eğitiminde Soru Yanıtlama Sistemlerinde Kullanımı: Potansiyel, Zorluklar ve Gelecek Yönelimleri, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
 * Baştürk, B., & Onan, A. (2025). Kalp Hastalığı Makale Özetlerinde Gizli Temaları Keşfetme: Konu Modelleme Yaklaşımı, Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi.
