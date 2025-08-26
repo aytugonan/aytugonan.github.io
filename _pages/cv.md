@@ -358,6 +358,7 @@ Graduate Student Supervision
 ====
 **Ph.D. Students**
 - Azer Çelikten (2024). Medical Information Extraction Using Deep Learning Methods, Ph.D. in Computer Engineering, Ege University (Co-supervised with Prof. Dr. H. Bulut).
+- Mehmet Akif Özdemir (2025). Image-Based Representations of Physiological Signals: Deep Learning Approaches for Predictive Medicine, Ph.D. in Biomedical Technologies, Izmir Katip Celebi University (Co-supervised with Assist. Prof. Dr. O.Güren).
 
 **Master Students**
 - Muhammet Serhat Okyay (2018). Smart business accounting software as an android mobile application using artificial intelligence, MSc. in Computer Engineering, Izmir Katip Çelebi University (Co-supervised with Prof. Dr. A. Alaybeyoğlu).
