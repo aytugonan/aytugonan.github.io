@@ -91,6 +91,7 @@ author_profile: true
 
 # National Refereed Journal Papers
 
+* Şendur, S., Koyuncuoğlu, H.C., & Onan, A. (2025). Unveiling the Hidden Biases of AI: Exploring Professions and Gender Perception in Claude and Gemini Models, Turkish Journal of Science and Technology.
 * Baştürk, B., & Onan, A. (2025). Machine Learning Based Identification of LLM Generated Scientific Research Article Abstracts, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University. 
 * Eğin, F., Onan, A., Uslu, N.A., Yılmaz, G., & Borandağ, E. (2025). Cultivating Career Interests and STEM Attitudes in High School Students: The Role of Smart Agriculture Applications, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
 * Çetin, P., & Onan, A. (2025). Büyük dil modellerinin Tıp Eğitiminde Soru Yanıtlama Sistemlerinde Kullanımı: Potansiyel, Zorluklar ve Gelecek Yönelimleri, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
