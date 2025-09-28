@@ -15,10 +15,10 @@ Aytuğ ONAN, Ph.D.
 Professor of Computer Science and Engineering
 
 
-Division of Computer Software, Department of Computer Engineering, 
-Faculty of Engineering and Architecture, İzmir Katip Çelebi University, 35620, İzmir/Turkey. 
+Department of Computer Engineering,
+Faculty of Engineering, İzmir Institute of Technology, 35430, İzmir/Turkey. 
 
-* Email: aytugonan@gmail.com OR aytug.onan@ikc.edu.tr 
+* Email: aytugonan@gmail.com 
 * Personal Homepage: aytugonan.github.io 
 * Web of Science Researcher ID: L-4613-2018
 * ORCID: 0000-0002-9434-5880
@@ -43,7 +43,8 @@ Education
 Academic Experience
 ==== 
 
-* **Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, January 2024-present.
+* **Professor**, Department of Computer Engineering, İzmir Institute of Technology (IZTECH), İzmir/Turkey, September 2025-present.
+* **Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, January 2024-September 2025.
 * **Associate Professor**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, April 2019-January 2024.
  
 * **Courses Given:** Artificial Neural Networks, Artificial Intelligence, MATLAB Programming, C Programming, Object Oriented Programming.
@@ -56,12 +57,12 @@ Academic Experience
 
 Administrative Positions Held
 ====
-* **Founding Department Head**, Department of Artificial Intelligence and Data Engineering, İzmir Katip Çelebi University, İzmir/Turkey, February 2024-present.
-* **Vice Director**, Institute of Natural Sciences, İzmir Katip Celebi University, İzmir/Turkey, November 2023-present.
-* **Vice Head**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, December 2023-present.
+* **Founding Department Head**, Department of Artificial Intelligence and Data Engineering, İzmir Katip Çelebi University, İzmir/Turkey, February 2024-September 2025.
+* **Vice Director**, Institute of Natural Sciences, İzmir Katip Celebi University, İzmir/Turkey, November 2023-September 2025.
+* **Vice Head**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, December 2023-September 2025.
 * **Founder and Chair**, Division of Software Engineering, İzmir Katip Celebi University, İzmir/Turkey, July 2019-July 2025.
 * **Vice Head**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, May 2019-July 2022.
-* **Chair**, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-present.
+* **Chair**, Division of Computer Software, Department of Computer Engineering, Izmir Katip Çelebi University, İzmir/Turkey, April 2019-September 2025.
 * **Vice Head**, Department of Software Engineering, Manisa Celal Bayar University, Manisa/Turkey, February 2018-April 2019.
 
 Research Interests
