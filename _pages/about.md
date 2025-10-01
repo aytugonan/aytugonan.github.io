@@ -19,7 +19,7 @@ redirect_from:
 Dr. **Aytuğ Onan** received his **B.Sc. degree in Computer Engineering** from *Izmir University of Economics, Turkey* in **2010**.  
 He completed his **M.Sc.** (2013) and **Ph.D.** (2016) in *Computer Engineering* at **Ege University, Turkey**.  
 
-Since **September 2025**, he has been serving as a **Full Professor of Computer Science** in the *Department of Computer Engineering* at **İzmir Institute of Technology (İYTE), Turkey**.  
+Since **September 2025**, he has been serving as a **Full Professor of Computer Science** in the *Department of Computer Engineering* at **İzmir Institute of Technology (IZTECH), Turkey**.  
 
 ---
 
