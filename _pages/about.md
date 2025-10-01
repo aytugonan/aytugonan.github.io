@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Aytuğ ONAN"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 # 👨‍🏫 Dr. Aytuğ Onan
 
 **Full Professor of Computer Science**  
-**Department of Computer Engineering, İzmir Institute of Technology (İYTE), Turkey**
+**Department of Computer Engineering, İzmir Institute of Technology (IZTECH), Turkey**
 
 ---
 
@@ -27,9 +27,9 @@ Since **September 2025**, he has been serving as a **Full Professor of Computer 
 - Significant work in **Machine Learning**, **Natural Language Processing (NLP)**, and **Computational Linguistics**  
 - Published numerous research papers in **prestigious international journals**  
 - Active **Associate Editor / Reviewer** for high-impact journals:  
-  - *Expert Systems with Applications*  
-  - *PLOS ONE*  
-  - *International Journal of Machine Learning and Cybernetics*  
+  - *Machine Learning with Applications*  
+  - *Discover Computing*  
+  - *International Journal of Computational Intelligence Systems*  
 
 ---
 
