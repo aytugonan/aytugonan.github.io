@@ -9,6 +9,37 @@ redirect_from:
 ---
 
 
-Dr. Aytuğ Onan received his **B.Sc. in Computer Engineering** from Izmir University of Economics, Turkey, in 2010. He completed his **M.Sc. in Computer Engineering** in 2013 and **Ph.D. in Computer Engineering** in 2016, both at Ege University, Turkey. Since January 2024, he has been serving as a **Full Professor of Artificial Intelligence and Data Engineering** in the **Department of Computer Engineering** at İzmir Katip Çelebi University, Turkey. Dr. Onan has made significant contributions to the fields of **machine learning** and **computational linguistics**, publishing numerous research papers in prestigious journals. He actively reviews for several high-impact international journals, including *Expert Systems with Applications*, *PLOS ONE*, and the *International Journal of Machine Learning and Cybernetics*. His research focuses on advancing machine learning methodologies and their applications in data-driven problem-solving. He has been recognized globally for his impactful research. Dr. Onan has been included in the **“Most Influential Scientists of the World”** list for six consecutive years (**2020–2025**), compiled by a research team led by Dr. John Ioannidis from Stanford University, USA. In addition, he was honored with the **"Highly Cited Researchers Award 2023"** by Clarivate, further cementing his position as a leading figure in the scientific community.
+# 👨‍🏫 Dr. Aytuğ Onan
+
+**Full Professor of Computer Science**  
+**Department of Computer Engineering, İzmir Institute of Technology (İYTE), Turkey**
+
+---
+
+Dr. **Aytuğ Onan** received his **B.Sc. degree in Computer Engineering** from *Izmir University of Economics, Turkey* in **2010**.  
+He completed his **M.Sc.** (2013) and **Ph.D.** (2016) in *Computer Engineering* at **Ege University, Turkey**.  
+
+Since **September 2025**, he has been serving as a **Full Professor of Computer Science** in the *Department of Computer Engineering* at **İzmir Institute of Technology (İYTE), Turkey**.  
+
+---
+
+## 🧠 Research Contributions
+- Significant work in **Machine Learning**, **Natural Language Processing (NLP)**, and **Computational Linguistics**  
+- Published numerous research papers in **prestigious international journals**  
+- Active **Associate Editor / Reviewer** for high-impact journals:  
+  - *Expert Systems with Applications*  
+  - *PLOS ONE*  
+  - *International Journal of Machine Learning and Cybernetics*  
+
+---
+
+## 🌍 Recognition
+- Included in the **“Most Influential Scientists of the World”** list for **six consecutive years (2020–2025)**,  
+  compiled by the research team led by **Dr. John Ioannidis (Stanford University, USA)**  
+- Awarded the **“Highly Cited Researchers Award 2023” by Clarivate**  
+
+---
+
+✨ His research focuses on advancing **machine learning methodologies**, **contrastive learning techniques**, and **large language model–based frameworks** for data-driven problem-solving across diverse domains.
 
 
