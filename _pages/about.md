@@ -8,38 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Dr. Aytuğ Onan is a Full Professor of Computer Science at the Department of Computer Engineering, İzmir Institute of Technology (IZTECH), Turkey.
+He received his B.Sc. degree in Computer Engineering from Izmir University of Economics in 2010, and his M.Sc. (2013) and Ph.D. (2016) degrees in Computer Engineering from Ege University.
 
-# 👨‍🏫 Dr. Aytuğ Onan
+Since September 2025, he has been serving as a Full Professor at IZTECH. His research focuses on machine learning, natural language processing (NLP), and computational linguistics. He has published numerous research papers in leading international journals and serves as an Associate Editor or reviewer for several high-impact journals, including *Machine Learning with Applications*, *Discover Computing*, and the *International Journal of Computational Intelligence Systems*.
 
-**Full Professor of Computer Science**  
-**Department of Computer Engineering, İzmir Institute of Technology (IZTECH), Turkey**
-
----
-
-Dr. **Aytuğ Onan** received his **B.Sc. degree in Computer Engineering** from *Izmir University of Economics, Turkey* in **2010**.  
-He completed his **M.Sc.** (2013) and **Ph.D.** (2016) in *Computer Engineering* at **Ege University, Turkey**.  
-
-Since **September 2025**, he has been serving as a **Full Professor of Computer Science** in the *Department of Computer Engineering* at **İzmir Institute of Technology (IZTECH), Turkey**.  
-
----
-
-## 🧠 Research Contributions
-- Significant work in **Machine Learning**, **Natural Language Processing (NLP)**, and **Computational Linguistics**  
-- Published numerous research papers in **prestigious international journals**  
-- Active **Associate Editor / Reviewer** for high-impact journals:  
-  - *Machine Learning with Applications*  
-  - *Discover Computing*  
-  - *International Journal of Computational Intelligence Systems*  
-
----
-
-## 🌍 Recognition
-- Included in the **“Most Influential Scientists of the World”** list for **six consecutive years (2020–2025)**,  
-  compiled by the research team led by **Dr. John Ioannidis (Stanford University, USA)**  
-- Awarded the **“Highly Cited Researchers Award 2023” by Clarivate**  
-
----
-
-✨ His research focuses on advancing **machine learning methodologies**, **contrastive learning techniques**, and **large language model–based frameworks** for data-driven problem-solving across diverse domains.
-
-
+He has been listed among the “Most Influential Scientists of the World” for six consecutive years (2020–2025) by the Stanford University research team led by Dr. John Ioannidis and received the “Highly Cited Researcher Award 2023” from Clarivate. His work emphasizes advancing machine learning methodologies, contrastive learning, and large language model–based frameworks for data-driven problem-solving across various domains.
