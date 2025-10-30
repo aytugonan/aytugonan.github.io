@@ -10,6 +10,9 @@ redirect_from:
 
 ## Global Recognitions
 
+- Listed in **“Top Cited Scholars – 2025”**  
+  *Created by Scilit.*
+  
 - Listed in **“Most Influential Scientists of the World – 2025”**
 Recognized by a research team led by Dr. John Ioannidis from Stanford University, USA. This list, prepared by US and Dutch scientists, is based on an evaluation of millions of academics worldwide.
 
