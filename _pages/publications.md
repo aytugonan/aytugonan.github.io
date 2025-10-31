@@ -13,6 +13,7 @@ author_profile: true
 ## International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
 - Durak, H. Y., Egin, F., & Onan, A. (2026). Enhancing Text Summarization with AI: A Multi-Agent System and Human Comparison in Educational Contexts. Thinking Skills and Creativity, 101944.
+- Ezgi, A., & Onan, A. (2025). Task-Structured Curriculum Learning for Multi-Task Distillation: Enhancing Step-by-Step Knowledge Transfer in Language Models. CMC- Computers, Materials & Continua.
 - Çelikten, T., & Onan, A. (2025). Benchmarking Large Language Models for Biomedical Literature Summarization: Abstractive vs. Extractive Paradigms. IEEE Access.
 - Onan, A., & Alhumyani, H. (2025). CodeDiffuSe: A Masked Diffusion Framework for Structure-Aware Code Completion and Repair. Journal of King Saud University- Computer and Information Sciences.
 - Çelikten, T., & Onan, A. (2025). MedConGTM: Interpretable Multi-Label Clinical Code Prediction with Dual-View Graph Contrastive Topic Modeling. Knowledge-Based Systems.
