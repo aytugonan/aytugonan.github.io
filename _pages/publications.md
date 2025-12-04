@@ -76,6 +76,8 @@ author_profile: true
 
 ## Other International Journal Papers
 
+- Çelikten, T., & Onan, A. (2025).  Exploring Graph-Based Techniques in Text Data Processing: A Comprehensive Survey of NLP Advancements. ICCK Transactions on Emergint Topics in Artificial Intelligence.
+- Meram, M. B., Kalkan, Ç., Çelikten, T., & Onan, A. (2025). GPT vs. Other Large Language Models for Topic Modeling: A Comprehensive Comparison. ICCK Transactions on Emerging Topics in Artificial Intelligence, 2(3), 116-130.
 - Eğin, F., Bulut, V., & Onan, A. (2025). AI-Powered Detection of Hate Speech Against Refugees in Turkish Social Media. Quality & Quantity.
 - Baghdadi, P., Korukoğlu, S., Bilici, M.A., Onan, A. (2025). The Potential of Energy-Based RBM and xLSTM for Real Time Predictive Analytics in Credit Card Fraud Detection. Journal of Data Analysis and Information Processing, 13(1).
 - Onan, A. (2018). Sentiment analysis on Twitter based on ensemble of psychological and linguistic feature sets. Balkan Journal of Electrical and Computer Engineering, 6(2), 1-9.
@@ -106,6 +108,8 @@ author_profile: true
 
 ## National Refereed Journal Papers
 
+- Ünverdi, B., Özdemir, M.A., Onan, A., Yörük, E.A.Y., & Acar, T. (2025). Prostate Gland Segmentation on Prostate Magnetic Resonance Images: An AI Study Using a U-net-based Convolutional Neural Network, Ege Tıp Dergisi.
+- Yaraş, İ.M., & Onan, A. (2025). Artificial Intelligence Assisted Decision Support System for Forest Fire Crisis Management in Türkiye, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
 - Şendur, S., Koyuncuoğlu, H.C., & Onan, A. (2025). Unveiling the Hidden Biases of AI: Exploring Professions and Gender Perception in Claude and Gemini Models, Turkish Journal of Science and Technology.
 - Baştürk, B., & Onan, A. (2025). Machine Learning Based Identification of LLM Generated Scientific Research Article Abstracts, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
 - Eğin, F., Onan, A., Uslu, N.A., Yılmaz, G., & Borandağ, E. (2025). Cultivating Career Interests and STEM Attitudes in High School Students: The Role of Smart Agriculture Applications, DEÜ Buca Eğitim Fakültesi, Fen, Matematik ve Bilgisayar Eğitiminde Yenilikler Dergisi.
