@@ -65,6 +65,7 @@ author_profile: true
 - Onan, A., Bal, V., & Yanar Bayam, B. (2016). The use of data mining for strategic management: a case study on mining association rules in student information system. Croatian Journal of Education: Hrvatski časopis za odgoj i obrazovanje, 18(1), 41-70.
 - Onan, A. (2015). A stochastic gradient descent based SVM with Fuzzy-Rough feature selection and instance selection for breast cancer diagnosis. Journal of Medical Imaging and Health Informatics, 5(6), 1233-1239.
 - Onan, A. (2015). A fuzzy-rough nearest neighbor classifier combined with consistency-based subset evaluation and instance selection for automated diagnosis of breast cancer. Expert Systems with Applications, 42(20), 6844-6852.
+
 ---
 
 ## International Journal Papers (Indexed in Emerging Sources Citation Index-ESCI)
