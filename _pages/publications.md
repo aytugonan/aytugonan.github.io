@@ -12,9 +12,10 @@ author_profile: true
 
 ## International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
+- Durak, H.Y., & Onan, A. (2026). A Multidimensional Comparative Analysis of Human Expert vs. AI-Driven Feedback Approaches on Learner-Centered Collaborative Groups, Interactive Learning Environments. 
 - Durak, H. Y., Egin, F., & Onan, A. (2026). Enhancing Text Summarization with AI: A Multi-Agent System and Human Comparison in Educational Contexts. Thinking Skills and Creativity, 101944.
-- Onan, A., Nasution, A.H., & Çelikten, T. (2026). Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking, IEEE Access.
 - Ezgi, A., & Onan, A. (2026). Task-Structured Curriculum Learning for Multi-Task Distillation: Enhancing Step-by-Step Knowledge Transfer in Language Models. CMC- Computers, Materials & Continua.
+- Onan, A., Nasution, A.H., & Çelikten, T. (2025). Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking, IEEE Access.
 - Celikten, T., & Onan, A. (2025). Benchmarking Large Language Models for Biomedical Literature Summarization: Abstractive vs. Extractive Paradigms. IEEE Access.
 - Onan, A., & Alhumyani, H. A. (2025). CodeDiffuSe: A masked diffusion framework for structure-aware code completion and repair. Journal of King Saud University Computer and Information Sciences, 37(8), 230.
 - Çelikten, T., & Onan, A. (2025). Medcongtm: Interpretable multi-label clinical code prediction with dual-view graph contrastive topic modeling. Knowledge-Based Systems, 114103.
