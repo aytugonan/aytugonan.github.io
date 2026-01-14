@@ -79,6 +79,7 @@ author_profile: true
 
 ## Other International Journal Papers
 
+- Shalawati, S., Nasution, A.H., Monika, W., Derin, T., Onan, A., & Murakami (2026). Beyond BLEU: GPT-5, Human Judgment, and Classroom Validation for Multidimensional Machine Translation Evaluation. .
 - Çelikten, T., & Onan, A. (2025).  Exploring Graph-Based Techniques in Text Data Processing: A Comprehensive Survey of NLP Advancements. ICCK Transactions on Emergint Topics in Artificial Intelligence.
 - Meram, M. B., Kalkan, Ç., Çelikten, T., & Onan, A. (2025). GPT vs. Other Large Language Models for Topic Modeling: A Comprehensive Comparison. ICCK Transactions on Emerging Topics in Artificial Intelligence, 2(3), 116-130.
 - Eğin, F., Bulut, V., & Onan, A. (2025). AI-Powered Detection of Hate Speech Against Refugees in Turkish Social Media. Quality & Quantity.
