@@ -14,6 +14,7 @@ author_profile: true
 
 - Durak, H.Y., & Onan, A. (2026). A Multidimensional Comparative Analysis of Human Expert vs. AI-Driven Feedback Approaches on Learner-Centered Collaborative Groups, Interactive Learning Environments. 
 - Durak, H. Y., Egin, F., & Onan, A. (2026). Enhancing Text Summarization with AI: A Multi-Agent System and Human Comparison in Educational Contexts. Thinking Skills and Creativity, 101944.
+- Onan, A., Nasution, A.H., Celikten, T., & Cetin, P. (2026). Comparing ChatGPT, Gemini, and Emerging LLMs in Low-Resource Educational Settings: Reasoning Quality, Consistency, and Explainability. IEEE Access.
 - Ozger, F., Onan, A., Turhan, N., & Ozger, Z.O. (2026). Interpretable Structural Modeling of MR Images Using q-Bezier Curves: A Geometry-Aware Paradigm Beyond Deep Learning. Information Sciences.
 - Ezgi, A., & Onan, A. (2026). Task-Structured Curriculum Learning for Multi-Task Distillation: Enhancing Step-by-Step Knowledge Transfer in Language Models. CMC- Computers, Materials & Continua.
 - Onan, A., Nasution, A.H., & Çelikten, T. (2025). Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking, IEEE Access.
