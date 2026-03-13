@@ -114,7 +114,8 @@ author_profile: true
 
 ## National Refereed Journal Papers
 
-- Ünverdi, B., Özdemir, M.A., Onan, A., Yörük, E.A.Y., & Acar, T. (2025). Prostate Gland Segmentation on Prostate Magnetic Resonance Images: An AI Study Using a U-net-based Convolutional Neural Network, Ege Tıp Dergisi.
+- Ünverdi, B., Özdemir, M.A., Onan, A., Yörük, E.A.Y., & Acar, T. (2026). Prostate Gland Segmentation on Prostate Magnetic Resonance Images: An AI Study Using a U-net-based Convolutional Neural Network, Ege Tıp Dergisi.
+- Mercan, Ö. B., Toçoğlu, M.A., Turhan, N., & Onan, A. (2026). Towards Benchmarking Transformer Models for Biomedical Text Simplification, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
 - Yaraş, İ.M., & Onan, A. (2025). Artificial Intelligence Assisted Decision Support System for Forest Fire Crisis Management in Türkiye, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
 - Şendur, S., Koyuncuoğlu, H.C., & Onan, A. (2025). Unveiling the Hidden Biases of AI: Exploring Professions and Gender Perception in Claude and Gemini Models, Turkish Journal of Science and Technology.
 - Baştürk, B., & Onan, A. (2025). Machine Learning Based Identification of LLM Generated Scientific Research Article Abstracts, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
@@ -227,6 +228,7 @@ author_profile: true
 
 ## National Conference Proceedings
 
+- Bakbak, H.E., Onan, A., Bilişik, E., & Bilişik, K. (2026). Nano-B₄C/para-aramid soft balistik malzemelerde çok ölçekli iplik çekilme davranışının makine öğrenmesi destekli tahmini. 12. Savunma Teknolojileri Kongresi, 9-11 Eylül 2026, ODTÜ Kültür Kongre Merkezi.
 - Binici, R.C., Onan, A., Koch, R., & Schroder, S-M. (2024). Image Inpainting with GANs on LOKI Dataset. ASYU 2024.
 - Özdemir, M.A., Güren, O., Cura, O.K, Akan, A., & Onan, A. (2020). Abnormal ECG beat detection based on convolutional neural networks. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
 - Özdemir, M.A., Kısa, H.D., Güren, O., Onan, A., & Akan, A. (2020). EMG based hand gesture recognition using. TIPTEKNO 2020- Tıp Teknolojileri Ulusal Kurultayı.
