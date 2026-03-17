@@ -12,6 +12,7 @@ author_profile: true
 
 ## International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
+- Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
 - Durak, H.Y., & Onan, A. (2026). A Multidimensional Comparative Analysis of Human Expert vs. AI-Driven Feedback Approaches on Learner-Centered Collaborative Groups, Interactive Learning Environments. 
 - Durak, H. Y., Egin, F., & Onan, A. (2026). Enhancing Text Summarization with AI: A Multi-Agent System and Human Comparison in Educational Contexts. Thinking Skills and Creativity, 101944.
 - Onan, A., Nasution, A.H., Celikten, T., & Cetin, P. (2026). Comparing ChatGPT, Gemini, and Emerging LLMs in Low-Resource Educational Settings: Reasoning Quality, Consistency, and Explainability. IEEE Access.
