@@ -92,6 +92,12 @@ author_profile: true
 
 ---
 
+## Books
+
+- Big Data for Secondary Education (9th Grade Textbook), Ministry of National Education (Ortaöğretim Büyük Veri, 9. Sınıf Ders Kitabı, Millî Eğitim Bakanlığı Yayınları), Türkiye, 2026. (Editor)
+  
+---
+
 ## Book Chapters
 
 - Egin, F., Onan, A., Yildiz-Durak, H. (2025). Evaluation of Large Language Models in Annotating Metaphorical Sentences. In Optimization and Data Science in Industrial Engineering: Second International Conference, ODSIE 2024, Istanbul, Turkey, November 7–8, 2024, Proceedings (p. 3). Springer Nature.
