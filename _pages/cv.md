@@ -259,6 +259,7 @@ Program Committee
 
 Committee Memberships
 ====
+- Bilişim Vadisi - Technology Development Zone, Member of the Technology Advisory Commission, 2026-present.
 - İzmir Development Agency (IZKA), Member of the Evaluation Committee of Digital Transformation Projects in the Public Sector, November 2022.
 
 Reviewer for
