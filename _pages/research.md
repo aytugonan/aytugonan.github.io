@@ -9,21 +9,57 @@ redirect_from:
 
 
 ## National and International Funded Projects
-- **TÜBİTAK 1002**  
-  *A Generative Adversarial Network-Based Decision Support System for Artificial Intelligence-Based Rare Dermatological Disease Diagnosis*  
-  **Role:** Project Manager  
+## Funded Research Projects
 
-- **TÜBİTAK-British Council International Bilateral Collaboration**  
-  *Automatic Image and Audio Captioning for the Visually and Hearing Impaired*  
-  **Role:** Researcher  
+### TÜBİTAK ARDEB Projects
 
-- **TÜBİTAK 3501**  
-  *Investigation of the Change of Quantitative Electroencephalography Parameters with Repetitive Transcranial Magnetic Stimulation (rTMS) Treatment in Stroke Patients and Estimation of Clinical Response to rTMS Treatment with Convolutional Neural Network Method*  
-  **Role:** Researcher  
+- **Principal Investigator** — *Multimodal NLP Framework for Adverse Drug Event Extraction from Turkish Pharmacovigilance Texts*  
+  ARDEB 1001 (125E751), 2026–2029 (Ongoing)
 
-- **TÜBİTAK 1002**  
-  *Obtaining the Shortest Path Between Two Points on a Semi-Expandable Bézier Surface Using the Q-Learning Algorithm with Increased Openability*  
-  **Role:** Researcher  
+- **Principal Investigator** — *Modeling Irregular Structures in Biomedical Images via Bézier Curves*  
+  ARDEB 1002 (125E083), 2025–2026 (Ongoing)
+
+- **Researcher** — *Hybrid ML/DL-Based Decision Support for Trend Topic Detection in Scientific Articles*  
+  ARDEB 1002 (124E073), 2024–2025
+
+- **Researcher** — *Immersive VR-Based Digital Narratives for Lost Architectural Heritage in 17th Century İzmir*  
+  ARDEB 1001 (124K301), 2024–2027 (Ongoing)
+
+- **Researcher** — *GIS-Based Age-Friendly City Model: Case of Güzelbahçe (İzmir)*  
+  ARDEB COST 2519 (123O301), 2023–2026 (Ongoing)
+
+- **Researcher** — *Shortest Path Estimation on Semi-Explainable Bézier Surfaces via Q-Learning*  
+  ARDEB 1002 (122F455), 2022–2024
+
+- **Principal Investigator** — *GAN-Based Decision Support System for Rare Dermatological Disease Diagnosis*  
+  ARDEB 1002 (122E601), 2022–2023
+
+- **Researcher** — *Clinical Response Prediction to rTMS Treatment via EEG Analysis and Neural Networks in Stroke Patients*  
+  ARDEB 3501 (120E512), 2020–2024
+
+- **Researcher** — *Automatic Image and Speech Subtitling for Visually and Hearing Impaired Individuals*  
+  ARDEB 2551 UK–Turkey (120N995), 2020–2023
+
+
+### TÜBİTAK TEYDEB Projects
+
+- **Project Staff** — *Intelligent Place*  
+  TEYDEB BiGG Investment (2250297), 2025–2027
+
+- **Academic Advisor** — *AI-Based Greenhouse Gas Emission Monitoring and Reporting Platform*  
+  TEYDEB SME R&D (7230215), 2023–2024
+
+- **Academic Advisor** — *High-Performance Predictive Maintenance System*  
+  TEYDEB BiGG Investment (2220154), 2022–2024
+
+
+### TÜBİTAK Science & Society Projects
+
+- **Trainer** — *Big Data Applications and Learning Analytics in Education*  
+  4005 (121B263), 2021–2022
+
+- **Researcher** — *Designing the Future of Agriculture with Smart Technologies*  
+  4004 (121B766), 2021–2022
 
 ---
 
@@ -58,9 +94,6 @@ redirect_from:
 - **KOSGEB Supported Research Project**  
   *Hardware and Software Platform Development Project for Smart Energy Management*  
   **Role:** Project Consultant
-- **TÜBİTAK Supported Research Project**  
-  *Development of an Artificial Intelligence-Based Platform for Calculating, Monitoring, and Reporting Greenhouse Gas Emissions*  
-  **Role:** Project Consultant  
 
 ---
 
