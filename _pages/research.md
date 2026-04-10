@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-## National and International Funded Projects
 ## Funded Research Projects
 
 ### TÜBİTAK ARDEB Projects
@@ -19,8 +18,14 @@ redirect_from:
 - **Principal Investigator** — *Modeling Irregular Structures in Biomedical Images via Bézier Curves*  
   ARDEB 1002 (125E083), 2025–2026 (Ongoing)
 
-- **Researcher** — *Hybrid ML/DL-Based Decision Support for Trend Topic Detection in Scientific Articles*  
-  ARDEB 1002 (124E073), 2024–2025
+- **Principal Investigator** — *GAN-Based Decision Support System for Rare Dermatological Disease Diagnosis*  
+  ARDEB 1002 (122E601), 2022–2023
+
+- **Researcher** — *AI-Supported E-Assessment System for Open-Ended Mathematics Skill Items*  
+  ARDEB 1001 (325K326), 2026–2029 (Ongoing)
+
+- **Researcher** — *An Innovative Model for Performance Assessment in Art Education: Integration of an AI-Based Mixture-of-Agents (MoA) Framework into Undergraduate Programs in Turkey*  
+  ARDEB Social Sciences and Humanities Innovative Solutions Program (225K417), 2026–2028 (Ongoing)
 
 - **Researcher** — *Immersive VR-Based Digital Narratives for Lost Architectural Heritage in 17th Century İzmir*  
   ARDEB 1001 (124K301), 2024–2027 (Ongoing)
@@ -31,14 +36,18 @@ redirect_from:
 - **Researcher** — *Shortest Path Estimation on Semi-Explainable Bézier Surfaces via Q-Learning*  
   ARDEB 1002 (122F455), 2022–2024
 
-- **Principal Investigator** — *GAN-Based Decision Support System for Rare Dermatological Disease Diagnosis*  
-  ARDEB 1002 (122E601), 2022–2023
-
 - **Researcher** — *Clinical Response Prediction to rTMS Treatment via EEG Analysis and Neural Networks in Stroke Patients*  
   ARDEB 3501 (120E512), 2020–2024
 
 - **Researcher** — *Automatic Image and Speech Subtitling for Visually and Hearing Impaired Individuals*  
   ARDEB 2551 UK–Turkey (120N995), 2020–2023
+
+- **Researcher** — *Hybrid ML/DL-Based Decision Support for Trend Topic Detection in Scientific Articles*  
+  ARDEB 1002 (124E073), 2024–2025
+
+- **Consultant** — *Development of a National Guideline for Medical Emergencies in Dental Treatments and a Clinical Decision Support System-Based Mobile Guideline Application*  
+  TÜBİTAK (325S682), 2026–2029 (Ongoing)
+
 
 
 ### TÜBİTAK TEYDEB Projects
