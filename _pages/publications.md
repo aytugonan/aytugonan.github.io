@@ -121,6 +121,7 @@ author_profile: true
 
 ## National Refereed Journal Papers
 
+- Baştürk, B., & Onan, A. (2026). Evaluating Large Language Models for Biomedical Text Summarization: A Study of Cardiovascular Research, Sakarya University Journal of Computer and Information Sciences.
 - Ünverdi, B., Özdemir, M.A., Onan, A., Yörük, E.A.Y., & Acar, T. (2026). Prostate Gland Segmentation on Prostate Magnetic Resonance Images: An AI Study Using a U-net-based Convolutional Neural Network, Ege Tıp Dergisi.
 - Mercan, Ö. B., Toçoğlu, M.A., Turhan, N., & Onan, A. (2026). Towards Benchmarking Transformer Models for Biomedical Text Simplification, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
 - Yaraş, İ.M., & Onan, A. (2025). Artificial Intelligence Assisted Decision Support System for Forest Fire Crisis Management in Türkiye, MAKÜ BBBF Scientific Journal of Mehmet Akif Ersoy University.
