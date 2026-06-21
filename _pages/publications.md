@@ -171,6 +171,23 @@ author_profile: true
 
 ## International Conference Proceedings
 
+- Toprak, A.G., & Onan, A. (2026). Knowledge Distillation for Biomedical Disease Named Entity Recognition with Improved BIO Tag Consistency. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Uysal, H., & Onan, A. (2026). MA-RAG: A Training-Free Multi-Agent Retrieval-Augmented Generation Pipeline with Unified Benchmarking. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Uysal, A., & Onan, A. (2026). Time Adaptive Retrieval-Augmented Generation for Turkish Legal Question Answering. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Gürkan, E., & Onan, A. (2026). Scalable Quality: A Comparative Benchmark of Lightweight Hybrid vs. Heavyweight Retrieval Models. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Holt, K., & Onan, A. (2026). Zero-Shot Information Retrieval Revisited: A Comprehensive Evaluation of Large Language Models and Classical Pipelines on the BEIR Benchmark. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Erkan, E., Celikten, T., Ergün, A., Onan, A. (2026). Machine Learning-Based Detection of Phishing URLs Without Semantic Features. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Mercan, Ö.B., Turhan, N., & Onan, A. (2026). Comparative Benchmarking of Multi-Label Text Classification Methods for Biomedical Texts. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Çiçek, D., & Onan, A. (2026). Readability–Reuse Trade-offs in LLM-Based Text Simplification Across Scientific and Encyclopedic Domains. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Mumcu, S., Yılmaz, Y., Celikten, T., Onan, A., Ergün, A. (2026). Beyond Diagnosis: Evaluating Clinical Reasoning Capabilities of Large Language Models on the CupCase Benchmark. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Özçetin, A., & Onan, A. (2026). CTI-BERT–Driven Multi-Label Mapping of MITRE ATT&CK Techniques from Cyber Threat Intelligence Reports. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Gülsoy, G., & Onan, A. (2026). Benchmarking Retrieval-Supported Large Language Models for Open-Domain Question Answering. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Karimli, I., & Onan, A. (2026). Benchmarking Retrieval Strategies for Long-Document Summarization. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Kaçıkan, E., Ceran, İ., Kaçmaz, Y., & Onan, A. (2026). Benchmarking Bias Detection in Large Language Models: A Unified Evaluation across Fairness, Categories, and Language Use. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
+- Satır, F., Serçe, A., & Onan, A. (2026). An Autonomous Multi-Model Framework for Quantifying Jailbreak Vulnerabilities in Large Language Models. In 3rd International Conference on Emerging Trends and Applications in Artificial Intelligence (ICETAI 2026).
+- Tarım, İ., & Onan, A. (2026). Can You Detect the Difference? Detecting Diffusion vs. Autoregressive AI-Generated Text. In 3rd International Conference on Emerging Trends and Applications in Artificial Intelligence (ICETAI 2026).
+- Ulusoy, E., Bayrak, B., & Onan, A. (2026). Identifying AI-Generated Code Through AST-Based Stylometric Feature Analysis: A Case Study on Python. In 3rd International Conference on Emerging Trends and Applications in Artificial Intelligence (ICETAI 2026).
+- Koyun, F.T, & Onan, A. (2026). A Compact Comparative Evaluation of Multimodal Reasoning Models for Mechanism Interpretation and Industrial Defect Analysis. In 3rd International Conference on Emerging Trends and Applications in Artificial Intelligence (ICETAI 2026).
 - Toprak, A.G., & Onan, A. (2025). Benchmarking Intelligent Large Language Models for Biomedical Text Summarization: A Performance Evaluation. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
 - Aydoğmuş, B., Yüksel, S., Çelikten, T., Ergün, A.E., & Onan, A. (2025). Beyond Resumes: Multi-Dimensional Analysis Based Job and CV Matching. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
 - Erkan, E.E., Kömürcü, M.A., Çelikten, T., Ergün, A.E., & Onan, A. (2025). Understanding Large Language Model Performance in Question Answering: A Comparative Analysis of Semantic and Lexical Metrics. In International Conference on Intelligent and Fuzzy Systems (INFUS 2025).
