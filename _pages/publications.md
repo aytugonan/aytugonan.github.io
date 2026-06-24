@@ -15,6 +15,7 @@ author_profile: true
 - Onan, A. (2026). HiCoSpanTM: A Hierarchical Contrastive and Span-Aware Topic Modeling Framework, Expert Systems with Applications.
 - Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
 - Ursavaş, Ö.F., Onan, A., Durak, H.Y., & Akçayır, İ. (2026). Prompt-Driven Variations in Human, LLM, and AI-human Collaborative Writing in Computer Science Courses: A Multilayer Analysis of Linguistic Diversity, Semantic Coherence, and Discourse Quality, Interactive Learning Environments.
+- Nasution, A.H., Ergün, A.E., Onan, A., & Monika, W. (2026). Survey on Adversarial Prompt Generation and Robustness Analysis in Large Language Models. IEEE Access.
 - Onan, A., Nasution, A.H., & Celikten, T. (2026). When does instruction tuning work in biomedical nlp? A structural, task-aware, and safety-critical evaluation of large language models. IEEE Access.
 - Şenyayla, B., & Onan, A. (2026). HalluBench: A Multi-LLM Benchmark for Hallucination Evaluation and Reliability Analysis. CMC- Computers, Materials & Continua.
 - Durak, H.Y., & Onan, A. (2026). A Multidimensional Comparative Analysis of Human Expert vs. AI-Driven Feedback Approaches on Learner-Centered Collaborative Groups, Interactive Learning Environments. 
