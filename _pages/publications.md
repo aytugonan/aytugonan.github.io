@@ -14,6 +14,7 @@ author_profile: true
 
 - Onan, A. (2026). HiCoSpanTM: A Hierarchical Contrastive and Span-Aware Topic Modeling Framework, Expert Systems with Applications.
 - Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
+- Onan, A., Nasution, A.H., & Eğin, F. (2026). Curriculum Guided Contrastive Learning for Low Resource Cross Lingual Named Entity Recognition in Turkic and Austronesian Languages, Discover Computing.
 - Ursavaş, Ö.F., Onan, A., Durak, H.Y., & Akçayır, İ. (2026). Prompt-Driven Variations in Human, LLM, and AI-human Collaborative Writing in Computer Science Courses: A Multilayer Analysis of Linguistic Diversity, Semantic Coherence, and Discourse Quality, Interactive Learning Environments.
 - Nasution, A.H., Ergün, A.E., Onan, A., & Monika, W. (2026). Survey on Adversarial Prompt Generation and Robustness Analysis in Large Language Models. IEEE Access.
 - Onan, A., Nasution, A.H., & Celikten, T. (2026). When does instruction tuning work in biomedical nlp? A structural, task-aware, and safety-critical evaluation of large language models. IEEE Access.
