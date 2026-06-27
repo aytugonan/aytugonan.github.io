@@ -57,6 +57,7 @@ Academic Experience
 
 Administrative Positions Held
 ====
+* **Executive Board Member**, Graduate School, İzmir Institute of Technology, İzmir/Turkey, February 2026-present.
 * **Founding Department Head**, Department of Artificial Intelligence and Data Engineering, İzmir Katip Çelebi University, İzmir/Turkey, February 2024-September 2025.
 * **Vice Director**, Institute of Natural Sciences, İzmir Katip Celebi University, İzmir/Turkey, November 2023-September 2025.
 * **Vice Head**, Department of Computer Engineering, İzmir Katip Çelebi University, İzmir/Turkey, December 2023-September 2025.
