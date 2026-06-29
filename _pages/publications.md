@@ -14,6 +14,7 @@ author_profile: true
 
 - Onan, A. (2026). HiCoSpanTM: A Hierarchical Contrastive and Span-Aware Topic Modeling Framework, Expert Systems with Applications.
 - Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
+- Onan, A., Özger, F., & Turhan, N. (2026). q-Parametric Bezier-Driven Functional Kolmogorov-Arnold Networks for Biomedical Image Enhancement and Segmentation, Expert Systems with Applications.
 - Onan, A., Nasution, A.H., & Eğin, F. (2026). Curriculum Guided Contrastive Learning for Low Resource Cross Lingual Named Entity Recognition in Turkic and Austronesian Languages, Discover Computing.
 - Ursavaş, Ö.F., Onan, A., Durak, H.Y., & Akçayır, İ. (2026). Prompt-Driven Variations in Human, LLM, and AI-human Collaborative Writing in Computer Science Courses: A Multilayer Analysis of Linguistic Diversity, Semantic Coherence, and Discourse Quality, Interactive Learning Environments.
 - Bakkab, H. E., Onan, A., Bilisik, E., & Bilisik, K. (2026). Predicting interfacial pull-out performance of nano-B4C/aramid material with stage-wise physics-guided machine learning. Polymers.
