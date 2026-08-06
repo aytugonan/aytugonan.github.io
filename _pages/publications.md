@@ -19,6 +19,7 @@ author_profile: true
 - Onan, A., Nasution, A.H., & Eğin, F. (2026). Curriculum Guided Contrastive Learning for Low Resource Cross Lingual Named Entity Recognition in Turkic and Austronesian Languages, Discover Computing.
 - Ursavaş, Ö.F., Onan, A., & Durak, H.Y. (2026). Benchmarking human and AI-generated writings in higher education: A multilayered study on creativity, coherence, and student perception across linguistic, semantic, and evaluative features. IEEE Access.
 - Ursavaş, Ö.F., Onan, A., Durak, H.Y., & Akçayır, İ. (2026). Prompt-Driven Variations in Human, LLM, and AI-human Collaborative Writing in Computer Science Courses: A Multilayer Analysis of Linguistic Diversity, Semantic Coherence, and Discourse Quality, Interactive Learning Environments.
+- Toprak, A. G., & Onan, A. (2026). Knowledge Distillation for Biomedical Text Classification: A Systematic Comparative Analysis of Multiple Teacher–Student Architectures. CMC- Computers, Materials & Continua.
 - Bakbak, H. E., Onan, A., Bilisik, E., & Bilisik, K. (2026). Predicting interfacial pull-out performance of nano-B4C/aramid material with stage-wise physics-guided machine learning. Polymers.
 - Nasution, A.H., Ergün, A.E., Onan, A., & Monika, W. (2026). Response-Only Adversarial Detection of LLM Outputs: A Comparative Study of Lexical, Contrastive, and Contextual Representations. IEEE Access.
 - Nasution, A.H., Ergün, A.E., Onan, A., & Monika, W. (2026). Survey on Adversarial Prompt Generation and Robustness Analysis in Large Language Models. IEEE Access.
@@ -94,6 +95,7 @@ author_profile: true
 
 ## Other International Journal Papers
 
+- Egin, F., Durak, A., & Onan, A.(2026). Evaluating LLM-Generated Questions Across Zero-shot, One-shot, and Few-shot Prompting Strategies and Different Parameter Sizes. Quality & Quantity. 
 - Hanafiah, A., Monika, W., Nasution, A. H., Onan, A., Murakami, Y., & Nasution, H. O. (2026). Zero-Shot Multimodal Sentiment Analysis Using LVLMs as a Triage Signal for Video Platform Moderation. Digital, 6(2), 40.
 - Shalawati, S., Nasution, A.H., Monika, W., Derin, T., Onan, A., & Murakami (2026). Beyond BLEU: GPT-5, Human Judgment, and Classroom Validation for Multidimensional Machine Translation Evaluation. Digital.
 - Çelikten, T., & Onan, A. (2025).  Exploring Graph-Based Techniques in Text Data Processing: A Comprehensive Survey of NLP Advancements. ICCK Transactions on Emergint Topics in Artificial Intelligence.
