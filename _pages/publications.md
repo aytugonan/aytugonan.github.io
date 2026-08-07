@@ -12,6 +12,7 @@ author_profile: true
 
 ## International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
+- Mercan, O.B., Turhan, N., & Onan, A. (2026). Enhancing Biomedical Multi-Label Text Classification via Topic-Based Text Representation. CMC- Computers, Materials & Continua.
 - Onan, A. (2026). HiCoSpanTM: A Hierarchical Contrastive and Span-Aware Topic Modeling Framework, Expert Systems with Applications.
 - Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
 - Durak, H.Y., & Onan, A. (2026). A Multilayered Analysis of University Students’ Experiences with Human and AI-Based Feedback: A Comparative Examination of BERTTopic, LLM Models, and Mixture of Agents Approaches, Thinking Skills and Creativity.
