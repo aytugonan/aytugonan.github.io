@@ -96,6 +96,7 @@ author_profile: true
 
 ## Other International Journal Papers
 
+- Monika, W., Nasution, A.H., Onan, A., Murakami, Y., & Dewi, D.A. (2026). Controlled Thematic Prompting for Indonesian Quran QA Dataset Construction with Matched Cross-Generator LLM Validation. Natural Language Processing Journal.
 - Egin, F., Durak, A., & Onan, A.(2026). Evaluating LLM-Generated Questions Across Zero-shot, One-shot, and Few-shot Prompting Strategies and Different Parameter Sizes. Quality & Quantity. 
 - Hanafiah, A., Monika, W., Nasution, A. H., Onan, A., Murakami, Y., & Nasution, H. O. (2026). Zero-Shot Multimodal Sentiment Analysis Using LVLMs as a Triage Signal for Video Platform Moderation. Digital, 6(2), 40.
 - Shalawati, S., Nasution, A.H., Monika, W., Derin, T., Onan, A., & Murakami (2026). Beyond BLEU: GPT-5, Human Judgment, and Classroom Validation for Multidimensional Machine Translation Evaluation. Digital.
