@@ -12,6 +12,7 @@ author_profile: true
 
 ## International Journal Papers (Indexed in SCI, SCI-Expanded, or SSCI)
 
+- Egin, F., & Onan, A. (2026). KNoT-ViS: Knowledge-Anchored Hierarchical Narrative Graph Learning for Multimodal Video Summarization, Expert Systems with Applications.
 - Mercan, O.B., Turhan, N., & Onan, A. (2026). Enhancing Biomedical Multi-Label Text Classification via Topic-Based Text Representation. CMC- Computers, Materials & Continua.
 - Onan, A. (2026). HiCoSpanTM: A Hierarchical Contrastive and Span-Aware Topic Modeling Framework, Expert Systems with Applications.
 - Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
