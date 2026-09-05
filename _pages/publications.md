@@ -185,6 +185,19 @@ author_profile: true
 
 ## International Conference Proceedings
 
+- Doğan, E., & Onan, A. (2026). Benchmarking the performance of large language models for radiology report generation. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Teker, Ö.F., Kaçıkan, E., & Onan, A. (2026).  Biomedical QA: Factorial Study of Architecture and PEFT on PubMedQA. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Özkaya, A., Kaçıkan, E., & Onan, A. (2026).  ClapCap: CLAP Prefix for Music Captioning. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Özçetin, A.E., Uysal, A.S., Kaçıkan, E., & Onan, A. (2026).  CodeEnhancer Model Comparison: Evaluating Security-Aware Code Generation Across Open-Source LLMs and Prompt Engineering Strategies. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Şimşek, Ş., Kaçıkan, E., & Onan, A. (2026). Hierarchical Knowledge Distillation Under Data Scarcity: An Empirical Study of Depth Dynamics. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Temelci, S.U., Cakal, O., Kaçıkan, E., & Onan, A. (2026).  In-Context Learning: Chain-of-Thought vs. Tree-of-Thoughts Prompting on Multi-Step Reasoning. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Güven, S., Aksu, T., Toklu, B., Kaçıkan, E., & Onan, A. (2026).  Mechanistic Interpretability of Factual Recall in GPT-2: Attention-Head Ablation and Causal Tracing. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Türkyılmaz, A., Kargılı, B., Kumbaracı, A., Kaçıkan, E., & Onan, A. (2026). Modeling Epistemic Uncertainty for Hallucination Detection in Large Language Models. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Öngün, D., Buck, F., Kaçıkan, E., & Onan, A. (2026). Parameter-Efficient Fine-Tuning Ensembles for Sentiment Analysis. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Erdoğan, O., Kaçıkan, E., & Onan, A. (2026).  Probabilistic Forecasting with Anomaly Injection. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Serçe, A., Kaçıkan, E., & Onan, A. (2026). Quantifying and Mitigating Social Bias in Language Generation: A Multi-Metric Evaluation of Toxicity-Aware Reranking and Prompt-Based Debiasing. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Çalışkan, Ç, Kaçıkan, E., & Onan, A. (2026).  Synthetic Data Distillation from Large Language Models for Turkish Abstractive News Summarization. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
+- Dura, M., Kaçıkan, E., & Onan, A. (2026). When Hard Negatives Are Not Enough: A Query-Difficulty Analysis of Dense Retrieval Fine-Tuning. In 10th International Artificial Intelligence and Data Processing Symposium (IDAP 2026).
 - Toprak, A.G., & Onan, A. (2026). Knowledge Distillation for Biomedical Disease Named Entity Recognition with Improved BIO Tag Consistency. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
 - Uysal, H., & Onan, A. (2026). MA-RAG: A Training-Free Multi-Agent Retrieval-Augmented Generation Pipeline with Unified Benchmarking. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
 - Uysal, A., & Onan, A. (2026). Time Adaptive Retrieval-Augmented Generation for Turkish Legal Question Answering. In International Conference on Intelligent and Fuzzy Systems (INFUS 2026).
