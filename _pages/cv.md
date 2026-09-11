@@ -360,6 +360,7 @@ Awards
 Graduate Student Supervision
 ====
 **Ph.D. Students**
+- Tuğba Çelikten (2026). The Implementation of A Multi-Agent Large Language Model Based Architecture for Biomedical Natural Language Processing, Ph.D. in Computer Engineering, Izmir Katip Celebi University.
 - Azer Çelikten (2024). Medical Information Extraction Using Deep Learning Methods, Ph.D. in Computer Engineering, Ege University (Co-supervised with Prof. Dr. H. Bulut).
 - Mehmet Akif Özdemir (2025). Image-Based Representations of Physiological Signals: Deep Learning Approaches for Predictive Medicine, Ph.D. in Biomedical Technologies, Izmir Katip Celebi University (Co-supervised with Assist. Prof. Dr. O.Güren).
 - Tuğba Çelikten (2026). The implementation of a multi-agent large language model based architecture for biomedical natural language processing. Ph.D. in Computer Engineering, Izmir Katip Celebi University.
