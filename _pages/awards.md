@@ -13,6 +13,12 @@ redirect_from:
 - Listed in **“Most Influential Scientists of the World – 2026”**
 Recognized by a research team led by Dr. John Ioannidis from Stanford University, USA. This list, prepared by US and Dutch scientists, is based on an evaluation of millions of academics worldwide.
 
+- Listed in **“Highly Ranked Scholar – Prior Five Years (All Fields of Scholarly Endeavor) – 2026”**
+Recognized by **ScholarGPS** in recognition of exceptional productivity, noteworthy impact, and quality of scholarly work, ranking in the top 0.05% of 30 million scholars worldwide.
+
+- Listed in **“Top Cited Scholars – 2026”**  
+  *Created by Scilit.*
+
 - Listed in **“Top Cited Scholars – 2025”**  
   *Created by Scilit.*
   
