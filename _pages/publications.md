@@ -14,7 +14,8 @@ author_profile: true
 
 - Onan, A., Bulut, V., & Ezgi, A. (2027). Counterfactual Diffusion and Geometry-Aware Prototype Transport for Class-Imbalanced Dermoscopic Image Classification, Neurocomputing.
 - Erdogan, H., Turan, N., & Onan, A. (2027). Structural Entropy Minimization for Code Authorship and Provenance Analysis Across Programming Paradigms, Information and Software Technology.
-- Egin, F., & Onan, A. (2026). KNoT-ViS: Knowledge-Anchored Hierarchical Narrative Graph Learning for Multimodal Video Summarization, Expert Systems with Applications.
+- Egin, F., & Onan, A. (2027). KNoT-ViS: Knowledge-Anchored Hierarchical Narrative Graph Learning for Multimodal Video Summarization, Expert Systems with Applications.
+- Balbal, K.F., & Onan, A. (2026). CalibFair-Judge: A Bias-Aware and Calibrated LLM-as-a-Judge Framework for Reliable Fairness-Sensitive Response Evaluation, IEEE Access.
 - Mercan, O.B., Turhan, N., & Onan, A. (2026). Enhancing Biomedical Multi-Label Text Classification via Topic-Based Text Representation. CMC- Computers, Materials & Continua.
 - Onan, A. (2026). HiCoSpanTM: A Hierarchical Contrastive and Span-Aware Topic Modeling Framework, Expert Systems with Applications.
 - Onan, A. (2026). GraphCycle-CLTM: A Cycle-Consistent Graph Contrastive Framework for Neural Topic Modeling, Knowledge-Based Systems.
